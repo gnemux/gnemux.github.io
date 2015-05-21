@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About
+title: Philosophy
 ---
 
-Hello There ~
+>  ***Simplicity Is The Ultimate Sophistication***
 
-You can reach me at:
+My Name is ***_XUMENG_*** | Reach Me At
 
-+ Mail: gnemux@gmail.com
++ Email: gnemux@gmail.com
 
 + Twitter: @Gnemux
 
 + Facebook: Gnemux
 
 + HomePage: http://xumeng.me
-
-
-> ***Simplicity Is The Ultimate Sophistication***

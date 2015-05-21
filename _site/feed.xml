@@ -6,8 +6,8 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's A Simple Jekyll Blog By xumeng</description>
     <language>en-us</language>
-    <pubDate>Thu, 21 May 2015 18:08:17 +0800</pubDate>
-    <lastBuildDate>Thu, 21 May 2015 18:08:17 +0800</lastBuildDate>
+    <pubDate>Thu, 21 May 2015 23:30:38 +0800</pubDate>
+    <lastBuildDate>Thu, 21 May 2015 23:30:38 +0800</lastBuildDate>
 
     
       <item>
@@ -20,6 +20,8 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;把技术博客架设在github上, 用终端来发布post, 大爱Markdown, 逼格自然来&lt;/p&gt;
+
+&lt;p&gt;Hello World&lt;/p&gt;
 </description>
       </item>
     
