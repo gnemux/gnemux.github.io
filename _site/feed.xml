@@ -6,22 +6,20 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's A Simple Jekyll Blog By xumeng</description>
     <language>en-us</language>
-    <pubDate>Thu, 21 May 2015 17:37:30 +0800</pubDate>
-    <lastBuildDate>Thu, 21 May 2015 17:37:30 +0800</lastBuildDate>
+    <pubDate>Thu, 21 May 2015 17:49:11 +0800</pubDate>
+    <lastBuildDate>Thu, 21 May 2015 17:49:11 +0800</lastBuildDate>
 
     
       <item>
-        <title>这是个测试页面</title>
-        <link>/test-post</link>
+        <title>第一个发布在Jekyll+Github上的Post</title>
+        <link>/first-post</link>
         <pubDate>Thu, 21 May 2015 00:00:00 +0800</pubDate>
         <author>xumeng</author>
-        <description>&lt;h2&gt;Hello This is a Test Post&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;i&amp;#39;m a brand new post ~&lt;/p&gt;
-
-&lt;p&gt;Let&amp;#39;s try out some markdown&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Blogging as a developer, you should post via command line!&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;把技术博客架设在github上，用终端来发布post，逼格自然来&lt;/p&gt;
 </description>
       </item>
     
