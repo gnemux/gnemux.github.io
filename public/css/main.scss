@@ -241,11 +241,24 @@ dl,
 /*============================================================================*/
 #logo {
   display: inline-block;
-  height: 110px;
-  width: 110px;
+  height: 90px;
+  width: 90px;
+  margin-top: 10px;
   background-size: 90px 90px;
-  background-position: left center;
+  background-position: center;
   background-repeat: no-repeat;
+
+  //圆形效果
+  border-radius:100%;-moz-border-radius:100%;
+
+  //动画效果
+  -webkit-transition:.5s;-moz-transition:.5s;-o-transition:.5s;-moz-transition-duration:.5s;-o-transition-duration:.5s;transition:.5s;
+
+}
+
+//动画效果
+#logo:hover{
+  -webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);
 }
 
 /*============================================================================*/
