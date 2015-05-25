@@ -8,4 +8,6 @@ title: 第一个发布在Jekyll+Github上的Post
 
 把技术博客架设在github上, 用终端来发布post, 大爱Markdown, 逼格自然来
 
+试试用CodeHub在手机上改下post
+
 Hello World
