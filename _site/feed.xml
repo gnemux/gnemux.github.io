@@ -6,9 +6,18 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's A Simple Jekyll Blog By xumeng</description>
     <language>en-us</language>
-    <pubDate>Mon, 25 May 2015 09:51:48 +0800</pubDate>
-    <lastBuildDate>Mon, 25 May 2015 09:51:48 +0800</lastBuildDate>
+    <pubDate>Mon, 25 May 2015 20:35:34 +0800</pubDate>
+    <lastBuildDate>Mon, 25 May 2015 20:35:34 +0800</lastBuildDate>
 
+    
+      <item>
+        <title>试试在post里插入图片</title>
+        <link>/try-image</link>
+        <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
+        <author>xumeng</author>
+        <description>&lt;p&gt;&lt;img src=&quot;/public/upload/traffic-chart.png&quot; alt=&quot;Traffic Data Chart&quot;&gt;&lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>第一个发布在Jekyll+Github上的Post</title>
