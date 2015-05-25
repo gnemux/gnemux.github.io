@@ -7,7 +7,7 @@ title: Philosophy
 
 ----
 
-My Name is ***_XUMENG_*** | Reach Me At
+My Name is ***_XUMENG_*** | Reach Me By
 
 + Email: gnemux@gmail.com
 

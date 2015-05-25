@@ -6,8 +6,8 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's A Simple Jekyll Blog By xumeng</description>
     <language>en-us</language>
-    <pubDate>Fri, 22 May 2015 11:36:00 +0800</pubDate>
-    <lastBuildDate>Fri, 22 May 2015 11:36:00 +0800</lastBuildDate>
+    <pubDate>Mon, 25 May 2015 09:51:48 +0800</pubDate>
+    <lastBuildDate>Mon, 25 May 2015 09:51:48 +0800</lastBuildDate>
 
     
       <item>
@@ -16,7 +16,7 @@
         <pubDate>Thu, 21 May 2015 00:00:00 +0800</pubDate>
         <author>xumeng</author>
         <description>&lt;blockquote&gt;
-&lt;p&gt;Blogging as a developer, you should post via command line!&lt;/p&gt;
+&lt;p&gt;Blogging as a developer, let&amp;#39;s post via command line!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;把技术博客架设在github上, 用终端来发布post, 大爱Markdown, 逼格自然来&lt;/p&gt;
