@@ -11,11 +11,11 @@ titile: My Ability Stack
 	* Patterns ( 积累中 )		
 	* Frameworks	
 
-| Patterns        | Frameworks    | 
-| :-------------: |:-------------:|
-|                 |               |
-|                 |               |
-|                 |               |
+| Patterns          | Frameworks    | 
+| :-------------:   |:-------------:|
+| **Zen of Pattern* |               |
+|                   |               |
+|                   |               |
 	
 
 * Architecture ( 积累中 )
@@ -44,15 +44,18 @@ titile: My Ability Stack
 
 | Basic           | Frameworks    | 
 | :-------------: |:-------------:|
-|                 |               |
+| * *Concept*     |               |
 |                 |               |
 |                 |               |
 
 * PM经验 ( 积累中 )
-	* TRIP
-	* TICC
-	* LWLK
-	* WZJT
+
+| Project               | Period        |
+| :-------------        |:------------- |
+| LWLK-I                | 2013          |
+| TICC                  | 2014          |
+| LWLK-II               | 2014          |
+| WZJT                  | 2015          |
 
 ----
 
@@ -63,7 +66,7 @@ titile: My Ability Stack
 
 | Pronunciation   | Grammar       |  Vocabulary   |
 | :-------------: |:-------------:| :----------:  |
-|                 |               |               |
+| * *Online Class*                |               |               |
 |                 |               |               |
 |                 |               |               |
 
@@ -79,3 +82,12 @@ titile: My Ability Stack
 |                 |               |               |            |
 |                 |               |               |            |
 |                 |               |               |            |
+
+----
+
+### 积累列表 *2015-05*
+
+* ***French Pronunciation***
+* ***Patterns 《Zen of Pattern》***
+* ***Python Basic Concept***
+
