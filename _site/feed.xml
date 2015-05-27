@@ -6,8 +6,8 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's A Simple Jekyll Blog By xumeng</description>
     <language>en-us</language>
-    <pubDate>Tue, 26 May 2015 22:17:23 +0800</pubDate>
-    <lastBuildDate>Tue, 26 May 2015 22:17:23 +0800</lastBuildDate>
+    <pubDate>Wed, 27 May 2015 22:22:03 +0800</pubDate>
+    <lastBuildDate>Wed, 27 May 2015 22:22:03 +0800</lastBuildDate>
 
     
       <item>
@@ -16,6 +16,8 @@
         <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
         <author>xumeng</author>
         <description>&lt;p&gt;&lt;img src=&quot;/public/upload/traffic-chart.png&quot; alt=&quot;Traffic Data Chart&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;从GH加载图片到国内还真不是一般的慢&lt;/p&gt;
 </description>
       </item>
     
