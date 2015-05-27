@@ -1,3 +1,8 @@
+---
+layout: page
+title: Future Plan
+---
+
 ### What I Want In The Future
 
 * **Life Quality** 
