@@ -27,6 +27,6 @@ title: Future Plan
 
 ### What I Should Do Now
 
-* Enjoy What I'm Doing. Work Hard Life Hard. Refine And Prepare.
+* Enjoy What I'm Doing. Work Hard Life Hard. Refine And Prepare.[Ability-Stack](/ability-stack/)
 * Try To Start A lucraitve Business Better Quality Recycle
 * Buy An Apartment Recently
