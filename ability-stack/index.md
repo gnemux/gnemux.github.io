@@ -1,6 +1,6 @@
 ---
 layout: page
-titile: My Ability Stack
+title: My Ability Stack
 ---
 
 现在总在说全栈的概念，理一理我的能力栈
