@@ -6,9 +6,21 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's A Simple Jekyll Blog By xumeng</description>
     <language>en-us</language>
-    <pubDate>Wed, 27 May 2015 22:28:24 +0800</pubDate>
-    <lastBuildDate>Wed, 27 May 2015 22:28:24 +0800</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2015 07:59:03 +0800</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 07:59:03 +0800</lastBuildDate>
 
+    
+      <item>
+        <title>IT'S REALLY A LONG TRIP</title>
+        <link>/a-long-trip</link>
+        <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+        <author>xumeng</author>
+        <description>&lt;p&gt;&lt;embed src=&quot;http://player.youku.com/player.php/sid/XMTI1NDMzNTU0MA==/v.swf&quot; allowFullScreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+
+&lt;p&gt;TRIP项目是一个城市交通数据中心，从2014年3月至2015年6月，这是我们创造它的过程&lt;br&gt;
+[This video is powered by &lt;a href=&quot;https://github.com/acaudwell/Gource&quot;&gt;Gource&lt;/a&gt;]&lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>试试在post里插入图片</title>
