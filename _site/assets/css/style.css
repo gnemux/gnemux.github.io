@@ -128,7 +128,7 @@ a {
     width: 100px;
     height: 100px;
     margin: 55px auto 35px;
-    background: url(https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=240);
+    background: url(https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=100);
     border-radius: 50%;
     box-shadow: 0 0 0px 4px white, 0 0 4px 4px #eee;
     overflow: hidden;
@@ -151,7 +151,7 @@ a {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     #avatar {
-        background: url(https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=240);
+        background: url(https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=200);
         -webkit-background-size: 100px 100px;
         -moz-background-size: 100px 100px;
         background-size: 100px 100px;
@@ -313,7 +313,7 @@ a {
 #mobile-avatar {
     width: 50px;
     height: 50px;
-    background: url(https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=240);
+    background: url(https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=100);
     -webkit-background-size: 50px 50px;
     -moz-background-size: 50px 50px;
     background-size: 50px 50px;
