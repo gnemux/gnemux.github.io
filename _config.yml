@@ -1,0 +1,12 @@
+markdown: redcarpet
+permalink: /:title
+
+url:
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
