@@ -37,7 +37,7 @@ html, body {
     height: 100%;
     margin: 0;
     /*font: 100 16px/1.5 Avenir, sans-serif;*/
-    font: 100 16px/1.5 "Arial", "Microsoft YaHei";
+    font: 100 16px/1.5 "Helvetica Neue", "Microsoft YaHei";
     -webkit-font-smoothing: subpixel-antialiased;
     -webkit-text-size-adjust: none;
     overflow: hidden;
@@ -255,7 +255,7 @@ a {
 
 .tags-btn {
     color: #a6a6a7;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
     -webkit-transition: color .3s, background .3s;
     -moz-transition: color .3s, background .3s;
     -ms-transition: color .3s, background .3s;
@@ -463,7 +463,7 @@ a {
 
 .pl__all,
 .pl__date{
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 /*---------------------------------*\
@@ -541,7 +541,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding-top: 1.1em;
     font-size: 2em;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 #post__content > p, #post__content > ul, #post__content > ol {
@@ -551,18 +551,18 @@ h1, h2, h3, h4, h5, h6 {
 
 #post__content > ol > li {
     margin: .5em 0;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 #post__content li > p {
     margin: 0;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 #post__content a {
     color: #7d8b99;
     word-break: break-all;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 #post__content a:hover {
@@ -675,7 +675,7 @@ iframe {
     margin: 0;
     padding: 0 10px 20px 15px;
     line-height: 1.6;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 .post__toc-li {
@@ -684,7 +684,7 @@ iframe {
     text-overflow: ellipsis;
     display: block;
     overflow: hidden;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 .post__toc-li:before {
@@ -699,23 +699,23 @@ iframe {
 .post__toc-h1 {
     font-size: 1em;
     list-style: none;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 .post__toc-h2 {
     font-size: .95em;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 .post__toc-h3 {
     margin-left: 12px;
     font-size: .9em;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 .post__toc-h3 + .post__toc-h2 {
     padding-top: .25em;
-    font-family: "Arial","Microsoft YaHei";
+    font-family: "Helvetica Neue","Microsoft YaHei";
 }
 
 .flash {
@@ -1637,7 +1637,7 @@ pre > code {
 /* Literal.Number.Integer.Long */
 
 /*profile img*/
-img[alt="宋仁伟"]{
+img[alt="Gnemux"]{
     width: 200px;
     height: 200px;
     -webkit-box-shadow: 0 0 15px rgba(0,0,0,0.5);
@@ -1651,7 +1651,7 @@ img[alt="宋仁伟"]{
 .page-404{
     width: 600px;
     margin: 50px auto;
-    font: 14px/1.5 "Arial", "Microsoft YaHei";
+    font: 14px/1.5 "Helvetica Neue", "Microsoft YaHei";
     text-align: center;
     background: #fafafa;
 }
@@ -1665,13 +1665,13 @@ img[alt="宋仁伟"]{
 .page-404 h2,
 .page-404 p {
     color: #D21414;
-    font-family: "Arial", "Microsoft YaHei";
+    font-family: "Helvetica Neue", "Microsoft YaHei";
 }
 
 .page-404 a {
     color: #2EB695;
     text-decoration: none;
-    font-family: "Arial", "Microsoft YaHei";
+    font-family: "Helvetica Neue", "Microsoft YaHei";
 }
 
 .page-404 ::selection{
