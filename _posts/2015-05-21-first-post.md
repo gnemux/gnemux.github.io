@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll & Github
+title: JEKYLL & GITHUB
 categories: logs
 ---
 

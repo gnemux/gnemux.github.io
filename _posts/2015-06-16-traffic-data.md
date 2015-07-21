@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traffic Data
+title: TRAFFIC DATA
 categories: t-data
 ---
 

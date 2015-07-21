@@ -6,12 +6,12 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 16 Jun 2015 18:44:37 +0800</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2015 18:44:37 +0800</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2015 14:18:23 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2015 14:18:23 +0800</lastBuildDate>
 
     
       <item>
-        <title>Traffic Data</title>
+        <title>TRAFFIC DATA</title>
         <link>/traffic-data</link>
         <pubDate>Tue, 16 Jun 2015 00:00:00 +0800</pubDate>
         <author></author>
@@ -81,7 +81,7 @@
       </item>
     
       <item>
-        <title>About Me</title>
+        <title>ABOUT ME</title>
         <link>/about</link>
         <pubDate>Tue, 16 Jun 2015 00:00:00 +0800</pubDate>
         <author></author>
@@ -101,7 +101,7 @@
       </item>
     
       <item>
-        <title>It's Really A Long TRIP</title>
+        <title>REALLY LONG TRIP</title>
         <link>/a-long-trip</link>
         <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
         <author></author>
@@ -113,7 +113,7 @@
       </item>
     
       <item>
-        <title>Try Image In Post</title>
+        <title>TRY IMAGE IN POST</title>
         <link>/try-image</link>
         <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
         <author></author>
@@ -122,7 +122,7 @@
       </item>
     
       <item>
-        <title>Jekyll & Github</title>
+        <title>JEKYLL & GITHUB</title>
         <link>/first-post</link>
         <pubDate>Thu, 21 May 2015 00:00:00 +0800</pubDate>
         <author></author>
