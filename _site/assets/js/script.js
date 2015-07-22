@@ -156,3 +156,62 @@ function afterPjax() {
   container.scroll(check);
 }afterPjax();
 
+
+//------------------------ ------------------------
+
+//关闭边栏-切换全屏
+function enableFullScreen(){
+
+    if(!button.hasClass('fullscreen')){
+        sidebar.addClass('fullscreen');
+        button.addClass('fullscreen');
+        content.delay(200).queue(function(){
+            $(this).addClass('fullscreen').dequeue();
+        });
+    }
+}
+
+//打开边栏-离开全屏
+function disabelFullScreen(){
+
+    if (button.hasClass('fullscreen')) {
+        sidebar.removeClass('fullscreen');
+        button.removeClass('fullscreen');
+        content.delay(300).queue(function(){
+            $(this).removeClass('fullscreen').dequeue();
+        });
+    }
+
+}
+
+//监听重置窗口事件-当窗口太小则关闭边栏
+function resizeWindow(){
+
+    var window_height = window.innerHeight;
+    var window_width = window.innerWidth;
+
+    if(window_width<=1285){
+        enableFullScreen();
+        try{
+            document.getElementById("pjax").style.height=window_height + "px";
+            document.getElementById("pjax").style.width=window_width + "px";
+            document.getElementById("post_out_div").style.height=window_height + "px";
+            document.getElementById("post_out_div").style.width=window_width + "px";
+        }catch(e){
+
+        }
+
+    }else{
+        disabelFullScreen();
+        try{
+            document.getElementById("pjax").style.height=window_height + "px";
+            document.getElementById("pjax").style.width=window_width-485 + "px";
+            document.getElementById("post_out_div").style.height=window_height + "px";
+            document.getElementById("post_out_div").style.width=window_width-485 + "px";
+        }catch(e){
+
+        }
+
+    }
+
+}

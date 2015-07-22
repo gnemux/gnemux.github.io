@@ -501,7 +501,7 @@ a {
 }
 
 #pjax {
-    padding: 0 5% 30px;
+    /*padding: 0 5% 30px;*/
 }
 
 #pjax.fadeIn {
@@ -537,6 +537,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
 
+h2 {
+    margin: 0;
+    padding: 35px 0 0 35px;
+}
+
 #post__title {
     margin: 0;
     padding-top: 1.1em;
@@ -545,7 +550,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #post__content > p, #post__content > ul, #post__content > ol {
-    margin-top: 1.5em;
+    /*margin-top: 1.5em;*/
     margin-bottom: 1.5em;
     font-family: 'Open Sans', 'Hiragino Sans GB', sans-serif;
 }
@@ -839,8 +844,8 @@ iframe {
 }
 
 #pjax.fullscreen {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 1920px;
+    margin: 0 100px 0 200px;
 }
 
 #js-fullscreen, #nprogress .spinner-icon {

@@ -3,29 +3,197 @@ layout: index
 title: xumeng.me
 ---
 
-<article id="post__content">
+<style type="text/css">
+.bgimg {
+    background: url('http://7xkj65.com1.z0.glb.clouddn.com/indexBackground-night-star') no-repeat;
+    background-size: 100% 100%;
+}
 
-    <h1>Hi, I&#39;m Gnemux</h1>
+</style>
 
-    <p>Reach Me By</p>
+<div class="bgimg" id="post_out_div">
 
-    <ul>
-        <li><p>Email: gnemux@gmail.com</p></li>
-        <li><p>Twitter: @Gnemux</p></li>
-        <li><p>Facebook: Gnemux</p></li>
-        <li><p>HomePage: http://xumeng.me</p></li>
-    </ul>
+<article id="post__content" style="color: white">
+
+    <h2 class="index-h1">HI I&#39;M GNEMUX</h2>
 
     <blockquote>
         <p><strong><em>Simplicity Is The Ultimate Sophistication</em></strong></p>
     </blockquote>
 
+    <ul style="font-size: 15px">
+        <li><p>Home: http://xumeng.me</p></li>
+        <li><p>Email: gnemux@gmail.com</p></li>
+        <li><p>Twitter: @gnemux</p></li>
+    </ul>
+
+
 </article> <!-- end #post__content -->
 
 
+<div id="particles-js"></div>
 
-<p id="copyright">
+<div>
+
+    <br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+    <br><br><br><br>
+
+</div>
+
+<p id="copyright" style="color: white">
     THIS WORK IS LICENSED UNDER A <a rel="license" href="http://mit-license.org/">MIT LICENSE</a>.<br>
     THANKS TO <a href="https://github.com/P233">PEIWEN LU</a> for <a href="https://github.com/P233/3-Jekyll">3-JEKYLL THIS TEMPLATE</a>. <br>
     COPYRIGHT © 2015 <a href="http://dev.xumeng.me/">DEV.XUMENG.ME</a> ALL RIGHTS RESERVED.
 </p>
+
+
+
+</div>
+
+<script src="/assets/js/jquery-2.0.3.min.js"></script>
+<script src="/assets/js/jquery.pjax.js"></script>
+<script src="/assets/js/script.js"></script>
+<script src="/assets/js/particles.min.js"></script>
+
+<style>
+
+    canvas {
+        display: block;
+        vertical-align: top;
+    }
+
+    #particles-js {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        /*background-color: #000000;*/
+        /*background-image: url("");*/
+        /*background-repeat: no-repeat;*/
+        /*background-size: cover;*/
+        /*background-position: 100% 100%;*/
+    }
+
+</style>
+
+<script>
+
+    particlesJS("particles-js", {
+        "particles": {
+            "number": {
+                "value": 80,
+                "density": {
+                    "enable": true,
+                    "value_area": 800
+                }
+            },
+            "color": {
+                "value": "#ffffff"
+            },
+            "shape": {
+                "type": "circle",
+                "stroke": {
+                    "width": 0,
+                    "color": "#000000"
+                },
+                "polygon": {
+                    "nb_sides": 5
+                },
+                "image": {
+                    "src": "img/github.svg",
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "opacity": {
+                "value": 0.5,
+                "random": false,
+                "anim": {
+                    "enable": false,
+                    "speed": 1,
+                    "opacity_min": 0.1,
+                    "sync": false
+                }
+            },
+            "size": {
+                "value": 3,
+                "random": true,
+                "anim": {
+                    "enable": false,
+                    "speed": 40,
+                    "size_min": 0.1,
+                    "sync": false
+                }
+            },
+            "line_linked": {
+                "enable": true,
+                "distance": 150,
+                "color": "#ffffff",
+                "opacity": 0.4,
+                "width": 1
+            },
+            "move": {
+                "enable": true,
+                "speed": 6,
+                "direction": "none",
+                "random": false,
+                "straight": false,
+                "out_mode": "out",
+                "bounce": false,
+                "attract": {
+                    "enable": false,
+                    "rotateX": 600,
+                    "rotateY": 1200
+                }
+            }
+        },
+        "interactivity": {
+            "detect_on": "canvas",
+            "events": {
+                "onhover": {
+                    "enable": true,
+                    "mode": "grab"
+                },
+                "onclick": {
+                    "enable": true,
+                    "mode": "push"
+                },
+                "resize": true
+            },
+            "modes": {
+                "grab": {
+                    "distance": 140,
+                    "line_linked": {
+                        "opacity": 1
+                    }
+                },
+                "bubble": {
+                    "distance": 400,
+                    "size": 40,
+                    "duration": 2,
+                    "opacity": 8,
+                    "speed": 3
+                },
+                "repulse": {
+                    "distance": 200,
+                    "duration": 0.4
+                },
+                "push": {
+                    "particles_nb": 4
+                },
+                "remove": {
+                    "particles_nb": 2
+                }
+            }
+        },
+        "retina_detect": true
+    });
+
+    resizeWindow();
+
+    window.onresize = resizeWindow;
+
+</script>

@@ -36,6 +36,7 @@
   </head>
   <body>
     <aside id="sidebar">
+
       <nav id="tags">
         <a href="/index.html" id="avatar"></a>
           <div id="tags__bottom">
@@ -84,11 +85,14 @@
         
         </nav>
       </div> <!-- end #posts-list -->
+
     </aside> <!-- end #sidebar -->
 
     <div id="post">
-      <div id="pjax">
-        <article id="post__content">
+
+        <div id="pjax">
+          <div style="padding: 0 5% 30px;">
+<article id="post__content">
   <h1 id="post__title" data-identifier=" 20150616 ">ABOUT ME</h1>
   <p>Hi, I&#39;m Gnemux, Reach Me By</p>
 
@@ -116,8 +120,8 @@
 &nbsp;
 
 <p id="copyright">COPYRIGHT © 2015 <a href="http://dev.xumeng.me/">DEV.XUMENG.ME</a> ALL RIGHTS RESERVED.</p>
-
-      </div> <!-- end #pjax -->
+</div>
+        </div> <!-- end #pjax -->
 
       <!--<div id="post__toc-trigger">-->
         <!--<div id="post__toc">-->
@@ -133,5 +137,14 @@
     <script src="/assets/js/jquery.pjax.js"></script>
     <script src="/assets/js/nprogress.js"></script>
     <script src="/assets/js/script.js"></script>
+
+    <script>
+
+      resizeWindow();
+
+      window.resize = resizeWindow();
+
+    </script>
+
   </body>
 </html>
