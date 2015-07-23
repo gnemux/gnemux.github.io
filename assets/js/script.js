@@ -162,30 +162,32 @@ function afterPjax() {
 //关闭边栏-切换全屏
 function enableFullScreen(){
 
-    if(!button.hasClass('fullscreen')){
+    //if(!button.hasClass('fullscreen')){
         sidebar.addClass('fullscreen');
         button.addClass('fullscreen');
         content.delay(200).queue(function(){
             $(this).addClass('fullscreen').dequeue();
         });
-    }
+    //}
 }
 
 //打开边栏-离开全屏
 function disabelFullScreen(){
 
-    if (button.hasClass('fullscreen')) {
+    //if (button.hasClass('fullscreen')) {
         sidebar.removeClass('fullscreen');
         button.removeClass('fullscreen');
         content.delay(300).queue(function(){
             $(this).removeClass('fullscreen').dequeue();
         });
-    }
+    //}
 
 }
 
 //监听重置窗口事件-当窗口太小则关闭边栏
 function resizeWindow(){
+
+    window.onresize = resizeWindow;
 
     var window_height = window.innerHeight;
     var window_width = window.innerWidth;
@@ -214,4 +216,21 @@ function resizeWindow(){
 
     }
 
+    toggleFullScreenButton();
+
+}
+
+
+//判断是否在首页关闭全屏按钮
+function toggleFullScreenButton(){
+
+    var window_width = window.innerWidth;
+
+    if(window_width<=1285){
+
+        $("#js-fullscreen").show();
+
+    }else{
+        $("#js-fullscreen").hide();
+    }
 }
