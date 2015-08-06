@@ -6,8 +6,8 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 23 Jul 2015 15:28:33 +0800</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2015 15:28:33 +0800</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2015 15:25:14 +0800</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2015 15:25:14 +0800</lastBuildDate>
 
     
       <item>
@@ -83,34 +83,16 @@
       </item>
     
       <item>
-        <title>ABOUT ME</title>
-        <link>/about</link>
-        <pubDate>Tue, 16 Jun 2015 00:00:00 +0800</pubDate>
-        <author></author>
-        <description>&lt;p&gt;Hi, I&amp;#39;m Gnemux, Reach Me By&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Email: gnemux@gmail.com&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Twitter: @Gnemux&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Facebook: Gnemux&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;HomePage: http://xumeng.me&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Simplicity Is The Ultimate Sophistication&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-      </item>
-    
-      <item>
         <title>REALLY LONG TRIP</title>
         <link>/a-long-trip</link>
         <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
         <author></author>
         <description>&lt;p&gt;&lt;embed src=&quot;http://player.youku.com/player.php/sid/XMTI1NDMzNTU0MA==/v.swf&quot; allowFullScreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;800&quot; height=&quot;500&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
 &lt;p&gt;TRIP项目是一个城市交通数据中心，从2014年3月至2015年6月，这是我们创造它的过程( git history )&lt;br&gt;
 [This video is powered by &lt;a href=&quot;https://github.com/acaudwell/Gource&quot;&gt;Gource&lt;/a&gt;]&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
       </item>
     
@@ -121,7 +103,9 @@
         <author></author>
         <description>&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Stilt%20Fishermen@SriLanka-2014-05-04&quot; alt=&quot;Stilt Fishermen@SriLanka-2014-05-04&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Stilt Fishermen@SriLanka-2014-05-04&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;照片拍摄于2015年5月4日，在斯里兰卡印度洋海啸纪念碑边上的海滩上。高脚钓鱼是当地的文化习俗，当然现在已鲜有人这样钓鱼了，于是乎照片上的这两位兄弟只是摆拍而已..&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
       </item>
     
@@ -132,7 +116,10 @@
         <author></author>
         <description>&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Sigiriya@Srilanka-2014-05-03&quot; alt=&quot;Sigiriya@Srilanka-2014-05-03&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Sigiriya@Srilanka-2014-05-03&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;照片拍摄于2014年5月3日，被誉为第八大奇迹的狮子岩(Sigiriya)斯基里亚，当天跟Helen一起，和同行的几个人一起包了辆面包车，驱车数小时才来到大陆东北部丹不拉(Dambulla)的这块巨石脚下。
+公元500年左右摩利耶王朝的一个国王弑父夺权后为了躲避兄弟复仇，在这块巨石顶上建起了一座空中宫殿。在丛里中埋没了十几个世纪后，在上世纪末才被一个英国猎人发现。&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
       </item>
     
@@ -142,8 +129,6 @@
         <pubDate>Fri, 02 May 2014 00:00:00 +0800</pubDate>
         <author></author>
         <description>&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Sunset@SriLanka-2014-05-02&quot; alt=&quot;Sunset@SriLanka-2014-05-02&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Sunset@SriLanka-2014-05-02&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;照片拍摄于2014年5月2日，斯里兰卡，跟Helen结束了一天的行程，Palm洒店的海滩边，看印度阳的落日缓缓沉下，2个小时后满天星辰像仿佛钻石洒满在黑色蓝丝绒上, 我跟Helen提着鞋走在沙滩边，希望时间永远凝固在这一瞬间&lt;/p&gt;
@@ -199,6 +184,19 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;照片拍摄于2012年的11月，一个人背着相机在朝晖公园入秋后的银杏林里&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>HELEN</title>
+        <link>/helen-bali</link>
+        <pubDate>Thu, 14 Jun 2012 00:00:00 +0800</pubDate>
+        <author></author>
+        <description>&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Helen@Bali-2012-06-14&quot; alt=&quot;Helen@Bali-2012-06-14&quot;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;照片拍摄于2014年6月14日，巴厘岛的金巴兰海滩(Jimbaran Beach), 跟老婆一起蜜月旅行，阳光和煦，天很澄净, 刚吃完晚餐看夕阳西下，周身都是鸡蛋花的香味&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
       </item>
