@@ -1,317 +1,682 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    <!--[if lte IE 9]><meta http-equiv="refresh" content="0;url=/ie.html"><![endif]-->
+<!--
+====================================================
+    __  ____  ______________  _______ ___    __ 
+   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
+  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
+ / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
+/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
+                                                     
+====================================================
+Owner Name: Hossain Mohammad Faysal
+Profile: https://www.facebook.com/hmfaysal
+Version: 1.1
+Description: Awesome dude, awesome life
+====================================================
+-->
+<head>
+<meta charset="utf-8">
+<title>Latest Posts &#8211; XUMENG.ME</title>
+<meta name="description" content="The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania.">
+<meta name="keywords" content="Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsylvania, doha, Qatar">
 
-    <title>xumeng.me</title>
-    <meta name="description" content="xumeng.me">
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/omikron.png">
+<meta name="twitter:title" content="Latest Posts">
+<meta name="twitter:description" content="The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania.">
+<meta name="twitter:creator" content="@gnemux">
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Latest Posts">
+<meta property="og:description" content="The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania.">
+<meta property="og:url" content="/index.html">
+<meta property="og:site_name" content="XUMENG.ME">
+<meta property="og:image" content="/images/default_bg1.jpg">
+
+
+
+
+
+<link rel="canonical" href="/">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="XUMENG.ME Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+
+<div class="search-wrapper">
+    <div class="search-form">
+        <input type="text" class="search-field" placeholder="Search...">
+        <i class="icon-remove-sign"></i>
+        <ul class="search-results post-list"></ul><!-- /.search-results -->
+    </div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->
+
+
 
     <!-- Baidu Statistic -->
-<script>
-      var _hmt = _hmt || [];
-      (function() {
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
             var hm = document.createElement("script");
             hm.src = "//hm.baidu.com/hm.js?150f100a9e11cdf7d6a51c80e9421cf8";
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(hm, s);
-      })();
-</script>
-
-<!-- Google Analyze -->
-<script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-64071374-1', 'auto');
-      ga('send', 'pageview');
-
-</script>
-
-  </head>
-  <body>
-    <aside id="sidebar">
-
-      <nav id="tags">
-        <a href="/index.html" id="avatar"></a>
-          <div id="tags__bottom">
-              <a href="mailto:gnemux@gmail.com" id="icon-email" target="_blank" class="tags-btn fontello"></a>
-              <a href="https://github.com/gnemux" id="icon-feed" target="_blank" class="tags-btn fontello"></a>
-          </div>
-        <ul id="tags__ul">
-          <li id="pl__all" class="tags__li tags-btn active">ALL</li>
-          <li id="photo" class="tags__li tags-btn">PHOTO</li>
-          <li id="idea" class="tags__li tags-btn">IDEA</li>
-          <!--<li id="about" class="tags__li tags-btn">ABOUT</li>-->
-
-        </ul>
-      </nav> <!-- end #tags -->
-
-      <div id="posts-list">
-        <form action="" id="search-form">
-          <a href="/index.html" id="mobile-avatar"></a>
-          <!-- NOTE: input field is disabled by default -->
-          <input id="search-input" type="text" placeholder="搜索..." disabled title="当前功能无法使用">
-        </form>
-
-        <nav id="pl__container">
-        
-          <a class="idea pl__all" href="/traffic-data"><span class="pl__circle"></span><span class="pl__title">TRAFFIC DATA</span><span class="pl__date">Jun 2015</span></a>
-        
-          <a class="idea pl__all" href="/a-long-trip"><span class="pl__circle"></span><span class="pl__title">REALLY LONG TRIP</span><span class="pl__date">Jun 2015</span></a>
-        
-          <a class="photo pl__all" href="/stilt-fisherman"><span class="pl__circle"></span><span class="pl__title">STILT FISHERMAN</span><span class="pl__date">May 2014</span></a>
-        
-          <a class="photo pl__all" href="/sigiriya"><span class="pl__circle"></span><span class="pl__title">SIGIRIYA</span><span class="pl__date">May 2014</span></a>
-        
-          <a class="photo pl__all" href="/sunset"><span class="pl__circle"></span><span class="pl__title">SUNSET</span><span class="pl__date">May 2014</span></a>
-        
-          <a class="photo pl__all" href="/elephant"><span class="pl__circle"></span><span class="pl__title">ELEPHANT</span><span class="pl__date">May 2014</span></a>
-        
-          <a class="photo pl__all" href="/lion"><span class="pl__circle"></span><span class="pl__title">LION</span><span class="pl__date">Jun 2013</span></a>
-        
-          <a class="photo pl__all" href="/wooden-horse"><span class="pl__circle"></span><span class="pl__title">WOODENHORSE</span><span class="pl__date">Oct 2012</span></a>
-        
-          <a class="photo pl__all" href="/ginkgo"><span class="pl__circle"></span><span class="pl__title">GINKGO</span><span class="pl__date">Oct 2012</span></a>
-        
-          <a class="photo pl__all" href="/helen-bali"><span class="pl__circle"></span><span class="pl__title">HELEN</span><span class="pl__date">Jun 2012</span></a>
-        
-        </nav>
-      </div> <!-- end #posts-list -->
-
-    </aside> <!-- end #sidebar -->
-
-    <div id="post">
-
-        <div id="pjax">
-          <style type="text/css">
-.bgimg {
-    background: url('http://7xkj65.com1.z0.glb.clouddn.com/indexBackground-night-star') no-repeat;
-    background-size: 100% 100%;
-}
-
-</style>
-
-<div class="bgimg" id="post_out_div">
-
-<article id="post__content" style="color: white">
-
-    <h2 class="index-h1">HI I&#39;M GNEMUX</h2>
-
-    <blockquote>
-        <p><strong><em>Simplicity Is The Ultimate Sophistication</em></strong></p>
-    </blockquote>
-
-    <ul style="font-size: 15px">
-        <li><p>Home: http://xumeng.me</p></li>
-        <li><p>Email: gnemux@gmail.com</p></li>
-        <li><p>Twitter: @gnemux</p></li>
-    </ul>
-
-
-</article> <!-- end #post__content -->
-
-
-<div id="particles-js"></div>
-
-<div>
-
-    <br>
-    <!--<br><br><br><br>-->
-    <!--<br><br><br><br>-->
-    <!--<br><br><br><br>-->
-    <!--<br><br><br><br>-->
-    <!--<br><br><br><br>-->
-
-</div>
-
-<p id="copyright" style="color: white;font-size: 13px">
-    THIS WORK IS LICENSED UNDER A <a rel="license" href="http://mit-license.org/">MIT LICENSE</a>.<br>
-    THANKS TO <a href="https://github.com/P233">PEIWEN LU</a> for <a href="https://github.com/P233/3-Jekyll">3-JEKYLL THIS TEMPLATE</a>. <br>
-    COPYRIGHT © 2015 <a href="http://xumeng.me/">XUMENG.ME</a> ALL RIGHTS RESERVED.
-</p>
-
-
-
-</div>
-
-<script src="/assets/js/jquery-2.0.3.min.js"></script>
-<script src="/assets/js/jquery.pjax.js"></script>
-<script src="/assets/js/script.js"></script>
-<script src="/assets/js/particles.min.js"></script>
-
-<style>
-
-    canvas {
-        display: block;
-        vertical-align: top;
-    }
-
-    #particles-js {
-        position: absolute;
-        height: 50%;
-        width: 100%;
-        /*background-color: #000000;*/
-        /*background-image: url("");*/
-        /*background-repeat: no-repeat;*/
-        /*background-size: cover;*/
-        /*background-position: 100% 100%;*/
-    }
-
-</style>
-
-<script>
-
-    particlesJS("particles-js", {
-        "particles": {
-            "number": {
-                "value": 80,
-                "density": {
-                    "enable": true,
-                    "value_area": 800
-                }
-            },
-            "color": {
-                "value": "#ffffff"
-            },
-            "shape": {
-                "type": "circle",
-                "stroke": {
-                    "width": 0,
-                    "color": "#000000"
-                },
-                "polygon": {
-                    "nb_sides": 5
-                },
-                "image": {
-                    "src": "img/github.svg",
-                    "width": 100,
-                    "height": 100
-                }
-            },
-            "opacity": {
-                "value": 0.5,
-                "random": false,
-                "anim": {
-                    "enable": false,
-                    "speed": 1,
-                    "opacity_min": 0.1,
-                    "sync": false
-                }
-            },
-            "size": {
-                "value": 3,
-                "random": true,
-                "anim": {
-                    "enable": false,
-                    "speed": 40,
-                    "size_min": 0.1,
-                    "sync": false
-                }
-            },
-            "line_linked": {
-                "enable": true,
-                "distance": 150,
-                "color": "#ffffff",
-                "opacity": 0.4,
-                "width": 1
-            },
-            "move": {
-                "enable": true,
-                "speed": 6,
-                "direction": "none",
-                "random": false,
-                "straight": false,
-                "out_mode": "out",
-                "bounce": false,
-                "attract": {
-                    "enable": false,
-                    "rotateX": 600,
-                    "rotateY": 1200
-                }
-            }
-        },
-        "interactivity": {
-            "detect_on": "canvas",
-            "events": {
-                "onhover": {
-                    "enable": true,
-                    "mode": "grab"
-                },
-                "onclick": {
-                    "enable": true,
-                    "mode": "push"
-                },
-                "resize": true
-            },
-            "modes": {
-                "grab": {
-                    "distance": 140,
-                    "line_linked": {
-                        "opacity": 1
-                    }
-                },
-                "bubble": {
-                    "distance": 400,
-                    "size": 40,
-                    "duration": 2,
-                    "opacity": 8,
-                    "speed": 3
-                },
-                "repulse": {
-                    "distance": 200,
-                    "duration": 0.4
-                },
-                "push": {
-                    "particles_nb": 4
-                },
-                "remove": {
-                    "particles_nb": 2
-                }
-            }
-        },
-        "retina_detect": true
-    });
-
-    resizeWindow();
-
-    setCopyrightPosition();
-
-    function setCopyrightPosition(){
-        var w_height = window.innerHeight;
-        $("#copyright").css("margin-top",w_height-400);
-    }
-
-</script>
-        </div> <!-- end #pjax -->
-
-      <!--<div id="post__toc-trigger">-->
-        <!--<div id="post__toc">-->
-          <!--<span id="post__toc-title">Table of Contents</span>-->
-          <!--<ul id="post__toc-ul"></ul>-->
-        <!--</div>-->
-      <!--</div>-->
-    </div> <!-- end #post -->
-
-    <button id="js-fullscreen"><span id="icon-arrow" class="fontello"></span></button>
-
-    <script src="/assets/js/jquery-2.0.3.min.js"></script>
-    <script src="/assets/js/jquery.pjax.js"></script>
-    <script src="/assets/js/nprogress.js"></script>
-    <script src="/assets/js/script.js"></script>
-
-    <script>
-
-      resizeWindow();
-
-      window.resize = resizeWindow;
-
+        })();
     </script>
 
-  </body>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+<div id="fade"></div>
+<a id="slide" class="animated fade"></a>
+<aside id="sidebar">
+    <nav id="navigation">
+    <h2>MENU</h2>
+    <hr>
+
+            <li>
+                    <a href="/">Home</a>
+                 </li>
+
+            <li>
+                    <a href="/categories">Categories</a>
+                 </li>
+
+            <li>
+                    <a href="/tags">Tags</a>
+                 </li>
+
+            <li>
+                    <a href="/meng-xu">About</a>
+                 </li>
+            
+           <li><a href="/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+    </nav>
+    
+    
+</aside>
+
+<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url(/images/default_bg1.jpg)" itemscope itemtype="http://schema.org/Organization">
+
+
+    <button class="menu-button animated fade dosearch">
+        <i class="icon-search"></i>
+    </button>
+
+
+    <div class="inner">
+        <div class="container">
+            <a class="brand light" href="" role="banner" itemprop="url">
+
+                <img itemprop="logo" src="/images/omikron.png" alt="XUMENG.ME Logo" />
+
+            <h1 class="blog-title light" itemprop="name">
+                XUMENG.ME
+            </h1>
+                
+            </a>
+            <h2 class="blog-description light bordered bordered-top" itemprop="description">
+                Simplicity Is The Ultimate Sophistication
+            </h2>
+        </div>
+    </div>
+    
+    
+    <div class="decor-wrapper">
+        <svg id="header-decor" class="decor bottom" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba(255,255,255, .1)"></path>
+            <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba(255,255,255, .1)"></path>
+
+            <path class="medium left" d="M0 100 L50 50 L0 33.3" fill="rgba(255,255,255, .3)"></path>
+            <path class="medium right" d="M100 100 L50 50 L100 33.3" fill="rgba(255,255,255, .3)"></path>
+
+            <path class="small left" d="M0 100 L50 50 L0 66.6" fill="rgba(255,255,255, .5)"></path>
+            <path class="small right" d="M100 100 L50 50 L100 66.6" fill="rgba(255,255,255, .5)"></path>
+
+            <path d="M0 99.9 L50 49.9 L100 99.9 L0 99.9" fill="rgba(255,255,255, 1)"></path>
+
+            <path d="M48 52 L50 49 L52 52 L48 52" fill="rgba(255,255,255, 1)"></path>
+
+        </svg>
+    </div>
+    
+</header>
+
+
+
+<div id="main" class="content" role="main" itemprop="mainContentOfPage">
+    <div class="container">
+        <div class="row">
+            <div class="page-body" itemprop="description">
+            
+	
+		
+		
+		
+		
+		
+			
+	        
+	        
+	        
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		<figure><a href="/idea/traffic-data"><img src="http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map" alt="TRAFFIC DATA" itemprop="image"></a></figure>
+	                    
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="/idea/traffic-data"><i class="icon-picture"></i> TRAFFIC DATA</a>
+	                    
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="2015-06-16T00:00:00-04:00" class="post-time">16 Jun 2015</time>
+	                        in <span class="post-tags"><a href="/categories/index.html#idea" data-toggle="tooltip" title="Other posts from the Idea category" rel="tag">Idea</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>
+
+由于工作所在的部门属于智能交通方向，因此在过去几年里有幸运参与了所在城市的交通局信息中心建设工作。第一次可以接触到整个城市的交通数据，即兴奋又感慨：兴奋是因为能有机会从上帝视角看到这个久被诟病的城市交通的真实运行情况；感慨的还在念书时满脑子奇思妙想却苦于没有真实数据可用的我，现在却疲于应付工作上急迫的项目进度无暇沉下心来好好看看手头这块没有提炼的金矿石能不能提炼出一些闪光的东西来。
+
+
+
+
+
+方案主要环节:
+
+  数据汇聚接入
+  数据建模运算
+  数据可视化展现
+
+
+
+
+涉及的主要技术:
+
+  ETL中间件
+  ESB服务总线
+  消息队列 + 流式计算
+  分布式计算/分布式存储
+  JavaEE/GIS/前端图表工具
+
+
+
+
+涉及的数据类型:
+
+  静态字典数据
+  静态空间数据
+  动态业务数据
+  动态点位数据
+
+
+
+
+涉及的数据门类:
+
+  公交车数据
+  营运车辆数据
+  地铁数据
+  公共自行车数据
+  水上巴士数据
+  城管停车位数据
+  长途客运数据
+  铁路数据
+  民航数据
+
+
+
+
+总体思路:
+
+
+  使用 [关键指标] + 	[GIS地理展示] + 	[丰富报表] + 	[统一查询] 结合的模式提供不同交通数据类型的可视化展现
+
+
+.. to be continued
+&hellip;</p>
+	                    <div class="text-center">
+	                    
+		                <a href="/idea/traffic-data" data-toggle="tooltip" title="Read more about TRAFFIC DATA" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        
+	        
+	
+		
+		
+		
+		
+		
+			
+	        
+	        
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	                    
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="/idea/a-long-trip"><i class="icon-play-circle"></i> REALLY LONG TRIP</a>
+	                    
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="2015-06-04T00:00:00-04:00" class="post-time">04 Jun 2015</time>
+	                        in <span class="post-tags"><a href="/categories/index.html#idea" data-toggle="tooltip" title="Other posts from the Idea category" rel="tag">Idea</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                
+	                <p class="lead"><iframe width="800" height="400" src="//player.youku.com/player.php/sid/XMTI1NDMzNTU0MA==/v.swf" frameborder="0" allowfullscreen=""> </iframe>
+
+&hellip;</p>
+	                
+	                <div class="text-center">
+	                    
+		                <a href="/idea/a-long-trip" data-toggle="tooltip" title="记录2014年3月至2015年6月TRIP项目的代码生长过程." class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> see more...
+		                </a>
+		                
+		            </div>
+	                </div>
+	            </article>
+	        </div>
+	        
+	        
+	        
+	
+		
+		
+		
+		
+		
+			
+	        
+	        
+	        
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		<figure><a href="/photo/stilt-fisherman"><img src="http://7xkj65.com1.z0.glb.clouddn.com/Stilt%20Fishermen@SriLanka-2014-05-04" alt="STILT FISHERMAN" itemprop="image"></a></figure>
+	                    
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="/photo/stilt-fisherman"><i class="icon-picture"></i> STILT FISHERMAN</a>
+	                    
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="2014-05-04T00:00:00-04:00" class="post-time">04 May 2014</time>
+	                        in <span class="post-tags"><a href="/categories/index.html#photo" data-toggle="tooltip" title="Other posts from the Photo category" rel="tag">Photo</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>
+
+
+  照片拍摄于2015年5月4日，在斯里兰卡印度洋海啸纪念碑边上的海滩上。高脚钓鱼是当地的文化习俗，当然现在已鲜有人这样钓鱼了，于是乎照片上的这两位兄弟只是摆拍而已..
+
+&hellip;</p>
+	                    <div class="text-center">
+	                    
+		                <a href="/photo/stilt-fisherman" data-toggle="tooltip" title="Read more about STILT FISHERMAN" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        
+	        
+	
+		
+		
+		
+		
+		
+			
+	        
+	        
+	        
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		<figure><a href="/photo/sigiriya"><img src="http://7xkj65.com1.z0.glb.clouddn.com/Sigiriya@Srilanka-2014-05-03" alt="SIGIRIYA" itemprop="image"></a></figure>
+	                    
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="/photo/sigiriya"><i class="icon-picture"></i> SIGIRIYA</a>
+	                    
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="2014-05-03T00:00:00-04:00" class="post-time">03 May 2014</time>
+	                        in <span class="post-tags"><a href="/categories/index.html#photo" data-toggle="tooltip" title="Other posts from the Photo category" rel="tag">Photo</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>
+
+
+  照片拍摄于2014年5月3日，被誉为第八大奇迹的狮子岩(Sigiriya)斯基里亚，当天跟Helen一起，和同行的几个人一起包了辆面包车，驱车数小时才来到大陆东北部丹不拉(Dambulla)的这块巨石脚下。
+公元500年左右摩利耶王朝的一个国王弑父夺权后为了躲避兄弟复仇，在这块巨石顶上建起了一座空中宫殿。在丛里中埋没了十几个世纪后，在上世纪末才被一个英国猎人发现。
+
+&hellip;</p>
+	                    <div class="text-center">
+	                    
+		                <a href="/photo/sigiriya" data-toggle="tooltip" title="Read more about SIGIRIYA" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        
+	        
+	
+		
+		
+		
+		
+		
+			
+	        
+	        
+	        
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		<figure><a href="/photo/sunset"><img src="http://7xkj65.com1.z0.glb.clouddn.com/Sunset@SriLanka-2014-05-02" alt="SUNSET" itemprop="image"></a></figure>
+	                    
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="/photo/sunset"><i class="icon-picture"></i> SUNSET</a>
+	                    
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="2014-05-02T00:00:00-04:00" class="post-time">02 May 2014</time>
+	                        in <span class="post-tags"><a href="/categories/index.html#photo" data-toggle="tooltip" title="Other posts from the Photo category" rel="tag">Photo</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>
+
+
+  照片拍摄于2014年5月2日，斯里兰卡，跟Helen结束了一天的行程，Palm洒店的海滩边，看印度阳的落日缓缓沉下，2个小时后满天星辰像仿佛钻石洒满在黑色蓝丝绒上, 我跟Helen提着鞋走在沙滩边，希望时间永远凝固在这一瞬间
+
+&hellip;</p>
+	                    <div class="text-center">
+	                    
+		                <a href="/photo/sunset" data-toggle="tooltip" title="Read more about SUNSET" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        
+	        
+	
+		
+		
+		
+		
+		
+			
+	        
+	        
+	        
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		<figure><a href="/photo/elephant"><img src="http://7xkj65.com1.z0.glb.clouddn.com/Elephant@SriLanka-2014-05-02" alt="ELEPHANT" itemprop="image"></a></figure>
+	                    
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="/photo/elephant"><i class="icon-picture"></i> ELEPHANT</a>
+	                    
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="2014-05-02T00:00:00-04:00" class="post-time">02 May 2014</time>
+	                        in <span class="post-tags"><a href="/categories/index.html#photo" data-toggle="tooltip" title="Other posts from the Photo category" rel="tag">Photo</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>
+
+
+  照片拍摄于2014年5月2日，跟Helen一起来到斯里兰卡的某个大象孤儿院，天蓝到按下快门照片就能当明信片的程度
+
+&hellip;</p>
+	                    <div class="text-center">
+	                    
+		                <a href="/photo/elephant" data-toggle="tooltip" title="Read more about ELEPHANT" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        
+	        
+	
+
+        <div class="row text-center text-caps">
+            <div class="col-md-8 col-md-offset-2">
+                <nav class="pagination" role="navigation">
+
+    <span class="page-number">Page 1 of 2</span>
+    
+        <a class="older-posts" href="/page2">Older Posts &rarr;</a>
+ 
+</nav>
+            </div>
+        </div>
+
+
+            </div>    
+        </div>
+    </div>
+</div>
+    
+<footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url(/images/default_bg1.jpg)" >
+
+
+    <div class="inner">
+        <div class="container">
+
+            <ul class="social-icons">
+            <li>
+                <a href="http://twitter.com/gnemux" data-toggle="tooltip" title="Meng Xu on Twitter" target="_blank">
+                    <i class="icon-twitter"></i>
+                </a>
+            </li>
+            <li>
+                <a href="http://facebook.com/gnemux" data-toggle="tooltip" title="Meng Xu on Facebook" target="_blank">
+                    <i class="icon-facebook"></i>
+                </a>
+            </li>
+            
+            
+            
+            
+            
+            <li>
+                <a href="http://github.com/gnemux" data-toggle="tooltip" title="Meng Xu on Github" target="_blank">
+                    <i class="icon-github"></i>
+                </a>
+            </li>
+        </ul>
+            <div>
+                <a href="/about/">Meng Xu</a> &copy; 2015 &bull; All rights reserved.
+            </div>
+            <ul class="menu-items">
+            
+            <li>
+                
+                    <a href="/"><i class="icon-home"></i></a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li>
+                
+                    <a href="/categories">Categories</a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li>
+                
+                    <a href="/tags">Tags</a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li>
+                
+                    <a href="/meng-xu">About</a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li><a href="/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+        </ul>
+        </div>
+    </div>
+    
+        <div class="decor-wrapper">
+            <svg id="footer-decor" class="decor top" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
+
+                <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba(255,255,255, .1)"></path>
+                <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba(255,255,255, .1)"></path>
+
+                <path class="medium left" d="M0 0 L50 50 L0 66.6" fill="rgba(255,255,255, .3)"></path>
+                <path class="medium right" d="M100 0 L50 50 L100 66.6" fill="rgba(255,255,255, .3)"></path>
+
+                <path class="small left" d="M0 0 L50 50 L0 33.3" fill="rgba(255,255,255, .5)"></path>
+                <path class="small right" d="M100 0 L50 50 L100 33.3" fill="rgba(255,255,255, .5)"></path>
+
+                <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
+
+                <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
+
+            </svg>
+        </div>
+    
+</footer>
+
+<script src="//libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+<script type="text/javascript" src="/assets/js/waypoints.min.js"></script>
+<script type="text/javascript" src="/assets/js/script.js"></script>
+<!--<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>-->
+<!--<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>-->
+<script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
+
+<script type="text/javascript">
+
+/*      Slides       */
+
+$("a#slide").click(function(){
+    $("#sidebar,body,a#slide,#fade").addClass("slide")
+});
+
+$("#fade,#header,#posts-container").click(function(){
+    $("#sidebar,body,a#slide,#fade").removeClass("slide")
+});
+
+$("a#click-filter").click(function(){
+    $("#slide-filter").slideToggle("medium");
+    $("#slide-pages").slideOut("medium");
+});
+
+$("a#click-pages").click(function(){
+    $("#slide-pages").slideToggle("medium");
+    $("#slide-filter").slideOut("medium");
+});
+
+/*      End-Slides      */
+
+</script>
+
+
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').simpleJekyllSearch({
+          jsonFile : '/search.json',
+          searchResults : '.search-results',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
+    
+     var bs = {
+          close: $(".icon-remove-sign"),
+          searchform: $(".search-form"),
+          canvas: $("body"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('search-overlay');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('search-overlay');
+    });
+  })( jQuery, window );
+</script>
+
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-64071374-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  
+</body>
 </html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     
+    <url>
+        <loc>/</loc>
+    </url> 
+    <url>
+        <loc>/categories</loc>
+    </url> 
+    <url>
+        <loc>/tags</loc>
+    </url> 
+    <url>
+        <loc>/meng-xu</loc>
+    </url>
+    
+    
+    <url>
+        <loc>/idea/traffic-data</loc>
+    </url>
+    
+    <url>
+        <loc>/idea/a-long-trip</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/stilt-fisherman</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/sigiriya</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/sunset</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/elephant</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/lion</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/wooden-horse</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/ginkgo.md</loc>
+    </url>
+    
+    <url>
+        <loc>/photo/helen-bali</loc>
+    </url>
+    
+</urlset>

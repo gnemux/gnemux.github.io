@@ -1,6 +1,8 @@
 ---
 layout: post
 title: TRAFFIC DATA
+type: photo
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map
 categories: idea
 ---
 
@@ -50,7 +52,7 @@ categories: idea
     
 ----    
 
-#### 总体思路: 
+#### 总体思路:
 
 + 使用 **[关键指标]** + 	**[GIS地理展示]** + 	**[丰富报表]** + 	**[统一查询]** 结合的模式提供不同交通数据类型的可视化展现   
     

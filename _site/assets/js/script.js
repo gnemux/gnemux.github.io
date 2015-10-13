@@ -1,236 +1,58 @@
+/**
+ * Main JS file for Casper behaviours
+ */
 
-/*!--------------------------------*\
-   3-Jekyll Theme
-   @author Peiwen Lu (P233)
-   https://github.com/P233/3-Jekyll
-\*---------------------------------*/
+// Bootstrap tooltip
++function(a){"use strict";var b=function(a,b){this.type=this.options=this.enabled=this.timeout=this.hoverState=this.$element=null,this.init("tooltip",a,b)};b.DEFAULTS={animation:!0,placement:"top",selector:!1,template:'<div class="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>',trigger:"hover focus",title:"",delay:0,html:!1,container:!1},b.prototype.init=function(b,c,d){this.enabled=!0,this.type=b,this.$element=a(c),this.options=this.getOptions(d);for(var e=this.options.trigger.split(" "),f=e.length;f--;){var g=e[f];if("click"==g)this.$element.on("click."+this.type,this.options.selector,a.proxy(this.toggle,this));else if("manual"!=g){var h="hover"==g?"mouseenter":"focus",i="hover"==g?"mouseleave":"blur";this.$element.on(h+"."+this.type,this.options.selector,a.proxy(this.enter,this)),this.$element.on(i+"."+this.type,this.options.selector,a.proxy(this.leave,this))}}this.options.selector?this._options=a.extend({},this.options,{trigger:"manual",selector:""}):this.fixTitle()},b.prototype.getDefaults=function(){return b.DEFAULTS},b.prototype.getOptions=function(b){return b=a.extend({},this.getDefaults(),this.$element.data(),b),b.delay&&"number"==typeof b.delay&&(b.delay={show:b.delay,hide:b.delay}),b},b.prototype.getDelegateOptions=function(){var b={},c=this.getDefaults();return this._options&&a.each(this._options,function(a,d){c[a]!=d&&(b[a]=d)}),b},b.prototype.enter=function(b){var c=b instanceof this.constructor?b:a(b.currentTarget)[this.type](this.getDelegateOptions()).data("bs."+this.type);return clearTimeout(c.timeout),c.hoverState="in",c.options.delay&&c.options.delay.show?(c.timeout=setTimeout(function(){"in"==c.hoverState&&c.show()},c.options.delay.show),void 0):c.show()},b.prototype.leave=function(b){var c=b instanceof this.constructor?b:a(b.currentTarget)[this.type](this.getDelegateOptions()).data("bs."+this.type);return clearTimeout(c.timeout),c.hoverState="out",c.options.delay&&c.options.delay.hide?(c.timeout=setTimeout(function(){"out"==c.hoverState&&c.hide()},c.options.delay.hide),void 0):c.hide()},b.prototype.show=function(){var b=a.Event("show.bs."+this.type);if(this.hasContent()&&this.enabled){if(this.$element.trigger(b),b.isDefaultPrevented())return;var c=this.tip();this.setContent(),this.options.animation&&c.addClass("fade");var d="function"==typeof this.options.placement?this.options.placement.call(this,c[0],this.$element[0]):this.options.placement,e=/\s?auto?\s?/i,f=e.test(d);f&&(d=d.replace(e,"")||"top"),c.detach().css({top:0,left:0,display:"block"}).addClass(d),this.options.container?c.appendTo(this.options.container):c.insertAfter(this.$element);var g=this.getPosition(),h=c[0].offsetWidth,i=c[0].offsetHeight;if(f){var j=this.$element.parent(),k=d,l=document.documentElement.scrollTop||document.body.scrollTop,m="body"==this.options.container?window.innerWidth:j.outerWidth(),n="body"==this.options.container?window.innerHeight:j.outerHeight(),o="body"==this.options.container?0:j.offset().left;d="bottom"==d&&g.top+g.height+i-l>n?"top":"top"==d&&g.top-l-i<0?"bottom":"right"==d&&g.right+h>m?"left":"left"==d&&g.left-h<o?"right":d,c.removeClass(k).addClass(d)}var p=this.getCalculatedOffset(d,g,h,i);this.applyPlacement(p,d),this.$element.trigger("shown.bs."+this.type)}},b.prototype.applyPlacement=function(a,b){var c,d=this.tip(),e=d[0].offsetWidth,f=d[0].offsetHeight,g=parseInt(d.css("margin-top"),10),h=parseInt(d.css("margin-left"),10);isNaN(g)&&(g=0),isNaN(h)&&(h=0),a.top=a.top+g,a.left=a.left+h,d.offset(a).addClass("in");var i=d[0].offsetWidth,j=d[0].offsetHeight;if("top"==b&&j!=f&&(c=!0,a.top=a.top+f-j),/bottom|top/.test(b)){var k=0;a.left<0&&(k=-2*a.left,a.left=0,d.offset(a),i=d[0].offsetWidth,j=d[0].offsetHeight),this.replaceArrow(k-e+i,i,"left")}else this.replaceArrow(j-f,j,"top");c&&d.offset(a)},b.prototype.replaceArrow=function(a,b,c){this.arrow().css(c,a?50*(1-a/b)+"%":"")},b.prototype.setContent=function(){var a=this.tip(),b=this.getTitle();a.find(".tooltip-inner")[this.options.html?"html":"text"](b),a.removeClass("fade in top bottom left right")},b.prototype.hide=function(){function e(){"in"!=b.hoverState&&c.detach()}var b=this,c=this.tip(),d=a.Event("hide.bs."+this.type);return this.$element.trigger(d),d.isDefaultPrevented()?void 0:(c.removeClass("in"),a.support.transition&&this.$tip.hasClass("fade")?c.one(a.support.transition.end,e).emulateTransitionEnd(150):e(),this.$element.trigger("hidden.bs."+this.type),this)},b.prototype.fixTitle=function(){var a=this.$element;(a.attr("title")||"string"!=typeof a.attr("data-original-title"))&&a.attr("data-original-title",a.attr("title")||"").attr("title","")},b.prototype.hasContent=function(){return this.getTitle()},b.prototype.getPosition=function(){var b=this.$element[0];return a.extend({},"function"==typeof b.getBoundingClientRect?b.getBoundingClientRect():{width:b.offsetWidth,height:b.offsetHeight},this.$element.offset())},b.prototype.getCalculatedOffset=function(a,b,c,d){return"bottom"==a?{top:b.top+b.height,left:b.left+b.width/2-c/2}:"top"==a?{top:b.top-d,left:b.left+b.width/2-c/2}:"left"==a?{top:b.top+b.height/2-d/2,left:b.left-c}:{top:b.top+b.height/2-d/2,left:b.left+b.width}},b.prototype.getTitle=function(){var a,b=this.$element,c=this.options;return a=b.attr("data-original-title")||("function"==typeof c.title?c.title.call(b[0]):c.title)},b.prototype.tip=function(){return this.$tip=this.$tip||a(this.options.template)},b.prototype.arrow=function(){return this.$arrow=this.$arrow||this.tip().find(".tooltip-arrow")},b.prototype.validate=function(){this.$element[0].parentNode||(this.hide(),this.$element=null,this.options=null)},b.prototype.enable=function(){this.enabled=!0},b.prototype.disable=function(){this.enabled=!1},b.prototype.toggleEnabled=function(){this.enabled=!this.enabled},b.prototype.toggle=function(b){var c=b?a(b.currentTarget)[this.type](this.getDelegateOptions()).data("bs."+this.type):this;c.tip().hasClass("in")?c.leave(c):c.enter(c)},b.prototype.destroy=function(){this.hide().$element.off("."+this.type).removeData("bs."+this.type)};var c=a.fn.tooltip;a.fn.tooltip=function(c){return this.each(function(){var d=a(this),e=d.data("bs.tooltip"),f="object"==typeof c&&c;e||d.data("bs.tooltip",e=new b(this,f)),"string"==typeof c&&e[c]()})},a.fn.tooltip.Constructor=b,a.fn.tooltip.noConflict=function(){return a.fn.tooltip=c,this}}(window.jQuery);
 
-// Detect window size, if less than 1280px add class 'mobile' to sidebar therefore it will be auto hide when trigger the pjax request in small screen devices.
-if ($(window).width() <= 1280) {
-  $('#sidebar').addClass('mobile')
-}
+/*globals jQuery, document */
+(function ($) {
+    "use strict";
 
-// Variables
-    tag1       = $('.pl__all'),
-    tag2       = $('.place_your_tag_name_here'),
-    tag3       = $('.place_your_tag_name_here'),
-    tag4       = $('.place_your_tag_name_here'),
-    tag5       = $('.place_your_tag_name_here'),
-    tag6       = $('.place_your_tag_name_here');
-var sidebar    = $('#sidebar'),
-    container  = $('#post'),
-    content    = $('#pjax'),
-    button     = $('#icon-arrow');
+    $(document).ready(function(){
 
-// Tags switcher
-var clickHandler = function(id) {
-    return function() {
-        $(this).addClass('active').siblings().removeClass('active');
-        $('.pl__all').hide();
-        $('.' + id).delay(50).fadeIn(350);
-    }
-};
-$('#tags__ul>li').each(function(index){
-    $('#' + $(this).attr('id')).on('click', clickHandler($(this).attr('id')));
-});
+        // Tooltip init
+        tooltipInit();
 
-// If sidebar has class 'mobile', hide it after clicking.
-tag1.on('click', function() {
-  $(this).addClass('active').siblings().removeClass('active');
-  if (sidebar.hasClass('mobile')) {
-    $('#sidebar, #pjax, #icon-arrow').addClass('fullscreen');
-  }
-});
+        // Init the posts
+        postInit();
 
-// Enable fullscreen.
-$('#js-fullscreen').on('click', function() {
-  if (button.hasClass('fullscreen')) {
-    sidebar.removeClass('fullscreen');
-    button.removeClass('fullscreen');
-    content.delay(300).queue(function(){
-      $(this).removeClass('fullscreen').dequeue();
-    });
-  } else {
-    sidebar.addClass('fullscreen');
-    button.addClass('fullscreen');
-    content.delay(200).queue(function(){
-      $(this).addClass('fullscreen').dequeue();
-    });
-  }
-});
+        // Waypoints
+        waypointsInit();
 
-$('#mobile-avatar').on('click', function(){
-  $('#sidebar, #pjax, #icon-arrow').addClass('fullscreen');
-});
-
-// Pjax
-$(document).pjax('#avatar, #mobile-avatar, .pl__all', '#pjax', { fragment: '#pjax', timeout: 10000 });
-$(document).on({
-  'pjax:click': function() {
-    content.removeClass('fadeIn').addClass('fadeOut');
-    NProgress.start();
-  },
-  'pjax:start': function() {
-    content.css({'opacity':0});
-  },
-  'pjax:end': function() {
-    NProgress.done();
-    container.scrollTop(0);
-    content.css({'opacity':1}).removeClass('fadeOut').addClass('fadeIn');
-    afterPjax();
-  }
-});
-
-// Codepen embed js
-// http://codepen.io/assets/embed/ei.js
-// Added on 17 Nov 2013
-var CodePenEmbed={width:"100%",init:function(){this.showCodePenEmbeds(),this.listenToParentPostMessages()},showCodePenEmbeds:function(){var e=document.getElementsByClassName("codepen");for(var t=e.length-1;t>-1;t--){var n=this._getParamsFromAttributes(e[t]);n=this._convertOldDataAttributesToNewDataAttributes(n);var r=this._buildURL(n),i=this._buildIFrame(n,r);this._addIFrameToPage(e[t],i)}},_getParamsFromAttributes:function(e){var t={},n=e.attributes;for(var r=0,i=n.length;r<i;r++)name=n[r].name,name.indexOf("data-")===0&&(t[name.replace("data-","")]=n[r].value);return t},_convertOldDataAttributesToNewDataAttributes:function(e){return e.href&&(e["slug-hash"]=e.href),e.type&&(e["default-tab"]=e.type),e.safe&&(e["safe"]=="true"?e.animations="run":e.animations="stop-after-5"),e},_buildURL:function(e){var t=this._getHost(e),n=e.user?e.user:"anon",r="?"+this._getGetParams(e),i=[t,n,"embed",e["slug-hash"]+r].join("/");return i.replace(/\/\//g,"//")},_getHost:function(e){return e.host?e.host:document.location.protocol=="file:"?"http://codepen.io":"//codepen.io"},_getGetParams:function(e){var t="",n=0;for(var r in e)t!==""&&(t+="&"),t+=r+"="+encodeURIComponent(e[r]);return t},_buildIFrame:function(e,t){var n={id:"cp_embed_"+e["slug-hash"].replace("/","_"),src:t,scrolling:"no",frameborder:"0",height:this._getHeight(e),allowTransparency:"true","class":"cp_embed_iframe",style:"width: "+this.width+"; overflow: hidden;"},r="<iframe ";for(var i in n)r+=i+'="'+n[i]+'" ';return r+="></iframe>",r},_getHeight:function(e){return e.height?e["height"]=="auto"?300:e.height:300},_addIFrameToPage:function(e,t){if(e.parentNode){var n=document.createElement("div");n.innerHTML=t,e.parentNode.replaceChild(n,e)}else e.innerHTML=t},listenToParentPostMessages:function(){var eventMethod=window.addEventListener?"addEventListener":"attachEvent",eventListener=window[eventMethod],messageEvent=eventMethod=="attachEvent"?"onmessage":"message";eventListener(messageEvent,function(e){try{var dataObj=eval("("+e.data+")"),iframe=document.getElementById("cp_embed_"+dataObj.hash);iframe&&(iframe.height=dataObj.height)}catch(err){}},!1)}};
-
-// Re-run scripts for post content after pjax
-function afterPjax() {
-  // Open links in new tab
-  $('#post__content a').attr('target','_blank');
-
-  // Embed codepen after pjax
-  CodePenEmbed.init();
-
-  // Generate post TOC for h1 h2 and h3
-  var toc = $('#post__toc-ul');
-  // Empty TOC and generate an entry for h1
-  toc.empty().append('<li class="post__toc-li post__toc-h1"><a href="#post__title" class="js-anchor-link">' + $('#post__title').text() + '</a></li>');
-
-  // Generate entries for h2 and h3
-  $('#post__content').children('h2,h3').each(function() {
-    // Generate random ID for each heading
-    $(this).attr('id', function() {
-      var ID = "",
-          alphabet = "abcdefghijklmnopqrstuvwxyz";
-
-      for(var i=0; i < 5; i++) {
-        ID += alphabet.charAt(Math.floor(Math.random() * alphabet.length));
-      }
-      return ID;
     });
 
-    if ($(this).prop("tagName") == 'H2') {
-      toc.append('<li class="post__toc-li post__toc-h2"><a href="#' + $(this).attr('id') + '" class="js-anchor-link">' + $(this).text() + '</a></li>');
-    } else {
-      toc.append('<li class="post__toc-li post__toc-h3"><a href="#' + $(this).attr('id') + '" class="js-anchor-link">' + $(this).text() + '</a></li>');
-    }
-  });
-
-  // Smooth scrolling
-  $('.js-anchor-link').on('click', function() {
-    var target = $(this.hash);
-    container.animate({scrollTop: target.offset().top + container.scrollTop() - 70}, 500, function() {
-      target.addClass('flash').delay(700).queue(function() {
-        $(this).removeClass('flash').dequeue();
-      });
+// Init waypoints for header and footer animations
+function waypointsInit() {
+    $('#masthead').waypoint(function(direction) {
+       $(this).addClass('animation-on');
     });
-  });
 
-  // Lazy Loading Disqus
-  // http://jsfiddle.net/dragoncrew/SHGwe/1/
-  var ds_loaded = false;
-    if(typeof $('#disqus_thread').offset() != "undefined"){
-        var top = $('#disqus_thread').offset().top;
-    }
-      identifier = $('#post__title').data('identifier');
-  window.disqus_shortname = $('#disqus_thread').attr('name');
-  window.disqus_identifier = identifier;
+    $('#main').waypoint(function(direction) {
+       $('#masthead').toggleClass('animation-on');
+    });
 
-  function check() {
-    $("#disqus_thread").length === 0 && function(){
-        return false;
-    }();
-    if ( !ds_loaded && container.scrollTop() + container.height() > top ) {
-      $.ajax({
-        type: 'GET',
-        url: 'http://' + disqus_shortname + '.disqus.com/embed.js',
-        dataType: 'script',
-        cache: true
-      });
-      ds_loaded = true;
-    }
-  }check();
-  container.scroll(check);
-}afterPjax();
-
-
-//------------------------ ------------------------
-
-//关闭边栏-切换全屏
-function enableFullScreen(){
-
-    //if(!button.hasClass('fullscreen')){
-        sidebar.addClass('fullscreen');
-        button.addClass('fullscreen');
-        content.delay(200).queue(function(){
-            $(this).addClass('fullscreen').dequeue();
-        });
-    //}
+    $('#footer').waypoint(function(direction) {
+      $(this).toggleClass('animation-on');
+    } , { offset: 'bottom-in-view' });
 }
 
-//打开边栏-离开全屏
-function disabelFullScreen(){
-
-    //if (button.hasClass('fullscreen')) {
-        sidebar.removeClass('fullscreen');
-        button.removeClass('fullscreen');
-        content.delay(300).queue(function(){
-            $(this).removeClass('fullscreen').dequeue();
-        });
-    //}
-
+// Init bootstrap tooltip
+function tooltipInit() {
+    $('[data-toggle]').tooltip();
 }
 
-//监听重置窗口事件-当窗口太小则关闭边栏
-function resizeWindow(){
+function postInit() {
+    // Set lead paragraphs
+    $('.post-body p:first-child').addClass('lead');
 
-    window.onresize = resizeWindow;
-
-    var window_height = window.innerHeight;
-    var window_width = window.innerWidth;
-
-    if(window_width<=1285){
-        enableFullScreen();
-        try{
-            document.getElementById("pjax").style.height=window_height + "px";
-            document.getElementById("pjax").style.width=window_width + "px";
-            document.getElementById("post_out_div").style.height=window_height + "px";
-            document.getElementById("post_out_div").style.width=window_width + "px";
-        }catch(e){
-
-        }
-
-    }else{
-        disabelFullScreen();
-        try{
-            document.getElementById("pjax").style.height=window_height + "px";
-            document.getElementById("pjax").style.width=window_width-485 + "px";
-            document.getElementById("post_out_div").style.height=window_height + "px";
-            document.getElementById("post_out_div").style.width=window_width-485 + "px";
-        }catch(e){
-
-        }
-
-    }
-
-    toggleFullScreenButton();
-
+    // Set feature image
+    var featured = $('.featured-image').find('img').attr('src');
+    if (featured) {
+        $('#masthead').css('backgroundImage','url('+featured+')');
+        $('#footer').css('backgroundImage','url('+featured+')');
+    };
 }
 
+}(jQuery));
 
-//判断是否在首页关闭全屏按钮
-function toggleFullScreenButton(){
-
-    var window_width = window.innerWidth;
-
-    if(window_width<=1285){
-
-        $("#js-fullscreen").show();
-
-    }else{
-        $("#js-fullscreen").hide();
-    }
-}
