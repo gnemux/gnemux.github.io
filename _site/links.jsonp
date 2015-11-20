@@ -7,7 +7,7 @@ callback([
 
   {
     "text": "GINKGO",
-    "href": "/photo/ginkgo.md"
+    "href": "/photo/ginkgo"
   } ,
 
   {
@@ -48,6 +48,16 @@ callback([
   {
     "text": "TRAFFIC DATA",
     "href": "/idea/traffic-data"
+  } ,
+
+  {
+    "text": "垮掉的一代",
+    "href": "/learn/the-beat-generation"
+  } ,
+
+  {
+    "text": "MOVIE COLLECTION",
+    "href": "/movie/my-movie-collection"
   } 
 
 ])

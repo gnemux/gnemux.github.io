@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "MOVIE COLLECTION",
+		  "category"   : "",
+		  "url"        : "/movie/my-movie-collection",
+		  "date"       : "2015-11-19 00:00:00 -0500",
+		  "shortdate"  : "November 19, 2015"
+		} ,
+	
+		{
+		  "title"      : "垮掉的一代",
+		  "category"   : "Learn",
+		  "url"        : "/learn/the-beat-generation",
+		  "date"       : "2015-10-22 00:00:00 -0400",
+		  "shortdate"  : "October 22, 2015"
+		} ,
+	
+		{
 		  "title"      : "TRAFFIC DATA",
 		  "category"   : "",
 		  "url"        : "/idea/traffic-data",
@@ -67,7 +83,7 @@
 		{
 		  "title"      : "GINKGO",
 		  "category"   : "",
-		  "url"        : "/photo/ginkgo.md",
+		  "url"        : "/photo/ginkgo",
 		  "date"       : "2012-10-01 00:00:00 -0400",
 		  "shortdate"  : "October 01, 2012"
 		} ,

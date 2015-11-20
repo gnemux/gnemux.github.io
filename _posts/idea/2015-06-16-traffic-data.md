@@ -2,7 +2,7 @@
 layout: post
 title: TRAFFIC DATA
 type: photo
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map?imageMogr2/thumbnail/!30p
 categories: idea
 ---
 

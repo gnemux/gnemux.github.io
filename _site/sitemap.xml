@@ -16,6 +16,14 @@
     
     
     <url>
+        <loc>/movie/my-movie-collection</loc>
+    </url>
+    
+    <url>
+        <loc>/learn/the-beat-generation</loc>
+    </url>
+    
+    <url>
         <loc>/idea/traffic-data</loc>
     </url>
     
@@ -48,7 +56,7 @@
     </url>
     
     <url>
-        <loc>/photo/ginkgo.md</loc>
+        <loc>/photo/ginkgo</loc>
     </url>
     
     <url>

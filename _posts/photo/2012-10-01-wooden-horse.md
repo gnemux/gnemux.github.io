@@ -3,7 +3,7 @@ layout: post
 title:  WOODENHORSE
 categories: Photo
 type: photo
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/WoodenHorse@WestLake-2012-10-01
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/WoodenHorse@WestLake-2012-10-01?imageMogr2/thumbnail/!30p
 ---
 
 ![WoodenHorse@WestLake-2012-10-01](http://7xkj65.com1.z0.glb.clouddn.com/WoodenHorse@WestLake-2012-10-01)
