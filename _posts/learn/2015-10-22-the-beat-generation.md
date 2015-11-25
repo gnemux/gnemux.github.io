@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "垮掉的一代"
+title: "The Beat Generation"
 description: "对战后美国亚文化的粗浅了解"
-category: Learn
+category: Read
 tags: [history, art]
 modified: 2015-10-22
 
