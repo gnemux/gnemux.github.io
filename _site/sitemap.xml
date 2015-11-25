@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      
     <url>
-        <loc>/</loc>
+        <loc>http://xumeng.me/</loc>
     </url> 
     <url>
-        <loc>/categories</loc>
+        <loc>http://xumeng.me/categories</loc>
     </url> 
     <url>
-        <loc>/tags</loc>
+        <loc>http://xumeng.me/tags</loc>
     </url> 
     <url>
-        <loc>/meng-xu</loc>
+        <loc>http://xumeng.me/meng-xu</loc>
     </url>
     
     
     <url>
-        <loc>/movie/my-movie-collection</loc>
+        <loc>http://xumeng.me/movie/my-movie-collection</loc>
     </url>
     
     <url>
-        <loc>/read/the-beat-generation</loc>
+        <loc>http://xumeng.me/read/the-beat-generation</loc>
     </url>
     
     <url>
-        <loc>/idea/traffic-data</loc>
+        <loc>http://xumeng.me/idea/traffic-data</loc>
     </url>
     
     <url>
-        <loc>/idea/a-long-trip</loc>
+        <loc>http://xumeng.me/idea/a-long-trip</loc>
     </url>
     
     <url>
-        <loc>/photo/stilt-fisherman</loc>
+        <loc>http://xumeng.me/photo/stilt-fisherman</loc>
     </url>
     
     <url>
-        <loc>/photo/sigiriya</loc>
+        <loc>http://xumeng.me/photo/sigiriya</loc>
     </url>
     
     <url>
-        <loc>/photo/sunset</loc>
+        <loc>http://xumeng.me/photo/sunset</loc>
     </url>
     
     <url>
-        <loc>/photo/elephant</loc>
+        <loc>http://xumeng.me/photo/elephant</loc>
     </url>
     
     <url>
-        <loc>/photo/lion</loc>
+        <loc>http://xumeng.me/photo/lion</loc>
     </url>
     
     <url>
-        <loc>/photo/wooden-horse</loc>
+        <loc>http://xumeng.me/photo/wooden-horse</loc>
     </url>
     
     <url>
-        <loc>/photo/ginkgo</loc>
+        <loc>http://xumeng.me/photo/ginkgo</loc>
     </url>
     
     <url>
-        <loc>/photo/helen-bali</loc>
+        <loc>http://xumeng.me/photo/helen-bali</loc>
     </url>
     
 </urlset>

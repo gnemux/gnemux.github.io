@@ -3,15 +3,15 @@
 		{
 		  "title"      : "MOVIE COLLECTION",
 		  "category"   : "",
-		  "url"        : "/movie/my-movie-collection",
+		  "url"        : "http://xumeng.me/movie/my-movie-collection",
 		  "date"       : "2015-11-19 00:00:00 -0500",
 		  "shortdate"  : "November 19, 2015"
 		} ,
 	
 		{
-		  "title"      : "The Beat Generation",
+		  "title"      : "THE BEAT GENERATION",
 		  "category"   : "Read",
-		  "url"        : "/read/the-beat-generation",
+		  "url"        : "http://xumeng.me/read/the-beat-generation",
 		  "date"       : "2015-10-22 00:00:00 -0400",
 		  "shortdate"  : "October 22, 2015"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "TRAFFIC DATA",
 		  "category"   : "",
-		  "url"        : "/idea/traffic-data",
+		  "url"        : "http://xumeng.me/idea/traffic-data",
 		  "date"       : "2015-06-16 00:00:00 -0400",
 		  "shortdate"  : "June 16, 2015"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "REALLY LONG TRIP",
 		  "category"   : "idea",
-		  "url"        : "/idea/a-long-trip",
+		  "url"        : "http://xumeng.me/idea/a-long-trip",
 		  "date"       : "2015-06-04 00:00:00 -0400",
 		  "shortdate"  : "June 04, 2015"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "STILT FISHERMAN",
 		  "category"   : "",
-		  "url"        : "/photo/stilt-fisherman",
+		  "url"        : "http://xumeng.me/photo/stilt-fisherman",
 		  "date"       : "2014-05-04 00:00:00 -0400",
 		  "shortdate"  : "May 04, 2014"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "SIGIRIYA",
 		  "category"   : "",
-		  "url"        : "/photo/sigiriya",
+		  "url"        : "http://xumeng.me/photo/sigiriya",
 		  "date"       : "2014-05-03 00:00:00 -0400",
 		  "shortdate"  : "May 03, 2014"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "SUNSET",
 		  "category"   : "",
-		  "url"        : "/photo/sunset",
+		  "url"        : "http://xumeng.me/photo/sunset",
 		  "date"       : "2014-05-02 00:00:00 -0400",
 		  "shortdate"  : "May 02, 2014"
 		} ,
@@ -59,7 +59,7 @@
 		{
 		  "title"      : "ELEPHANT",
 		  "category"   : "",
-		  "url"        : "/photo/elephant",
+		  "url"        : "http://xumeng.me/photo/elephant",
 		  "date"       : "2014-05-02 00:00:00 -0400",
 		  "shortdate"  : "May 02, 2014"
 		} ,
@@ -67,7 +67,7 @@
 		{
 		  "title"      : "LION",
 		  "category"   : "",
-		  "url"        : "/photo/lion",
+		  "url"        : "http://xumeng.me/photo/lion",
 		  "date"       : "2013-06-12 00:00:00 -0400",
 		  "shortdate"  : "June 12, 2013"
 		} ,
@@ -75,7 +75,7 @@
 		{
 		  "title"      : "WOODENHORSE",
 		  "category"   : "",
-		  "url"        : "/photo/wooden-horse",
+		  "url"        : "http://xumeng.me/photo/wooden-horse",
 		  "date"       : "2012-10-01 00:00:00 -0400",
 		  "shortdate"  : "October 01, 2012"
 		} ,
@@ -83,7 +83,7 @@
 		{
 		  "title"      : "GINKGO",
 		  "category"   : "",
-		  "url"        : "/photo/ginkgo",
+		  "url"        : "http://xumeng.me/photo/ginkgo",
 		  "date"       : "2012-10-01 00:00:00 -0400",
 		  "shortdate"  : "October 01, 2012"
 		} ,
@@ -91,7 +91,7 @@
 		{
 		  "title"      : "HELEN",
 		  "category"   : "",
-		  "url"        : "/photo/helen-bali",
+		  "url"        : "http://xumeng.me/photo/helen-bali",
 		  "date"       : "2012-06-14 00:00:00 -0400",
 		  "shortdate"  : "June 14, 2012"
 		} 

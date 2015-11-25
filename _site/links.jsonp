@@ -2,62 +2,62 @@ callback([
 
   {
     "text": "HELEN",
-    "href": "/photo/helen-bali"
+    "href": "http://xumeng.me/photo/helen-bali"
   } ,
 
   {
     "text": "GINKGO",
-    "href": "/photo/ginkgo"
+    "href": "http://xumeng.me/photo/ginkgo"
   } ,
 
   {
     "text": "WOODENHORSE",
-    "href": "/photo/wooden-horse"
+    "href": "http://xumeng.me/photo/wooden-horse"
   } ,
 
   {
     "text": "LION",
-    "href": "/photo/lion"
+    "href": "http://xumeng.me/photo/lion"
   } ,
 
   {
     "text": "ELEPHANT",
-    "href": "/photo/elephant"
+    "href": "http://xumeng.me/photo/elephant"
   } ,
 
   {
     "text": "SUNSET",
-    "href": "/photo/sunset"
+    "href": "http://xumeng.me/photo/sunset"
   } ,
 
   {
     "text": "SIGIRIYA",
-    "href": "/photo/sigiriya"
+    "href": "http://xumeng.me/photo/sigiriya"
   } ,
 
   {
     "text": "STILT FISHERMAN",
-    "href": "/photo/stilt-fisherman"
+    "href": "http://xumeng.me/photo/stilt-fisherman"
   } ,
 
   {
     "text": "REALLY LONG TRIP",
-    "href": "/idea/a-long-trip"
+    "href": "http://xumeng.me/idea/a-long-trip"
   } ,
 
   {
     "text": "TRAFFIC DATA",
-    "href": "/idea/traffic-data"
+    "href": "http://xumeng.me/idea/traffic-data"
   } ,
 
   {
-    "text": "The Beat Generation",
-    "href": "/read/the-beat-generation"
+    "text": "THE BEAT GENERATION",
+    "href": "http://xumeng.me/read/the-beat-generation"
   } ,
 
   {
     "text": "MOVIE COLLECTION",
-    "href": "/movie/my-movie-collection"
+    "href": "http://xumeng.me/movie/my-movie-collection"
   } 
 
 ])

@@ -2,61 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">X</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2015-11-24T22:20:50-05:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://xumeng.me/feed.xml" />
+<link rel="alternate" type="text/html" href="http://xumeng.me" />
+<updated>2015-11-25T02:58:21-05:00</updated>
+<id>http://xumeng.me/</id>
 <author>
   <name>Meng Xu</name>
-  <uri>/</uri>
+  <uri>http://xumeng.me/</uri>
   <email>gnemux@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[MOVIE COLLECTION]]></title>
-  <link>/movie/my-movie-collection</link>
-  <id>/movie/my-movie-collection</id>
+  <link>http://xumeng.me/movie/my-movie-collection</link>
+  <id>http://xumeng.me/movie/my-movie-collection</id>
   <published>2015-11-19T00:00:00-05:00</published>
   <updated>2015-11-19T00:00:00-05:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;收集整理我喜爱的电影&lt;/p&gt;
+  <content type="html">&lt;p&gt;我眼中的好电影，是一个个动人的好故事。
+好的导演和编剧就像是炉火边那个拿手的故事王，他抑扬顿挫起承转合地把故事层层铺垫娓娓道来，让静静围坐在周围的孩子们时而沉静时而惊叫连连。
+这种不愿意错过一丁点情节的专注，现在被形象地称作“全场无尿点”，非常贴切！&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/movie/my-movie-collection&quot;&gt;MOVIE COLLECTION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on November 19, 2015.&lt;/p&gt;</content>
+&lt;p&gt;电影在我心目中，绝对不仅仅是精巧的剧情，它更是一场90分钟的心灵仪式。无论科技如何发达，都阻挡不了相爱的人们在夜幕降临之际手拉手走进剧场，享受这种仪式性的观影体验。
+当我们坐在影院之中，当灯光暗下，一种人为创造的孤立与专注被施加到每一位观众身上，这种孤立与专注打开了观影者与银幕那一边的世界的心灵通道，在喧嚣的世界中这种专注的沉静是稀有而宝贵的，它让我们在黑暗的保护中敞开心扉像一个孩子一样放任自己跟着主角进入银幕，一起笑一起哭。
+然而这种体验又不仅仅是孤立的，人们的情感是需要共鸣的，所以我们才选择在这个越来越强调个人与隐私的时代走坐到同一个剧场来，我相信这绝不只是院线对成本的妥协，因为当你听到身边的人们因为同一个幽默而睿智的桥段跟你一起笑出声来，你会明白这种来自共鸣的欢愉是来自于我们群居本能的原始需求。&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/movie/my-movie-collection&quot;&gt;MOVIE COLLECTION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on November 19, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[The Beat Generation]]></title>
-  <link>/read/the-beat-generation</link>
-  <id>/read/the-beat-generation</id>
+  <title type="html"><![CDATA[THE BEAT GENERATION]]></title>
+  <link>http://xumeng.me/read/the-beat-generation</link>
+  <id>http://xumeng.me/read/the-beat-generation</id>
   <updated>2015-10-22T00:00:00-00:00</updated>
   <published>2015-10-22T00:00:00-04:00</published>
   
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
-  <content type="html">
+  <content type="html">&lt;ul&gt;
+  &lt;li&gt;二战后&lt;/li&gt;
+  &lt;li&gt;披头族&lt;/li&gt;
+  &lt;li&gt;嬉皮士&lt;/li&gt;
+  &lt;li&gt;爵士乐&lt;/li&gt;
+  &lt;li&gt;杰克•凯鲁亚克&lt;/li&gt;
+  &lt;li&gt;波西米亚&lt;/li&gt;
+  &lt;li&gt;亚文化&lt;/li&gt;
+  &lt;li&gt;反主流&lt;/li&gt;
+  &lt;li&gt;保护自然&lt;/li&gt;
+  &lt;li&gt;浪漫主义&lt;/li&gt;
+  &lt;li&gt;反战&lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/read/the-beat-generation&quot;&gt;The Beat Generation&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on October 22, 2015.&lt;/p&gt;</content>
+&lt;p&gt;意群，年代印象，对中国影响，小众，文青&lt;/p&gt;
+
+&lt;p&gt;魅力：自由的精神世界，拥抱自然，放纵自我，几乎无代价的的自我实现，枯燥生活的精神伊甸园，终级关怀&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/read/the-beat-generation&quot;&gt;THE BEAT GENERATION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on October 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[TRAFFIC DATA]]></title>
-  <link>/idea/traffic-data</link>
-  <id>/idea/traffic-data</id>
+  <link>http://xumeng.me/idea/traffic-data</link>
+  <id>http://xumeng.me/idea/traffic-data</id>
   <published>2015-06-16T00:00:00-04:00</published>
   <updated>2015-06-16T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map&quot; alt=&quot;T-Data-Map&quot; /&gt;&lt;/p&gt;
@@ -120,19 +143,19 @@
 
 &lt;p&gt;.. to be continued&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/idea/traffic-data&quot;&gt;TRAFFIC DATA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/traffic-data&quot;&gt;TRAFFIC DATA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[REALLY LONG TRIP]]></title>
-  <link>/idea/a-long-trip</link>
-  <id>/idea/a-long-trip</id>
+  <link>http://xumeng.me/idea/a-long-trip</link>
+  <id>http://xumeng.me/idea/a-long-trip</id>
   <published>2015-06-04T00:00:00-04:00</published>
   <updated>2015-06-04T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;iframe width=&quot;800&quot; height=&quot;400&quot; src=&quot;//player.youku.com/player.php/sid/XMTI1NDMzNTU0MA==/v.swf&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
@@ -143,19 +166,19 @@
 
 &lt;p&gt;[This video is powered by &lt;a href=&quot;https://github.com/acaudwell/Gource&quot;&gt;Gource&lt;/a&gt;]&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/idea/a-long-trip&quot;&gt;REALLY LONG TRIP&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on June 04, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/a-long-trip&quot;&gt;REALLY LONG TRIP&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on June 04, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[STILT FISHERMAN]]></title>
-  <link>/photo/stilt-fisherman</link>
-  <id>/photo/stilt-fisherman</id>
+  <link>http://xumeng.me/photo/stilt-fisherman</link>
+  <id>http://xumeng.me/photo/stilt-fisherman</id>
   <published>2014-05-04T00:00:00-04:00</published>
   <updated>2014-05-04T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Stilt%20Fishermen@SriLanka-2014-05-04&quot; alt=&quot;Stilt Fishermen@SriLanka-2014-05-04&quot; /&gt;&lt;/p&gt;
@@ -164,19 +187,19 @@
   &lt;p&gt;照片拍摄于2015年5月4日，在斯里兰卡印度洋海啸纪念碑边上的海滩上。高脚钓鱼是当地的文化习俗，当然现在已鲜有人这样钓鱼了，于是乎照片上的这两位兄弟只是摆拍而已..&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/stilt-fisherman&quot;&gt;STILT FISHERMAN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/stilt-fisherman&quot;&gt;STILT FISHERMAN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SIGIRIYA]]></title>
-  <link>/photo/sigiriya</link>
-  <id>/photo/sigiriya</id>
+  <link>http://xumeng.me/photo/sigiriya</link>
+  <id>http://xumeng.me/photo/sigiriya</id>
   <published>2014-05-03T00:00:00-04:00</published>
   <updated>2014-05-03T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Sigiriya@Srilanka-2014-05-03&quot; alt=&quot;Sigiriya@Srilanka-2014-05-03&quot; /&gt;&lt;/p&gt;
@@ -186,19 +209,19 @@
 公元500年左右摩利耶王朝的一个国王弑父夺权后为了躲避兄弟复仇，在这块巨石顶上建起了一座空中宫殿。在丛里中埋没了十几个世纪后，在上世纪末才被一个英国猎人发现。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/sigiriya&quot;&gt;SIGIRIYA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/sigiriya&quot;&gt;SIGIRIYA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SUNSET]]></title>
-  <link>/photo/sunset</link>
-  <id>/photo/sunset</id>
+  <link>http://xumeng.me/photo/sunset</link>
+  <id>http://xumeng.me/photo/sunset</id>
   <published>2014-05-02T00:00:00-04:00</published>
   <updated>2014-05-02T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Sunset@SriLanka-2014-05-02&quot; alt=&quot;Sunset@SriLanka-2014-05-02&quot; /&gt;&lt;/p&gt;
@@ -207,19 +230,19 @@
   &lt;p&gt;照片拍摄于2014年5月2日，斯里兰卡，跟Helen结束了一天的行程，Palm洒店的海滩边，看印度阳的落日缓缓沉下，2个小时后满天星辰像仿佛钻石洒满在黑色蓝丝绒上, 我跟Helen提着鞋走在沙滩边，希望时间永远凝固在这一瞬间&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/sunset&quot;&gt;SUNSET&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/sunset&quot;&gt;SUNSET&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ELEPHANT]]></title>
-  <link>/photo/elephant</link>
-  <id>/photo/elephant</id>
+  <link>http://xumeng.me/photo/elephant</link>
+  <id>http://xumeng.me/photo/elephant</id>
   <published>2014-05-02T00:00:00-04:00</published>
   <updated>2014-05-02T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Elephant@SriLanka-2014-05-02&quot; alt=&quot;Elephant@SriLanka-2014-05-02&quot; /&gt;&lt;/p&gt;
@@ -228,19 +251,19 @@
   &lt;p&gt;照片拍摄于2014年5月2日，跟Helen一起来到斯里兰卡的某个大象孤儿院，天蓝到按下快门照片就能当明信片的程度&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/elephant&quot;&gt;ELEPHANT&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/elephant&quot;&gt;ELEPHANT&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[LION]]></title>
-  <link>/photo/lion</link>
-  <id>/photo/lion</id>
+  <link>http://xumeng.me/photo/lion</link>
+  <id>http://xumeng.me/photo/lion</id>
   <published>2013-06-12T00:00:00-04:00</published>
   <updated>2013-06-12T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Lion@Zoo-2013-06-12&quot; alt=&quot;Lion@Zoo-2013-06-12&quot; /&gt;&lt;/p&gt;
@@ -249,19 +272,19 @@
   &lt;p&gt;照片拍报于2013年6月12日，跟Helen一起心血来潮来到杭州动物园。动物的生存状态很差，不禁在想如果给它们选择一次的机会，它们会选择温饱还是自由。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/lion&quot;&gt;LION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/lion&quot;&gt;LION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[WOODENHORSE]]></title>
-  <link>/photo/wooden-horse</link>
-  <id>/photo/wooden-horse</id>
+  <link>http://xumeng.me/photo/wooden-horse</link>
+  <id>http://xumeng.me/photo/wooden-horse</id>
   <published>2012-10-01T00:00:00-04:00</published>
   <updated>2012-10-01T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/WoodenHorse@WestLake-2012-10-01&quot; alt=&quot;WoodenHorse@WestLake-2012-10-01&quot; /&gt;&lt;/p&gt;
@@ -270,19 +293,19 @@
   &lt;p&gt;照片拍摄于2012年的10月1日，跟Helen一起出去压马路，在西湖边的某块草地上偶遇这两匹木马&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/wooden-horse&quot;&gt;WOODENHORSE&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/wooden-horse&quot;&gt;WOODENHORSE&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[GINKGO]]></title>
-  <link>/photo/ginkgo</link>
-  <id>/photo/ginkgo</id>
+  <link>http://xumeng.me/photo/ginkgo</link>
+  <id>http://xumeng.me/photo/ginkgo</id>
   <published>2012-10-01T00:00:00-04:00</published>
   <updated>2012-10-01T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Ginkgo@Zhaohui-2012-11-17&quot; alt=&quot;Ginkgo@Zhaohui-2012-11-17&quot; /&gt;&lt;/p&gt;
@@ -291,19 +314,19 @@
   &lt;p&gt;照片拍摄于2012年的11月，一个人背着相机在朝晖公园入秋后的银杏林里&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/ginkgo&quot;&gt;GINKGO&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/ginkgo&quot;&gt;GINKGO&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[HELEN]]></title>
-  <link>/photo/helen-bali</link>
-  <id>/photo/helen-bali</id>
+  <link>http://xumeng.me/photo/helen-bali</link>
+  <id>http://xumeng.me/photo/helen-bali</id>
   <published>2012-06-14T00:00:00-04:00</published>
   <updated>2012-06-14T00:00:00-04:00</updated>
   <author>
     <name>Meng Xu</name>
-    <uri></uri>
+    <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Helen@Bali-2012-06-14&quot; alt=&quot;Helen@Bali-2012-06-14&quot; /&gt;&lt;/p&gt;
@@ -312,7 +335,7 @@
   &lt;p&gt;照片拍摄于2012年6月14日，巴厘岛的金巴兰海滩(Jimbaran Beach), 跟老婆一起蜜月旅行，阳光和煦，天很澄净, 刚吃完晚餐看夕阳西下，周身都是鸡蛋花的香味&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/photo/helen-bali&quot;&gt;HELEN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;&quot;&gt;X&lt;/a&gt; on June 14, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/helen-bali&quot;&gt;HELEN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;X&lt;/a&gt; on June 14, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>
