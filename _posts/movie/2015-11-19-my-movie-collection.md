@@ -2,7 +2,7 @@
 layout: post
 title: MOVIE COLLECTION
 type: photo
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/oscar.jpg
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Star%20War.jpg?imageMogr2/thumbnail/!30p
 categories: movie
 ---
 
