@@ -2,7 +2,7 @@
 layout: post
 title: MOVIE COLLECTION
 type: photo
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Starwar-storm-soldier.jpeg?imageMogr2/thumbnail/!30p
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Starwar-storm-soldier.jpeg?imageMogr2/thumbnail/!80p
 categories: movie
 ---
 
