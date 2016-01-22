@@ -51,11 +51,6 @@ callback([
   } ,
 
   {
-    "text": "THE BEAT GENERATION",
-    "href": "http://xumeng.me/read/the-beat-generation"
-  } ,
-
-  {
     "text": "MOVIE COLLECTION",
     "href": "http://xumeng.me/movie/my-movie-collection"
   } 
