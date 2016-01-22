@@ -52,14 +52,18 @@ links:
     url: /
     external: false
     icon: home
+
+  - title: About
+    url: /meng-xu
+
 #  - title: <i class="icon-book"></i> Documentation
 #    url: /documentation
-  - title: Categories
+
+  - title: Cate
     url: /categories
   - title: Tags
     url: /tags
-  - title: About
-    url: /meng-xu
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
