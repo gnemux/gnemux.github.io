@@ -12,6 +12,6 @@ share: true
 
 <iframe width="800" height="400" src="//player.youku.com/player.php/sid/XMTI1NDMzNTU0MA==/v.swf" frameborder="0" allowfullscreen> </iframe>
 
-> TRIP项目是一个城市交通数据中心，从2014年3月至2015年6月，这是我们创造它的过程( git history )    
+> TRIP(Traffic Resource & Infomation Platform)是一个城市交通数据中心项目，为了与交通概念契合，我特意为它选择了这样一个缩写。从2014年3月至2015年6月，这是我们创造它的过程( git history )
 
 [This video is powered by [Gource](https://github.com/acaudwell/Gource)]
