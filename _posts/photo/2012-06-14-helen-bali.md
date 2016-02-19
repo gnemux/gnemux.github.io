@@ -5,6 +5,7 @@ type: photo
 categories: Photo
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Helen@Bali-2012-06-14?imageMogr2/thumbnail/!30p
 date: 2012-06-14
+comments: true
 ---
 
 ![Helen@Bali-2012-06-14](http://7xkj65.com1.z0.glb.clouddn.com/Helen@Bali-2012-06-14)
