@@ -2,7 +2,7 @@
 layout: post
 title: TV SERIES I'M FOLLOWING
 type: photo
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/american-tv-stations.jpg?imageMogr2/thumbnail/!70p
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/american-tv-stations.jpg?imageMogr2/thumbnail/!50p
 comments: true
 categories: screen
 ---
@@ -31,4 +31,4 @@ categories: screen
     <a href="http://7xkj65.com1.z0.glb.clouddn.com/banshee.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/banshee.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
-针对1周1集一年还放寒暑假的美剧的有效策略就是：同时看N部！以上就是我最近正在追的剧
+针对1周1集一年还放寒暑假的美剧的有效策略就是：同时看N部！上面就是我最近正在追的剧
