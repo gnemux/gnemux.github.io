@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://xumeng.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://xumeng.me" />
-<updated>2016-02-01T20:29:25-05:00</updated>
+<updated>2016-02-22T02:29:39-05:00</updated>
 <id>http://xumeng.me/</id>
 <author>
   <name>Meng Xu</name>
@@ -14,9 +14,50 @@
 
 
 <entry>
-  <title type="html"><![CDATA[MOVIE COLLECTION]]></title>
-  <link>http://xumeng.me/movie/my-movie-collection</link>
-  <id>http://xumeng.me/movie/my-movie-collection</id>
+  <title type="html"><![CDATA[TV SERIES I'M FOLLOWING]]></title>
+  <link>http://xumeng.me/screen/tv-series-following</link>
+  <id>http://xumeng.me/screen/tv-series-following</id>
+  <published>2016-02-22T00:00:00-05:00</published>
+  <updated>2016-02-22T00:00:00-05:00</updated>
+  <author>
+    <name>Meng Xu</name>
+    <uri>http://xumeng.me</uri>
+    <email>gnemux@gmail.com</email>
+  </author>
+  <content type="html">&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/tyrant.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/tyrant.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/thewalkingdead.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/thewalkingdead.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/thestrain.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/thestrain.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/theamericans.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/theamericans.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+    	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/personofinterest.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/personofinterest.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+    	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/manhattan.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/manhattan.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/houseofcards.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/houseofcards.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/hgawm.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/hgawm.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/homelandb.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/homelandb.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/gameofthrones.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/gameofthrones.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/fargo.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/fargo.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/banshee.jpg&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/banshee.jpg?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;针对1周1集一年还放寒暑假的美剧的有效策略就是：同时看N部！以上就是我最近正在追的剧&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/screen/tv-series-following&quot;&gt;TV SERIES I'M FOLLOWING&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on February 22, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[MOVIE TO ME]]></title>
+  <link>http://xumeng.me/screen/movie-to-me</link>
+  <id>http://xumeng.me/screen/movie-to-me</id>
   <published>2015-11-19T00:00:00-05:00</published>
   <updated>2015-11-19T00:00:00-05:00</updated>
   <author>
@@ -27,18 +68,18 @@
   <content type="html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;我眼中的好电影，是一个个动人的好故事。
-好的导演和编剧就像是炉火边那个拿手的故事王，他抑扬顿挫起承转合地把故事层层铺垫娓娓道来，让静静围坐在周围的孩子们时而沉静时而惊叫连连。
-这种不愿意错过一丁点情节的专注，现在被形象地称作“全场无尿点”，非常贴切！&lt;/p&gt;
+好的导演和编剧就像是炉火边那个讲得一手好故事的白胡子老人，他抑扬顿挫地把故事层层铺垫娓娓道来，让静静围坐在周围的孩子们时而沉静时而惊叹。
+那种过程中不愿意错过一丁点情节的专注，用“全场无尿点”来形容，真是非常贴切。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;电影在我心目中，绝对不仅仅是精巧的剧情，它更是一场90分钟的心灵仪式。无论科技如何发达，都阻挡不了相爱的人们在夜幕降临之际手拉手走进剧场，享受这种仪式性的观影体验。
-当我们坐在影院之中，当灯光暗下，一种人为创造的孤立与专注被施加到每一位观众身上，这种孤立与专注打开了观影者与银幕那一边的世界的心灵通道，在喧嚣的世界中这种专注的沉静是稀有而宝贵的，它让我们在黑暗的保护中敞开心扉像一个孩子一样放任自己跟着主角进入银幕，一起笑一起哭。
-然而这种体验又不仅仅是孤立的，人们的情感是需要共鸣的，所以我们才选择在这个越来越强调个人与隐私的时代走坐到同一个剧场来，我相信这绝不只是院线对成本的妥协，因为当你听到身边的人们因为同一个幽默而睿智的桥段跟你一起笑出声来，你会明白这种来自共鸣的欢愉是来自于我们群居本能的原始需求。&lt;/p&gt;
+    &lt;p&gt;电影的价值在我理解中，又绝不仅仅在于精巧的剧情，看一场电影还是一场90分钟的心灵仪式。即使科技已经发达到窝在床上掏出手机就能观影的程度，但这依然阻挡不了相爱的人们在夜幕降临之际手拉手走进影院，电影在这时也许已经不是今晚的出行的目的，而是使得今晚变成美好回忆的一种方式。
+坐在荧幕前，灯光暗下，一种人为创造的孤立与专注被施加到每一位观众身上，这种“孤立与专注”打开了观众与银幕那一边世界的心灵通道，在这喧嚣的世界中这种专注的沉静是难能可贵的，它让我们在黑暗的保护中敞开心扉，像孩子一样放任自己跟着主人公进入银幕，一起笑一起哭，肆无忌惮，因为反正那是另一个世界。
+然而这又不仅仅是一种孤立的体验，在这个越来越强调个人与隐私的时代，我们之所以还选择坐到同一个剧场来，一定是有原因的。当你坐在黑暗中，听到身边的人们跟你因为同一个幽默而睿智的桥段一起笑出声来，你会明白我们对这种由共鸣的渴望，来自于我们这个物种“群体性”本能的原始需求。&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/movie/my-movie-collection&quot;&gt;MOVIE COLLECTION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on November 19, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/screen/movie-to-me&quot;&gt;MOVIE TO ME&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on November 19, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -55,13 +96,14 @@
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map&quot; alt=&quot;T-Data-Map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;由于工作所在的部门属于智能交通方向，因此在过去几年里有幸参与了所在城市的交通局信息中心建设工作。第一次可以接触到整个城市的交通数据，即兴奋又感慨：兴奋是因为能有机会从上帝视角看到这个久被诟病的城市交通的真实运行情况；感慨的还在念书时满脑子奇思妙想却苦于没有真实数据可用的我，现在却疲于应付工作上急迫的项目进度无暇沉下心来好好看看手头这块没有提炼的金矿石能不能提炼出一些闪光的东西来。&lt;/p&gt;
+&lt;p&gt;过去几年中，我工作的内容主要专注于智能交通领域。当你不得不为谋生的手段选择一个主题时，选择一个像交通这样与生活息息相关的领域总是能带来一些成就感的。
+工作中最开心的事情，莫过于可以借助数据的力量从上帝视角看看这个熟悉的城市的脉络与流动的血液。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Charts&quot; alt=&quot;T-Data-Chart&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;section&quot;&gt;方案主要环节:&lt;/h4&gt;
+&lt;h4 id=&quot;section&quot;&gt;环节&lt;/h4&gt;
 &lt;ol&gt;
   &lt;li&gt;数据汇聚接入&lt;/li&gt;
   &lt;li&gt;数据建模运算&lt;/li&gt;
@@ -70,18 +112,18 @@
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;section-1&quot;&gt;涉及的主要技术:&lt;/h4&gt;
+&lt;h4 id=&quot;section-1&quot;&gt;技术&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;ETL中间件&lt;/li&gt;
   &lt;li&gt;ESB服务总线&lt;/li&gt;
   &lt;li&gt;消息队列 + 流式计算&lt;/li&gt;
-  &lt;li&gt;分布式计算/分布式存储&lt;/li&gt;
+  &lt;li&gt;分布式计算/存储&lt;/li&gt;
   &lt;li&gt;JavaEE/GIS/前端图表工具&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;section-2&quot;&gt;涉及的数据类型:&lt;/h4&gt;
+&lt;h4 id=&quot;section-2&quot;&gt;数据&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;静态字典数据&lt;/li&gt;
   &lt;li&gt;静态空间数据&lt;/li&gt;
@@ -91,7 +133,7 @@
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;section-3&quot;&gt;涉及的数据门类:&lt;/h4&gt;
+&lt;h4 id=&quot;section-3&quot;&gt;类目&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;公交车数据&lt;/li&gt;
   &lt;li&gt;营运车辆数据&lt;/li&gt;
@@ -105,14 +147,6 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
-&lt;h4 id=&quot;section-4&quot;&gt;总体思路:&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;使用 &lt;strong&gt;[关键指标]&lt;/strong&gt; + 	&lt;strong&gt;[GIS地理展示]&lt;/strong&gt; + 	&lt;strong&gt;[丰富报表]&lt;/strong&gt; + 	&lt;strong&gt;[统一查询]&lt;/strong&gt; 结合的模式提供不同交通数据类型的可视化展现&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;.. to be continued&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/traffic-data&quot;&gt;TRAFFIC DATA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
 </entry>
@@ -132,7 +166,7 @@
   <content type="html">&lt;iframe width=&quot;800&quot; height=&quot;400&quot; src=&quot;//player.youku.com/player.php/sid/XMTI1NDMzNTU0MA==/v.swf&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;TRIP项目是一个城市交通数据中心，从2014年3月至2015年6月，这是我们创造它的过程( git history )&lt;/p&gt;
+  &lt;p&gt;TRIP(Traffic Resource &amp;amp; Infomation Platform)是一个城市交通数据中心项目，为了与交通概念契合，我特意为它选择了这样一个缩写。从2014年3月至2015年6月，这是我们创造它的过程( git history )&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;[This video is powered by &lt;a href=&quot;https://github.com/acaudwell/Gource&quot;&gt;Gource&lt;/a&gt;]&lt;/p&gt;
@@ -155,7 +189,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Stilt%20Fishermen@SriLanka-2014-05-04&quot; alt=&quot;Stilt Fishermen@SriLanka-2014-05-04&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2015年5月4日，在斯里兰卡印度洋海啸纪念碑边上的海滩上。高脚钓鱼是当地的文化习俗，当然现在已鲜有人这样钓鱼了，于是乎照片上的这两位兄弟只是摆拍而已..&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2015年5月4日的斯里兰卡，在印度洋海啸纪念碑边上的海滩上。高脚钓鱼是当地的文化习俗，当然现在已鲜有人这样钓鱼了，于是乎照片上的这两位兄弟只是摆拍而已..&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/stilt-fisherman&quot;&gt;STILT FISHERMAN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
@@ -176,8 +210,8 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Sigiriya@Srilanka-2014-05-03&quot; alt=&quot;Sigiriya@Srilanka-2014-05-03&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2014年5月3日，被誉为第八大奇迹的狮子岩(Sigiriya)斯基里亚，当天跟Helen一起，和同行的几个人一起包了辆面包车，驱车数小时才来到大陆东北部丹不拉(Dambulla)的这块巨石脚下。
-公元500年左右摩利耶王朝的一个国王弑父夺权后为了躲避兄弟复仇，在这块巨石顶上建起了一座空中宫殿。在丛里中埋没了十几个世纪后，在上世纪末才被一个英国猎人发现。&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2014年5月3日的斯里兰卡，在被誉为第八大奇迹的狮子岩(Sigiriya)斯基里亚，当天跟Helen一起和同行的几个人一起包了辆面包车，驱车数小时才来到大陆东北部丹不拉(Dambulla)的这块巨石脚下。
+公元500年左右摩利耶王朝的一个国王弑父夺权后为了躲避兄弟复仇，在这块巨石顶上建起了一座空中宫殿。在丛林里中埋没了十几个世纪后，在上世纪末才被一个英国猎人发现，又过了100年后终于迎来了我们的出现。&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/sigiriya&quot;&gt;SIGIRIYA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
@@ -198,7 +232,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Sunset@SriLanka-2014-05-02&quot; alt=&quot;Sunset@SriLanka-2014-05-02&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2014年5月2日，斯里兰卡，跟Helen结束了一天的行程，Palm洒店的海滩边，看印度阳的落日缓缓沉下，2个小时后满天星辰像仿佛钻石洒满在黑色蓝丝绒上, 我跟Helen提着鞋走在沙滩边，希望时间永远凝固在这一瞬间&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2014年5月2日的斯里兰卡，跟Helen结束了一天的行程，在Palm洒店的海滩边，看着印度阳的落日缓缓沉下。2个小时后，满天的星辰就像闪亮的钻石洒满在一张无限大的黑色蓝丝绒上, 我跟Helen提着鞋走在沙滩边，脚下是温暖的海水，我们都希望时间永远凝固在那一瞬间&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/sunset&quot;&gt;SUNSET&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
@@ -219,7 +253,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Elephant@SriLanka-2014-05-02&quot; alt=&quot;Elephant@SriLanka-2014-05-02&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2014年5月2日，跟Helen一起来到斯里兰卡的某个大象孤儿院，天蓝到按下快门照片就能当明信片的程度&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2014年5月2日的斯里兰卡，跟Helen一起来这里的某个大象孤儿院，天空很蓝，蓝到直接按下快门照片就能当明信片的程度&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/elephant&quot;&gt;ELEPHANT&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
@@ -240,7 +274,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Lion@Zoo-2013-06-12&quot; alt=&quot;Lion@Zoo-2013-06-12&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍报于2013年6月12日，跟Helen一起心血来潮来到杭州动物园。动物的生存状态很差，不禁在想如果给它们选择一次的机会，它们会选择温饱还是自由。&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2013年6月12日，跟Helen一起心血来潮来到杭州动物园。动物的生存状态很差，不禁在想如果给它们选择一次的机会，它们会选择温饱还是自由&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/lion&quot;&gt;LION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
@@ -261,7 +295,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/WoodenHorse@WestLake-2012-10-01&quot; alt=&quot;WoodenHorse@WestLake-2012-10-01&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2012年的10月1日，跟Helen一起出去压马路，在西湖边的某块草地上偶遇这两匹木马&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2012年的10月1日，当时正跟Helen一起出去压马路，在西湖边的某块草地上偶遇这两匹木马&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/wooden-horse&quot;&gt;WOODENHORSE&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
@@ -282,7 +316,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Ginkgo@Zhaohui-2012-11-17&quot; alt=&quot;Ginkgo@Zhaohui-2012-11-17&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2012年的11月，一个人背着相机在朝晖公园入秋后的银杏林里&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2012年的11月的朝晖公园，一个人背着相机在朝晖公园入秋后的银杏林里满眼金黄色&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/ginkgo&quot;&gt;GINKGO&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
@@ -303,7 +337,7 @@
   <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/Helen@Bali-2012-06-14&quot; alt=&quot;Helen@Bali-2012-06-14&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;照片拍摄于2012年6月14日，巴厘岛的金巴兰海滩(Jimbaran Beach), 跟老婆一起蜜月旅行，阳光和煦，天很澄净, 刚吃完晚餐看夕阳西下，周身都是鸡蛋花的香味&lt;/p&gt;
+  &lt;p&gt;这张照片是我拍摄于2012年6月14日的巴厘岛，金巴兰海滩(Jimbaran Beach), 跟老婆一起蜜月旅行，阳光和煦，天很澄净，刚吃完晚餐看夕阳西下，周身都是鸡蛋花的香味至今让人记忆犹新.&lt;/p&gt;
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/helen-bali&quot;&gt;HELEN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 14, 2012.&lt;/p&gt;</content>

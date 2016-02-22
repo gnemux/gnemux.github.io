@@ -51,8 +51,13 @@ callback([
   } ,
 
   {
-    "text": "MOVIE COLLECTION",
-    "href": "http://xumeng.me/movie/my-movie-collection"
+    "text": "MOVIE TO ME",
+    "href": "http://xumeng.me/screen/movie-to-me"
+  } ,
+
+  {
+    "text": "TV SERIES I'M FOLLOWING",
+    "href": "http://xumeng.me/screen/tv-series-following"
   } 
 
 ])

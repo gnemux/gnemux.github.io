@@ -16,7 +16,11 @@
     
     
     <url>
-        <loc>http://xumeng.me/movie/my-movie-collection</loc>
+        <loc>http://xumeng.me/screen/tv-series-following</loc>
+    </url>
+    
+    <url>
+        <loc>http://xumeng.me/screen/movie-to-me</loc>
     </url>
     
     <url>
