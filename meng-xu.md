@@ -10,3 +10,9 @@ image:
   <img src="https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=200" alt="Gnemux">
   <figcaption>Practical Idealism</figcaption>
 </figure>
+
+<br>
+
+<center>
+    <a href="http://xumeng.me/resume">[ Resume ]</a>
+</center>
