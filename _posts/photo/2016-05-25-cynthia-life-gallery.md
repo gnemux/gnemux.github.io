@@ -10,4 +10,4 @@ imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/91CF34A0-E6F1
 
 女儿14个月大啦! 整天到处跑. 
 
-给她建个专门放照片的页面,记录成长的瞬间下时间的流逝.
+给她建个专门放照片的页面,记录成长的瞬间下时间的流逝. 点击标题链接,跳转Photo Gallery
