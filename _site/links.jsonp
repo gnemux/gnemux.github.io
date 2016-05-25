@@ -58,6 +58,11 @@ callback([
   {
     "text": "TV SERIES I'M FOLLOWING",
     "href": "http://xumeng.me/screen/tv-series-following"
+  } ,
+
+  {
+    "text": "CYNTHIA'S LIFE”",
+    "href": "http://xumeng.me/photo/cynthia-life-gallery"
   } 
 
 ])

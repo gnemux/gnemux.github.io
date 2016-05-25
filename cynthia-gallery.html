@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+<head>
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<![endif]-->
+<meta charset="utf-8">
+<title>Cynthia's Life Gallery</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="assets/css/blueimp-gallery.css">
+<link rel="stylesheet" href="assets/css/blueimp-demo.css">
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+</head>
+<body>
+
+<script>
+    
+ var imageArray = 
+ [
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/06C4269F-C1EA-47F6-948F-A6B591394BF4.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/09D66A66-83DC-4BC6-895D-50B3F14A8271.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/0BEB8B4B-6366-4AAD-BC64-5DF2672BDEBA.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/1E615497-2DC8-4A02-B8F4-78C5C0941E16.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/22264742-3E9B-4912-86AF-03410BF95579.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/2452FBA6-5062-473C-9AC1-3117289AF1CC.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/2946BA5F-0D40-48FF-A09E-9EEC77B88B46.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/5737A465-586F-4679-8DE9-EABE6D4E9C79.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/5FAE7379-ADFA-45B6-BA8A-09AE783342E3.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/611CB318-E526-4054-95DF-0EF18CECF408.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/62A6C789-2539-436B-8E96-F8C845DABE85.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/6A34F7E1-53B4-41E6-8594-1227A622AB39.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/70FCEDED-A2A7-4F42-A4FB-6265D359311B.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/7B0A0F0F-EEA1-478F-9930-72C17CBD5B14.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/85DAB706-1693-43DB-96B5-83464EE07AC1.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/8AA5FDEE-AB79-44EB-9069-22D53D8781A2.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/8C0F2C4B-4B96-4194-9F09-CFDBB76718D0.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/91CF34A0-E6F1-4BA6-ADF8-48B9D7ECDD5A.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/954F7786-686C-4321-899E-47278D995DB5.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/99ED8F16-EA11-4032-95B5-A3977D42D9F7.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/A6798497-7226-4BA9-A37B-E1BF9F16759C.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/B11E0C85-E099-4601-98B9-F1CDD4B7D4C1.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/B5319F27-5C57-42C4-AA0C-CCD3F8929E70.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/D1530FB4-84A5-47D2-A3E7-8314D58B2764.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/D363155A-44A7-4A0B-A564-071F528681C0.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/D3AECCFD-8ECC-4A4F-8F98-2FF8D224E108.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/DD56F346-A654-45E8-8146-BEFC730C09DC.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/E6105676-CC90-4BC8-A9F3-A275D01148D0.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/E707D5DC-AA73-4D4C-9142-EF7701BB567F.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/E8779C4A-4F1E-4943-B195-3836D24F3796.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/F14D6025-AF56-4D95-8E2A-405184EB9FE0.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/F2E20677-E60A-4C3E-A629-F7DDDF7D2606.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/F4822045-9C29-48B9-BAE0-E614C46C0ABA.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FA915A62-1797-4A4B-85F2-64120003051C.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender 2.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender 3.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender 4.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender 5.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender 6.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender 7.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/FullSizeRender.jpg",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0005.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0066.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0077.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0083.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0131.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0154.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0173.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0174.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0175.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0203.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0205.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0238.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0304.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0308.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0310.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0327.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0329.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0332.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0333.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0343.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0346.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0399.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0418.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0421.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0541.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0577.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0593.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0662.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0693.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0757.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0790.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0868.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0878.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0901.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0938.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0966.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0975.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_0990.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1004.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1029.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1050.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1087.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1092.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1117.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1119.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1123.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1193.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1231.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1235.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1240.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1242.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1297.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1380.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1424.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1431.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1461.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1467.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1485.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1555.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1556.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1565.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1621.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1648.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1672.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1681.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1849.PNG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1851.JPG",
+     "http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/IMG_1859.JPG"
+];
+
+$(document).ready(function(){
+    var linksContainer = $('#links')
+
+for (var i = imageArray.length - 1; i >= 0; i--) {
+
+    $('<a/>')
+        .append($('<img>').prop('src', imageArray[i] + '?imageMogr2/thumbnail/75x75'))
+        .prop('href', imageArray[i] + '' )
+        .prop('title', "")
+        .attr('data-gallery', '')
+        .appendTo(linksContainer)
+}
+});
+
+
+
+</script>
+
+<h2>CYNTHIA'S TIME </h2>
+<center><div style="font-size: 12px">[LAST UPDATE 2016-05-25]</div></center>
+<br>
+<!-- The container for the list of example images -->
+<div id="links" class="links">
+    
+</div>
+<!-- The Gallery as lightbox dialog, should be a child element of the document body -->
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+
+</body>
+
+<script>
+document.getElementById('links').onclick = function (event) {
+    event = event || window.event;
+    var target = event.target || event.srcElement,
+        link = target.src ? target.parentNode : target,
+        options = {index: link, event: event},
+        links = this.getElementsByTagName('a');
+    blueimp.Gallery(links, options);
+};
+</script>
+
+<script src="assets/js/blueimp-gallery.min.js"></script>
+
+
+</html>
