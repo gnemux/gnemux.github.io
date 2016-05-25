@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "CYNTHIA'S TIME”"
+title: "CYNTHIA'S TIME"
 categories: Photo
 type: photo
 comments: false
 link: http://xumeng.me/cynthia-gallery.html
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/91CF34A0-E6F1-4BA6-ADF8-48B9D7ECDD5A.JPG
+imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/cynthia/photos/91CF34A0-E6F1-4BA6-ADF8-48B9D7ECDD5A.JPG?imageMogr2/crop/!3000x1700a0a700/thumbnail/!20p
 ---
 
 女儿14个月大啦! 整天到处跑. 
