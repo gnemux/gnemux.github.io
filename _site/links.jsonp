@@ -63,6 +63,11 @@ callback([
   {
     "text": "CYNTHIA'S TIME",
     "href": "http://xumeng.me/photo/cynthia-life-gallery"
+  } ,
+
+  {
+    "text": "A BETTER TRAFFIC DATA VISUALIZATION",
+    "href": "http://xumeng.me/idea/better-traffic-data-visualization"
   } 
 
 ])
