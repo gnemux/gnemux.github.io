@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://xumeng.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://xumeng.me" />
-<updated>2016-06-07T04:25:45-04:00</updated>
+<updated>2016-06-07T22:10:20-04:00</updated>
 <id>http://xumeng.me/</id>
 <author>
   <name>Meng Xu</name>
@@ -24,7 +24,7 @@
     <uri>http://xumeng.me</uri>
     <email>gnemux@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;这是为某项目旧版的交通数据可视化效果&lt;/p&gt;
+  <content type="html">&lt;p&gt;这是为某项目旧版的&lt;a href=&quot;http://xumeng.me/idea/traffic-data&quot;&gt;交通数据可视化效果&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map&quot; alt=&quot;T-Data-Map&quot; /&gt;&lt;/p&gt;
 
