@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://xumeng.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://xumeng.me" />
-<updated>2016-06-07T22:10:20-04:00</updated>
+<updated>2016-06-11T23:38:00-04:00</updated>
 <id>http://xumeng.me/</id>
 <author>
   <name>Meng Xu</name>
@@ -26,11 +26,11 @@
   </author>
   <content type="html">&lt;p&gt;这是为某项目旧版的&lt;a href=&quot;http://xumeng.me/idea/traffic-data&quot;&gt;交通数据可视化效果&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map&quot; alt=&quot;T-Data-Map&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map?imageMogr2/thumbnail/!30p&quot; alt=&quot;T-Data-Map&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;为了更好的数据可视化效果,我们为一年前的交通数据可视化项目增加了新的界面和新的GIS交互方式. 我们通过如下几个方面的努力,以体现“一张图”和“平滑”概念.我们为系统设计了全新的界面风格,借鉴了《Oblivion》(&lt;a href=&quot;http://gmunk.com/OBLIVION-GFX&quot;&gt;GMUNK公司的视觉设计&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2_interface.png&quot; alt=&quot;TICC2-INTERFACE&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2_interface.png?imageMogr2/thumbnail/!30p&quot; alt=&quot;TICC2-INTERFACE&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我们采用了基于&lt;a href=&quot;http://openlayers.org&quot;&gt;OpenLayers 3&lt;/a&gt; 的GIS-API重做了所有地图呈现与交互效果, 使得在Web端的像“平滑缩放”这样类似Google Earth提供的视觉效果能够得以实现.&lt;/p&gt;
 
@@ -41,8 +41,8 @@
 &lt;p&gt;我们采用了新的页面分割方式,使界面的每一块区域的功能更加明确,配合后台代码与数据的模块化,充分使用异步加载使功能切换更加平滑,并进一步降低了维护成本.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav1.png&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav1.png&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav2.png&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav2.png&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav1.png&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav1.png?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav2.png&quot;&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/ticc2-nav2.png?imageMogr2/thumbnail/!30p&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
 
