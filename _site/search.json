@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "关于软件许可证",
+		  "category"   : "",
+		  "url"        : "http://xumeng.me/idea/what-is-software-license",
+		  "date"       : "2016-06-12 00:00:00 -0400",
+		  "shortdate"  : "June 12, 2016"
+		} ,
+	
+		{
 		  "title"      : "A BETTER TRAFFIC DATA VISUALIZATION",
 		  "category"   : "",
 		  "url"        : "http://xumeng.me/idea/better-traffic-data-visualization",
