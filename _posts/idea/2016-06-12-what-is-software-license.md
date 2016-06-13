@@ -93,7 +93,7 @@ Google了一遍, 在所有开源软件许可中, 找到了最彪悍的一个: [�
       
     0. You just DO WHAT THE FUCK YOU WANT TO.
     
-作者[Sam Hocevar](https://en.wikipedia.org/wiki/Sam_Hocevar), 是个法国软件工程师,增是Debian Project的Selected Leader, 开源果然够彻底
+作者[Sam Hocevar](https://en.wikipedia.org/wiki/Sam_Hocevar), 是个法国软件工程师,曾是Debian Project的Selected Leader, 开源果然够彻底
 
 ----
 
