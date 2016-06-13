@@ -75,7 +75,7 @@ comments: true
 
 * ### 最彪悍的许可
 
-Google了一遍, 在所有开源软件许可中, 找到了最彪悍的一个: (“WTFPL”)[https://zh.wikipedia.org/wiki/WTFPL]证书
+Google了一遍, 在所有开源软件许可中, 找到了最彪悍的一个: [“WTFPL”](https://zh.wikipedia.org/wiki/WTFPL)证书
 
 条款只有一条:“你TM爱咋用就咋用”
 
