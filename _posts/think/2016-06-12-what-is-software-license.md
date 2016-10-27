@@ -3,7 +3,7 @@ layout: post
 title: 关于软件许可证
 type: photo
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/gerwinski-gnu-head.png?imageMogr2/thumbnail/!30p
-categories: idea
+categories: think
 description: "我们需要知道的"
 comments: true
 ---
