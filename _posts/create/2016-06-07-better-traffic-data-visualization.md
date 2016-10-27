@@ -3,7 +3,7 @@ layout: post
 title: A BETTER TRAFFIC DATA VISUALIZATION
 type: photo
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/ticc2_interface.png?imageMogr2/thumbnail/!30p
-categories: idea
+categories: create
 comments: false
 ---
 

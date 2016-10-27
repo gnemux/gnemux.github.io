@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://xumeng.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://xumeng.me" />
-<updated>2016-06-12T20:53:56-04:00</updated>
+<updated>2016-10-26T22:43:36-04:00</updated>
 <id>http://xumeng.me/</id>
 <author>
   <name>Meng Xu</name>
@@ -14,9 +14,58 @@
 
 
 <entry>
-  <title type="html"><![CDATA[关于软件许可证]]></title>
-  <link>http://xumeng.me/idea/what-is-software-license</link>
-  <id>http://xumeng.me/idea/what-is-software-license</id>
+  <title type="html"><![CDATA[GREAT OCEAN ROAD 2016]]></title>
+  <link>http://xumeng.me/explore/australia-2016</link>
+  <id>http://xumeng.me/explore/australia-2016</id>
+  <published>2016-10-10T00:00:00-04:00</published>
+  <updated>2016-10-10T00:00:00-04:00</updated>
+  <author>
+    <name>Meng Xu</name>
+    <uri>http://xumeng.me</uri>
+    <email>gnemux@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/australia2016/photos/12-apos.jpg&quot; alt=&quot;Lovina-1@Bali-2016-09-16&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2016年10月，来到澳洲参加 &lt;a href=&quot;http://www.itsworldcongress2016.com/&quot;&gt;ITSWC 23rd&lt;/a&gt;， 有幸驱车跑了一趟壮丽的大洋路。站在无与伦比的12门徒景象前，感叹这片大陆的得天独厚。
+十多天的旅程留下了太多难忘与震动心灵的回忆。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/australia-2016&quot;&gt;GREAT OCEAN ROAD 2016&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 10, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[LOVINA BALI 2016]]></title>
+  <link>http://xumeng.me/explore/bali-2016</link>
+  <id>http://xumeng.me/explore/bali-2016</id>
+  <published>2016-09-29T00:00:00-04:00</published>
+  <updated>2016-09-29T00:00:00-04:00</updated>
+  <author>
+    <name>Meng Xu</name>
+    <uri>http://xumeng.me</uri>
+    <email>gnemux@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/bali2016/photos/Bali-2016-dolphin-1.jpg&quot; alt=&quot;Lovina-1@Bali-2016-09-16&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/bali2016/photos/Bali-2016-dolphin-3.jpg&quot; alt=&quot;Lovina-3@Bali-2016-09-16&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/bali2016/photos/Bali-2016-lovina-1.jpg&quot; alt=&quot;Lovina-4@Bali-2016-09-16&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://7xkj65.com1.z0.glb.clouddn.com/bali2016/photos/Bali-2016-lovina-2.jpg&quot; alt=&quot;Lovina-5@Bali-2016-09-16&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2016年9月22日，参加PP婚礼的一行人来到巴厘岛北部的沿海渔村罗威纳(Lovina)，在清晨的朝阳里我拍下这些跟画一样的照片，迎接我们的是一次跟画一样的奇幻漂流&lt;/p&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/bali-2016&quot;&gt;LOVINA BALI 2016&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on September 29, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[ABOUT LICENCE WE NEED TO KNOW]]></title>
+  <link>http://xumeng.me/think/what-is-software-license</link>
+  <id>http://xumeng.me/think/what-is-software-license</id>
   <published>2016-06-12T00:00:00-04:00</published>
   <updated>2016-06-12T00:00:00-04:00</updated>
   <author>
@@ -145,14 +194,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sam_Hocevar&quot;&gt;https://en.wikipedia.org/wiki/Sam_Hocevar&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/what-is-software-license&quot;&gt;关于软件许可证&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 12, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/think/what-is-software-license&quot;&gt;ABOUT LICENCE WE NEED TO KNOW&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 12, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A BETTER TRAFFIC DATA VISUALIZATION]]></title>
-  <link>http://xumeng.me/idea/better-traffic-data-visualization</link>
-  <id>http://xumeng.me/idea/better-traffic-data-visualization</id>
+  <link>http://xumeng.me/create/better-traffic-data-visualization</link>
+  <id>http://xumeng.me/create/better-traffic-data-visualization</id>
   <published>2016-06-07T00:00:00-04:00</published>
   <updated>2016-06-07T00:00:00-04:00</updated>
   <author>
@@ -182,14 +231,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/better-traffic-data-visualization&quot;&gt;A BETTER TRAFFIC DATA VISUALIZATION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 07, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/create/better-traffic-data-visualization&quot;&gt;A BETTER TRAFFIC DATA VISUALIZATION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 07, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CYNTHIA'S TIME]]></title>
   <link>http://xumeng.me/cynthia-gallery</link>
-  <id>http://xumeng.me/photo/cynthia-life-gallery</id>
+  <id>http://xumeng.me/love/cynthia-life-gallery</id>
   <published>2016-05-25T00:00:00-04:00</published>
   <updated>2016-05-25T00:00:00-04:00</updated>
   <author>
@@ -203,14 +252,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 点击标题链接, 跳转&lt;a href=&quot;http://xumeng.me/cynthia-gallery&quot;&gt;Photo Gallery&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/cynthia-life-gallery&quot;&gt;CYNTHIA'S TIME&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 25, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/love/cynthia-life-gallery&quot;&gt;CYNTHIA'S TIME&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 25, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[TV SERIES I'M FOLLOWING]]></title>
-  <link>http://xumeng.me/screen/tv-series-following</link>
-  <id>http://xumeng.me/screen/tv-series-following</id>
+  <link>http://xumeng.me/relax/tv-series-following</link>
+  <id>http://xumeng.me/relax/tv-series-following</id>
   <published>2016-02-22T00:00:00-05:00</published>
   <updated>2016-02-22T00:00:00-05:00</updated>
   <author>
@@ -244,14 +293,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 &lt;p&gt;针对1周1集一年还放寒暑假的美剧的有效策略就是：同时看N部！上面就是我最近正在追的剧&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/screen/tv-series-following&quot;&gt;TV SERIES I'M FOLLOWING&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on February 22, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/relax/tv-series-following&quot;&gt;TV SERIES I'M FOLLOWING&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on February 22, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MOVIE TO ME]]></title>
-  <link>http://xumeng.me/screen/movie-to-me</link>
-  <id>http://xumeng.me/screen/movie-to-me</id>
+  <link>http://xumeng.me/relax/movie-to-me</link>
+  <id>http://xumeng.me/relax/movie-to-me</id>
   <published>2015-11-19T00:00:00-05:00</published>
   <updated>2015-11-19T00:00:00-05:00</updated>
   <author>
@@ -273,14 +322,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 &lt;/ul&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/screen/movie-to-me&quot;&gt;MOVIE TO ME&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on November 19, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/relax/movie-to-me&quot;&gt;MOVIE TO ME&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on November 19, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[TRAFFIC DATA]]></title>
-  <link>http://xumeng.me/idea/traffic-data</link>
-  <id>http://xumeng.me/idea/traffic-data</id>
+  <link>http://xumeng.me/create/traffic-data</link>
+  <id>http://xumeng.me/create/traffic-data</id>
   <published>2015-06-16T00:00:00-04:00</published>
   <updated>2015-06-16T00:00:00-04:00</updated>
   <author>
@@ -342,14 +391,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 &lt;hr /&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/traffic-data&quot;&gt;TRAFFIC DATA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/create/traffic-data&quot;&gt;TRAFFIC DATA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[REALLY LONG TRIP]]></title>
-  <link>http://xumeng.me/idea/a-long-trip</link>
-  <id>http://xumeng.me/idea/a-long-trip</id>
+  <link>http://xumeng.me/create/a-long-trip</link>
+  <id>http://xumeng.me/create/a-long-trip</id>
   <published>2015-06-04T00:00:00-04:00</published>
   <updated>2015-06-04T00:00:00-04:00</updated>
   <author>
@@ -365,14 +414,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 &lt;p&gt;[This video is powered by &lt;a href=&quot;https://github.com/acaudwell/Gource&quot;&gt;Gource&lt;/a&gt;]&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/idea/a-long-trip&quot;&gt;REALLY LONG TRIP&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 04, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/create/a-long-trip&quot;&gt;REALLY LONG TRIP&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 04, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[STILT FISHERMAN]]></title>
-  <link>http://xumeng.me/photo/stilt-fisherman</link>
-  <id>http://xumeng.me/photo/stilt-fisherman</id>
+  <link>http://xumeng.me/explore/stilt-fisherman</link>
+  <id>http://xumeng.me/explore/stilt-fisherman</id>
   <published>2014-05-04T00:00:00-04:00</published>
   <updated>2014-05-04T00:00:00-04:00</updated>
   <author>
@@ -386,14 +435,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2015年5月4日的斯里兰卡，在印度洋海啸纪念碑边上的海滩上。高脚钓鱼是当地的文化习俗，当然现在已鲜有人这样钓鱼了，于是乎照片上的这两位兄弟只是摆拍而已..&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/stilt-fisherman&quot;&gt;STILT FISHERMAN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/stilt-fisherman&quot;&gt;STILT FISHERMAN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SIGIRIYA]]></title>
-  <link>http://xumeng.me/photo/sigiriya</link>
-  <id>http://xumeng.me/photo/sigiriya</id>
+  <link>http://xumeng.me/explore/sigiriya</link>
+  <id>http://xumeng.me/explore/sigiriya</id>
   <published>2014-05-03T00:00:00-04:00</published>
   <updated>2014-05-03T00:00:00-04:00</updated>
   <author>
@@ -408,14 +457,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 公元500年左右摩利耶王朝的一个国王弑父夺权后为了躲避兄弟复仇，在这块巨石顶上建起了一座空中宫殿。在丛林里中埋没了十几个世纪后，在上世纪末才被一个英国猎人发现，又过了100年后终于迎来了我们的出现。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/sigiriya&quot;&gt;SIGIRIYA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/sigiriya&quot;&gt;SIGIRIYA&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[SUNSET]]></title>
-  <link>http://xumeng.me/photo/sunset</link>
-  <id>http://xumeng.me/photo/sunset</id>
+  <link>http://xumeng.me/explore/sunset</link>
+  <id>http://xumeng.me/explore/sunset</id>
   <published>2014-05-02T00:00:00-04:00</published>
   <updated>2014-05-02T00:00:00-04:00</updated>
   <author>
@@ -429,14 +478,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2014年5月2日的斯里兰卡，跟Helen结束了一天的行程，在Palm洒店的海滩边，看着印度阳的落日缓缓沉下。2个小时后，满天的星辰就像闪亮的钻石洒满在一张无限大的黑色蓝丝绒上, 我跟Helen提着鞋走在沙滩边，脚下是温暖的海水，我们都希望时间永远凝固在那一瞬间&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/sunset&quot;&gt;SUNSET&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/sunset&quot;&gt;SUNSET&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ELEPHANT]]></title>
-  <link>http://xumeng.me/photo/elephant</link>
-  <id>http://xumeng.me/photo/elephant</id>
+  <link>http://xumeng.me/explore/elephant</link>
+  <id>http://xumeng.me/explore/elephant</id>
   <published>2014-05-02T00:00:00-04:00</published>
   <updated>2014-05-02T00:00:00-04:00</updated>
   <author>
@@ -450,14 +499,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2014年5月2日的斯里兰卡，跟Helen一起来这里的某个大象孤儿院，天空很蓝，蓝到直接按下快门照片就能当明信片的程度&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/elephant&quot;&gt;ELEPHANT&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/elephant&quot;&gt;ELEPHANT&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on May 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[LION]]></title>
-  <link>http://xumeng.me/photo/lion</link>
-  <id>http://xumeng.me/photo/lion</id>
+  <link>http://xumeng.me/explore/lion</link>
+  <id>http://xumeng.me/explore/lion</id>
   <published>2013-06-12T00:00:00-04:00</published>
   <updated>2013-06-12T00:00:00-04:00</updated>
   <author>
@@ -471,14 +520,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2013年6月12日，跟Helen一起心血来潮来到杭州动物园。动物的生存状态很差，不禁在想如果给它们选择一次的机会，它们会选择温饱还是自由&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/lion&quot;&gt;LION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/lion&quot;&gt;LION&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[WOODENHORSE]]></title>
-  <link>http://xumeng.me/photo/wooden-horse</link>
-  <id>http://xumeng.me/photo/wooden-horse</id>
+  <link>http://xumeng.me/explore/wooden-horse</link>
+  <id>http://xumeng.me/explore/wooden-horse</id>
   <published>2012-10-01T00:00:00-04:00</published>
   <updated>2012-10-01T00:00:00-04:00</updated>
   <author>
@@ -492,14 +541,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2012年的10月1日，当时正跟Helen一起出去压马路，在西湖边的某块草地上偶遇这两匹木马&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/wooden-horse&quot;&gt;WOODENHORSE&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/wooden-horse&quot;&gt;WOODENHORSE&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[GINKGO]]></title>
-  <link>http://xumeng.me/photo/ginkgo</link>
-  <id>http://xumeng.me/photo/ginkgo</id>
+  <link>http://xumeng.me/explore/ginkgo</link>
+  <id>http://xumeng.me/explore/ginkgo</id>
   <published>2012-10-01T00:00:00-04:00</published>
   <updated>2012-10-01T00:00:00-04:00</updated>
   <author>
@@ -513,14 +562,14 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2012年的11月的朝晖公园，一个人背着相机在朝晖公园入秋后的银杏林里满眼金黄色&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/ginkgo&quot;&gt;GINKGO&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/ginkgo&quot;&gt;GINKGO&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on October 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[HELEN]]></title>
-  <link>http://xumeng.me/photo/helen-bali</link>
-  <id>http://xumeng.me/photo/helen-bali</id>
+  <title type="html"><![CDATA[HELEN BALI 2012]]></title>
+  <link>http://xumeng.me/explore/helen-bali</link>
+  <id>http://xumeng.me/explore/helen-bali</id>
   <published>2012-06-14T00:00:00-04:00</published>
   <updated>2012-06-14T00:00:00-04:00</updated>
   <author>
@@ -534,7 +583,7 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   &lt;p&gt;这张照片是我拍摄于2012年6月14日的巴厘岛，金巴兰海滩(Jimbaran Beach), 跟老婆一起蜜月旅行，阳光和煦，天很澄净，刚吃完晚餐看夕阳西下，周身都是鸡蛋花的香味至今让人记忆犹新.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/photo/helen-bali&quot;&gt;HELEN&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 14, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://xumeng.me/explore/helen-bali&quot;&gt;HELEN BALI 2012&lt;/a&gt; was originally published by Meng Xu at &lt;a href=&quot;http://xumeng.me&quot;&gt;&lt;/a&gt; on June 14, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>

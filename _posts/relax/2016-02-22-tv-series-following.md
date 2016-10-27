@@ -4,7 +4,8 @@ title: TV SERIES I'M FOLLOWING
 type: photo
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/american-tv-stations.jpg?imageMogr2/thumbnail/!70p
 comments: true
-categories: screen
+tags: [tv]
+categories: relax
 ---
 
 <figure class="third">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  WOODENHORSE
-categories: Photo
+categories: explore
 type: photo
 comments: true
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/WoodenHorse@WestLake-2012-10-01?imageMogr2/thumbnail/!30p

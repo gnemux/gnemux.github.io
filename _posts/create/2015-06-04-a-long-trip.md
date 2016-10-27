@@ -2,7 +2,7 @@
 layout: post
 title: "REALLY LONG TRIP"
 description: "记录2014年3月至2015年6月TRIP项目的代码生长过程."
-category: idea
+category: create
 tags: [video]
 video: 
 imagefeature: picture-21.jpg

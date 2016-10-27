@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于软件许可证
+title: ABOUT LICENCE WE NEED TO KNOW
 type: photo
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/gerwinski-gnu-head.png?imageMogr2/thumbnail/!30p
 categories: think
@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-总是能从开源项目中看到各种各样的LICENSE, 一般看上去是这样的
+总是能从开源项目中看到各种各样的LICENSE, 一般看上去是这样的    
 
     The MIT License (MIT)
       

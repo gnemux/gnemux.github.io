@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CYNTHIA'S TIME"
-categories: Photo
+categories: love
 type: link
 comments: false
 link: http://xumeng.me/cynthia-gallery

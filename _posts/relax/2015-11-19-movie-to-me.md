@@ -4,7 +4,8 @@ title: MOVIE TO ME
 type: photo
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Starwar-storm-soldier.jpeg?imageMogr2/thumbnail/!90p
 comments: true
-categories: screen
+tags: [movie]
+categories: relax
 ---
 
 

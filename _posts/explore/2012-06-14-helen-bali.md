@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  HELEN
+title:  HELEN BALI 2012
 type: photo
-categories: Photo
+categories: explore
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Helen@Bali-2012-06-14?imageMogr2/thumbnail/!30p
 date: 2012-06-14
 comments: true
