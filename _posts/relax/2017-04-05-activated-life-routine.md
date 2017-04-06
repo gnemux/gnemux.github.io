@@ -37,7 +37,7 @@ share: true
 
 <figure class="third">
 	<a href="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_5727.PNG"><img src="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_5727.PNG?imageMogr2/thumbnail/!80p"></a>
-	<a href="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_5727.PNG"><img src="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_5727.PNG?imageMogr2/thumbnail/!80p"></a>
+	<a href="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_6055.PNG"><img src="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_6055.PNG?imageMogr2/thumbnail/!80p"></a>
 	<a href="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_5855.PNG"><img src="http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photosIMG_5855.PNG?imageMogr2/thumbnail/!80p"></a>
 </figure>
 
