@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACTIVATED LIFE ROUTINE"
-description: "住到江边后的新生活状态"
+description: "住到江边的新生活状态"
 type: photo
 category: relax
 modified: 2017-04-05
