@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="" />
+    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" afterPath="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" />
+    </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <first_editor relative-caret-position="233">
+                <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,6 +50,7 @@
       <find>use_code</find>
       <find>gem</find>
       <find>过车</find>
+      <find>有明</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -238,24 +241,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gnemux.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gnemux.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gnemux.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="think" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -729,7 +714,7 @@
       <workItem from="1496367535353" duration="141000" />
       <workItem from="1497848954960" duration="9892000" />
       <workItem from="1498110028055" duration="983000" />
-      <workItem from="1498204430125" duration="1790000" />
+      <workItem from="1498204430125" duration="1980000" />
     </task>
     <task id="LOCAL-00068" summary="push a new post">
       <created>1456126226185</created>
@@ -1078,7 +1063,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240481000" />
+    <option name="totallyTimeSpent" value="240671000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1559,8 +1544,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <first_editor relative-caret-position="233">
+            <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
