@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="" />
+    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" afterPath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" />
+    </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="435">
-                <caret line="91" column="134" lean-forward="false" selection-start-line="91" selection-start-column="134" selection-end-line="91" selection-end-column="134" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -829,7 +831,7 @@
       <workItem from="1498437531148" duration="18000" />
       <workItem from="1505114953246" duration="1461000" />
       <workItem from="1505182898048" duration="32000" />
-      <workItem from="1505195356820" duration="17487000" />
+      <workItem from="1505195356820" duration="17661000" />
     </task>
     <task id="LOCAL-00068" summary="push a new post">
       <created>1456126226185</created>
@@ -1178,7 +1180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260138000" />
+    <option name="totallyTimeSpent" value="260312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1669,8 +1671,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="435">
-            <caret line="91" column="134" lean-forward="false" selection-start-line="91" selection-start-column="134" selection-end-line="91" selection-end-column="134" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
