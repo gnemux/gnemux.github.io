@@ -34,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="428">
-                <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+              <first_editor relative-caret-position="195">
+                <caret line="149" column="26" lean-forward="false" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -710,7 +710,7 @@
       <workItem from="1505114953246" duration="1461000" />
       <workItem from="1505182898048" duration="32000" />
       <workItem from="1505195356820" duration="19856000" />
-      <workItem from="1505269553510" duration="319000" />
+      <workItem from="1505269553510" duration="439000" />
     </task>
     <task id="LOCAL-00068" summary="push a new post">
       <created>1456126226185</created>
@@ -1059,7 +1059,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262826000" />
+    <option name="totallyTimeSpent" value="262946000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1540,8 +1540,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="428">
-            <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <first_editor relative-caret-position="195">
+            <caret line="149" column="26" lean-forward="false" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
