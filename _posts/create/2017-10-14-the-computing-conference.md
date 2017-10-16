@@ -12,7 +12,7 @@ comments: true
 
 ### 我们与阿里一起发布了在萧山测试的城市大脑应用，很高兴能参与其中：
 
-<iframe width="748" height="400" src="http://player.youku.com/embed/XMzA3ODQzNDQwOA" frameborder="0" allowfullscreen> </iframe>
+<iframe width="100%" height="400px" src="http://player.youku.com/embed/XMzA3ODQzNDQwOA" frameborder="0" allowfullscreen> </iframe>
 
 ----
 
