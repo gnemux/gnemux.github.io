@@ -10,8 +10,14 @@ comments: true
 
 2017年10月11~14日，有幸作为公司展商参与了阿里一年一届的[云栖大会](https://yunqi.aliyun.com/#/video/warm)，本届展会的主题是 “飞天/智能” (APSARA / INTELLIGENCE)。领略了业界近几年来的技术积淀以及对未来技术方向的思考。
 
+### 我们与阿里一起发布了在萧山测试的城市大脑应用，很高兴能参与其中：
+
+<iframe width="748" height="400" src="//player.youku.com/player.php/sid/XMzA3ODQzNDQwOA==/v.swf" frameborder="0" allowfullscreen> </iframe>
+
+----
+
 <figure>
-   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1554.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
 <figure class="half">
@@ -20,6 +26,6 @@ comments: true
 </figure>
 
 <figure>
-   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1554.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
