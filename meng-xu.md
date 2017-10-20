@@ -14,5 +14,5 @@ image:
 <br>
 
 <center>
-    <a href="http://xumeng.me/resume">[ Resume ]</a>
+    <a href="https://xumeng.me/resume">[ Resume ]</a>
 </center>

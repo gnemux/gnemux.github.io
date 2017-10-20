@@ -7,7 +7,7 @@ categories: create
 comments: false
 ---
 
-这是为某项目旧版的[交通数据可视化效果](http://xumeng.me/create/traffic-data)
+这是为某项目旧版的[交通数据可视化效果](https://xumeng.me/create/traffic-data)
 
 ![T-Data-Map](http://7xkj65.com1.z0.glb.clouddn.com/T-Data-Map?imageMogr2/thumbnail/!30p)
 
