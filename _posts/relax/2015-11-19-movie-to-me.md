@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOVIE TO ME
-type: photo
+type: 
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/Starwar-storm-soldier.jpeg?imageMogr2/thumbnail/!90p
 comments: true
 tags: [movie]

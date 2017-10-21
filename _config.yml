@@ -3,7 +3,7 @@ description:      "Simplicity Is The Ultimate Sophistication"
 logo:             omikron.png
 disqus_shortname: xumeng
 # Assign a default image for your site's header and footer
-default_bg:       http://7xkj65.com1.z0.glb.clouddn.com/NG_Whale.jpg?imageMogr2/thumbnail/!50p
+default_bg:       https://xumeng.me/images/NG_Whale.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -93,8 +93,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://gnemux.github.io/'
-  relativeLinks: 'http://gnemux.github.io/links.jsonp'
+  siteurl: 'https://xumeng.me/'
+  relativeLinks: 'https://xumeng.me/links.jsonp'
   media: 'images'
   metadata:
     _posts:

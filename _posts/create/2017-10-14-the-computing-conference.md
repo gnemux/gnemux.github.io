@@ -1,7 +1,7 @@
 ---
 layout: post
 title: THE COMPUTING CONFERENCE
-type: photo
+type: 
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
 categories: create
 comments: true

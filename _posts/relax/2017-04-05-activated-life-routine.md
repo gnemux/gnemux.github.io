@@ -2,7 +2,7 @@
 layout: post
 title: "ACTIVATED LIFE ROUTINE"
 description: "住到江边的新生活状态"
-type: photo
+type: 
 category: relax
 modified: 2017-04-05
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/newlife2017/photoswentao-sakura-lane2.jpg?imageMogr2/thumbnail/!100p
