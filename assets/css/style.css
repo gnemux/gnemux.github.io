@@ -93,6 +93,19 @@ a:hover {
 .lead {
   font-size: 21px;
   line-height: 2em;
+
+  /* add by Gnemux line limit */
+  /*text-overflow: ellipsis;*/
+  /*overflow: hidden;*/
+  /*max-height: 10em;*/
+
+  /* add by Gnemux line limit only work in webkit-core browser */
+  -webkit-line-clamp: 6; /* 设置超出多少行隐藏 */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  /* 设置 display 为 -webkit-box 或者 -webkit-inline-box 时为隐藏状态 */
+  display: -webkit-inline-box;
+
 }
 /* - Blockquote - */
 blockquote {
