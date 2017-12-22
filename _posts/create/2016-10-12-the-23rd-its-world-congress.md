@@ -4,6 +4,7 @@ title: THE 23rd ITS WORLD CONGRESS
 type: 
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/australia2016/photos/its-wc-logo.jpg
 categories: create
+description: "世界正在专注中前行"
 comments: true
 ---
 

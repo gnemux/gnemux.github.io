@@ -4,6 +4,7 @@ title: THE COMPUTING CONFERENCE
 type: 
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
 categories: create
+description: "人性与科技的交叉点"
 comments: true
 
 ---

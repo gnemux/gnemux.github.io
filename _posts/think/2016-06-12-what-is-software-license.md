@@ -4,7 +4,7 @@ title: ABOUT LICENCE WE NEED TO KNOW
 type: 
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/gerwinski-gnu-head.png?imageMogr2/thumbnail/!30p
 categories: think
-description: "我们需要知道的"
+description: "关于许可"
 comments: true
 ---
 
