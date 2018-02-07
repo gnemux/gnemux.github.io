@@ -64,6 +64,4 @@ title: 如何演示ITS产品
           <img src="http://7xkj65.com1.z0.glb.clouddn.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step06.png">
     </figure>
 
-+ 相关[【视频控件↓】](https://pan.baidu.com/s/1gf3NQy3)与[【数字字体↓】](https://pan.baidu.com/s/1dEWHVdn)下载，双击安装
-
-    (如果需要访问视频需要使用IE9以上版浏览器)
++ 相关[【数字字体↓】](https://pan.baidu.com/s/1i6HT1Pz)下载，双击安装
