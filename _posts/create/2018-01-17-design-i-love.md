@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design I Love
+title: DESIGN I LOVE
 type: 
 imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/design-i-love/photos/vitruvian-man.jpg?imageMogr2/thumbnail/!60p
 categories: create
