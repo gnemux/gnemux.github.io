@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" afterPath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" />
-    </list>
+    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="" />
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,39 +27,50 @@
     <favorites_list name="gnemux.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-09-03-japan.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="248">
-                <caret line="128" column="45" lean-forward="false" selection-start-line="128" selection-start-column="45" selection-end-line="128" selection-end-column="45" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>use_code</find>
-      <find>gem</find>
-      <find>过车</find>
-      <find>有明</find>
-      <find>third</find>
-      <find>BUS</find>
-      <find>github.</find>
-      <find>logo</find>
-      <find>title</find>
-      <find>五合目</find>
       <find>6合</find>
       <find>塔底</find>
       <find>相必</find>
       <find>专门</find>
+      <find>paginati</find>
+      <find>jekyll-paginate</find>
+      <find>http://xumeng.me</find>
+      <find>http://fonts</find>
+      <find>http://player</find>
+      <find>type: photo</find>
+      <find>xumeng.me</find>
+      <find>home</find>
+      <find>post-body</find>
+      <find>post</find>
+      <find>page-body</find>
+      <find>row</find>
+      <find>lead</find>
+      <find>excerpt</find>
+      <find>language</find>
+      <find>number_of_words</find>
+      <find>encoding</find>
+      <find>utf-8</find>
+      <find>绩效</find>
+      <find>xiaoshan</find>
+      <find>shaoxin</find>
+      <find>185</find>
+      <find>河口湖</find>
+      <find>批</find>
+      <find>half</find>
+      <find>forth</find>
     </findStrings>
+    <replaceStrings>
+      <replace>https://xumeng.me</replace>
+      <replace>https://fonts</replace>
+      <replace>https://player</replace>
+      <replace>type:</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,57 +88,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_posts/photo/2016-05-25-cynthia-life-gallery.md" />
-        <option value="$PROJECT_DIR$/_posts/idea/2016-06-07-better-traffic-data-visualization.md" />
-        <option value="$PROJECT_DIR$/_posts/idea/2015-06-16-traffic-data.md" />
-        <option value="$PROJECT_DIR$/_posts/idea/2016-06-12-what-is-software-license.md" />
-        <option value="$PROJECT_DIR$/_posts/photo/2016-09-16-bali.md" />
-        <option value="$PROJECT_DIR$/_posts/photo/2016-09-16-bali-2016.md" />
-        <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/_site/resume.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/_site/resume_cn.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_posts/photo/2016-10-10-australia-2016.md" />
-        <option value="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" />
-        <option value="$PROJECT_DIR$/_posts/create/2016-06-12-what-is-software-license.md" />
-        <option value="$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" />
-        <option value="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2016-05-25-cynthia-life-gallery.md" />
-        <option value="$PROJECT_DIR$/_posts/love/2016-05-25-cynthia-life-gallery.md" />
-        <option value="$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md" />
-        <option value="$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" />
-        <option value="$PROJECT_DIR$/_posts/create/2015-06-04-a-long-trip.md" />
-        <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/pageminimal.html" />
         <option value="$PROJECT_DIR$/_posts/create/2016-10-12-23rd-its-conference.md" />
         <option value="$PROJECT_DIR$/_posts/create/2016-10-12-23rd-its-world-congress.md" />
-        <option value="$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md" />
-        <option value="$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md" />
         <option value="$PROJECT_DIR$/_posts/_inprogress/activated-life-routine.md.inprogress" />
-        <option value="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" />
         <option value="$PROJECT_DIR$/meng-xu.md" />
-        <option value="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" />
+        <option value="$PROJECT_DIR$/test/test_page.md" />
+        <option value="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-query.md" />
+        <option value="$PROJECT_DIR$/_posts/_inprogress/2017-09-03-japan.md.inprogress" />
+        <option value="$PROJECT_DIR$/_posts/love/2016-05-25-cynthia-life-gallery.md" />
+        <option value="$PROJECT_DIR$/_site/create/better-traffic-data-visualization.html" />
+        <option value="$PROJECT_DIR$/_site/feed.xml" />
+        <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/_posts/create/2015-06-04-a-long-trip.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2017-04-12-yinxu.md" />
+        <option value="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" />
+        <option value="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/resume_cn.html" />
         <option value="$PROJECT_DIR$/resume.html" />
-        <option value="$PROJECT_DIR$/how-to-display-its-products.md" />
-        <option value="$PROJECT_DIR$/test/test_page.md" />
-        <option value="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" />
-        <option value="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-query.md" />
-        <option value="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" />
-        <option value="$PROJECT_DIR$/_posts/_inprogress/2017-09-03-japan.md.inprogress" />
-        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" />
+        <option value="$PROJECT_DIR$/_posts/create/2017-10-14-the-computing-conference.md" />
+        <option value="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" />
+        <option value="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" />
+        <option value="$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md" />
+        <option value="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" />
+        <option value="$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md" />
+        <option value="$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md" />
+        <option value="$PROJECT_DIR$/_posts/create/2018-01-17-design-i-love.md" />
+        <option value="$PROJECT_DIR$/how-to-display-its-products.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_includes/scripts.html" />
+        <option value="$PROJECT_DIR$/_posts/_inprogress/2018-03-17-sanya.md.inprogress" />
+        <option value="$PROJECT_DIR$/_posts/explore/2018-03-17-sanya.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2018-03-17-sanya-2018.md" />
       </list>
     </option>
   </component>
@@ -145,7 +154,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1023" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -240,9 +249,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,7 +274,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnemux.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnemux.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="explore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnemux.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gnemux.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_inprogress" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,7 +332,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="_config.yml&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_config.yml&#10;omikron.&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/images/omikron.png&#10;fa&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/favicon.ico&#10;omi&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/images/omikron.png&#10;index&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_site/categories/index.html&#10;y&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_config.yml&#10;share&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_includes/share.html&#10;head&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_includes/head.html&#10;css&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/assets/css/style.css&#10;scrip&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/assets/js/script.js&#10;script&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/assets/js/script.js&#10;main&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/public/css/main.scss" />
+    <property name="SearchEverywhereHistoryKey" value="my&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_posts/explore/2017-12-05-my-2017.md&#10;Read&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/README.md&#10;yml&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_config.yml&#10;.yml&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_config.yml&#10;_&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_config.yml&#10;_config&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_config.yml&#10;_config.yml&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/==personal==/gnemux.github.io/_config.yml&#10;omikron.&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/images/omikron.png&#10;fa&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/favicon.ico&#10;omi&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/images/omikron.png&#10;index&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_site/categories/index.html&#10;y&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_config.yml&#10;share&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_includes/share.html&#10;head&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/_includes/head.html&#10;css&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/assets/css/style.css&#10;scrip&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/assets/js/script.js&#10;script&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/assets/js/script.js&#10;main&#9;FILE&#9;file:///Users/Gnemux/Documents/Workspace_IntelliJ/gnemux.github.io/public/css/main.scss" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -314,10 +359,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/explore" />
+      <recent name="$PROJECT_DIR$/_posts/create" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_posts/think" />
       <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/_posts/relax" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/test" />
@@ -711,196 +756,23 @@
       <workItem from="1505114953246" duration="1461000" />
       <workItem from="1505182898048" duration="32000" />
       <workItem from="1505195356820" duration="19856000" />
-      <workItem from="1505269553510" duration="585000" />
-    </task>
-    <task id="LOCAL-00068" summary="push a new post">
-      <created>1456126226185</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1456126226185</updated>
-    </task>
-    <task id="LOCAL-00069" summary="push a new post">
-      <created>1456126323141</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1456126323141</updated>
-    </task>
-    <task id="LOCAL-00070" summary="修改背景图片大小">
-      <created>1456126572831</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1456126572831</updated>
-    </task>
-    <task id="LOCAL-00071" summary="修改背景图片大小">
-      <created>1456126608296</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1456126608296</updated>
-    </task>
-    <task id="LOCAL-00072" summary="修改背景图片大小">
-      <created>1456126654926</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1456126654927</updated>
-    </task>
-    <task id="LOCAL-00073" summary="整理文字 inprogress">
-      <created>1461727440873</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1461727440877</updated>
-    </task>
-    <task id="LOCAL-00074" summary="text update">
-      <created>1462843787607</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1462843787609</updated>
-    </task>
-    <task id="LOCAL-00075" summary="try iconfont">
-      <created>1462844655841</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1462844655841</updated>
-    </task>
-    <task id="LOCAL-00076" summary="try fix pigment issue">
-      <created>1462846296935</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1462846296935</updated>
-    </task>
-    <task id="LOCAL-00077" summary="add resume page in chinese">
-      <created>1462851526664</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1462851526664</updated>
-    </task>
-    <task id="LOCAL-00078" summary="update resume_cn">
-      <created>1462852244591</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1462852244591</updated>
-    </task>
-    <task id="LOCAL-00079" summary="sync chinese and english version of resume">
-      <created>1462861241125</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1462861241126</updated>
-    </task>
-    <task id="LOCAL-00080" summary="fix typo">
-      <created>1462861403964</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1462861403964</updated>
-    </task>
-    <task id="LOCAL-00081" summary="keywords translation">
-      <created>1462861758240</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1462861758240</updated>
-    </task>
-    <task id="LOCAL-00082" summary="adjust resume_cn">
-      <created>1462862185530</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1462862185530</updated>
-    </task>
-    <task id="LOCAL-00083" summary="modify 404 page">
-      <created>1462869785243</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1462869785243</updated>
-    </task>
-    <task id="LOCAL-00084" summary="add resume url to about me page">
-      <created>1462870809490</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1462870809490</updated>
-    </task>
-    <task id="LOCAL-00085" summary="test qn">
-      <created>1464076562643</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1464076562646</updated>
-    </task>
-    <task id="LOCAL-00086" summary="add cythia's life photo gallery">
-      <created>1464145664909</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1464145664909</updated>
-    </task>
-    <task id="LOCAL-00087" summary="adjust photo's size of cynthia's time">
-      <created>1464146809409</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1464146809409</updated>
-    </task>
-    <task id="LOCAL-00088" summary="modify content of cynthia's photo gallery">
-      <created>1464147496487</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1464147496491</updated>
-    </task>
-    <task id="LOCAL-00089" summary="modify content of cynthia's photo gallery">
-      <created>1464147675499</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1464147675499</updated>
-    </task>
-    <task id="LOCAL-00090" summary="update the type of cynthia's gallery">
-      <created>1464153714588</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1464153714590</updated>
-    </task>
-    <task id="LOCAL-00091" summary="fix the typo of cynthia's gallery">
-      <created>1464153781262</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1464153781262</updated>
-    </task>
-    <task id="LOCAL-00092" summary="fix the link of cynthia's gallery">
-      <created>1464153899634</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1464153899635</updated>
-    </task>
-    <task id="LOCAL-00093" summary="change baidu hm code">
-      <created>1464154937023</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1464154937023</updated>
-    </task>
-    <task id="LOCAL-00094" summary="add link to post of cythia's time">
-      <created>1465259867810</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1465259867815</updated>
+      <workItem from="1505269553510" duration="821000" />
+      <workItem from="1508124400134" duration="9686000" />
+      <workItem from="1508478734170" duration="4179000" />
+      <workItem from="1508651502825" duration="8348000" />
+      <workItem from="1508811484650" duration="377000" />
+      <workItem from="1509927648720" duration="496000" />
+      <workItem from="1511847475451" duration="773000" />
+      <workItem from="1512449937706" duration="5926000" />
+      <workItem from="1512472479148" duration="273000" />
+      <workItem from="1512607888533" duration="1041000" />
+      <workItem from="1513928600514" duration="1370000" />
+      <workItem from="1516157271804" duration="8580000" />
+      <workItem from="1517990998008" duration="5330000" />
+      <workItem from="1520210829244" duration="1298000" />
+      <workItem from="1520232991510" duration="42000" />
+      <workItem from="1520236906611" duration="58000" />
+      <workItem from="1521593020653" duration="8433000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -1056,11 +928,200 @@
       <option name="project" value="LOCAL" />
       <updated>1492750490724</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="add a post about the computing comference">
+      <created>1508133382594</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1508133382595</updated>
+    </task>
+    <task id="LOCAL-00118" summary="append a video to a recent post">
+      <created>1508134740569</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1508134740570</updated>
+    </task>
+    <task id="LOCAL-00119" summary="change a new video embeded method">
+      <created>1508137025655</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1508137025655</updated>
+    </task>
+    <task id="LOCAL-00120" summary="change a new video embeded method">
+      <created>1508137272143</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1508137272144</updated>
+    </task>
+    <task id="LOCAL-00121" summary="change a new video embeded method">
+      <created>1508137752596</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1508137752596</updated>
+    </task>
+    <task id="LOCAL-00122" summary="add Gemfile and Gemfile.lock files">
+      <created>1508481171888</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1508481171891</updated>
+    </task>
+    <task id="LOCAL-00123" summary="change http to https">
+      <created>1508481986269</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1508481986269</updated>
+    </task>
+    <task id="LOCAL-00124" summary="change http links to https links">
+      <created>1508484068795</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1508484068796</updated>
+    </task>
+    <task id="LOCAL-00125" summary="for the green lock">
+      <created>1508569509883</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1508569509884</updated>
+    </task>
+    <task id="LOCAL-00126" summary="change title">
+      <created>1508570332195</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1508570332195</updated>
+    </task>
+    <task id="LOCAL-00127" summary="try to limit max lines of posts in homepage">
+      <created>1508660694660</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1508660694663</updated>
+    </task>
+    <task id="LOCAL-00128" summary="remove a usless tag when testing">
+      <created>1508660876760</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1508660876761</updated>
+    </task>
+    <task id="LOCAL-00129" summary="fix typo &amp; remove a post for security consideration">
+      <created>1508716851147</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1508716851147</updated>
+    </task>
+    <task id="LOCAL-00130" summary="update resume both english and chinese version">
+      <created>1508718200693</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1508718200693</updated>
+    </task>
+    <task id="LOCAL-00131" summary="remove a post again">
+      <created>1508718478764</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1508718478764</updated>
+    </task>
+    <task id="LOCAL-00132" summary="add sate gis images to some posts">
+      <created>1511848109453</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1511848109457</updated>
+    </task>
+    <task id="LOCAL-00133" summary="post a latest article at the end of 2017 in memory of this year">
+      <created>1512455671340</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1512455671341</updated>
+    </task>
+    <task id="LOCAL-00134" summary="fix typo">
+      <created>1512455970080</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1512455970080</updated>
+    </task>
+    <task id="LOCAL-00135" summary="add a pic in the latest post">
+      <created>1512456183625</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1512456183625</updated>
+    </task>
+    <task id="LOCAL-00136" summary="fix typo">
+      <created>1512472511043</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1512472511044</updated>
+    </task>
+    <task id="LOCAL-00137" summary="add a hyperlink to another related post in latest post">
+      <created>1512608492668</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1512608492670</updated>
+    </task>
+    <task id="LOCAL-00138" summary="add description to an old post">
+      <created>1513928646221</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1513928646222</updated>
+    </task>
+    <task id="LOCAL-00139" summary="add description to almost all old posts">
+      <created>1513929848610</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1513929848611</updated>
+    </task>
+    <task id="LOCAL-00140" summary="add  a post &quot;design i love&quot;">
+      <created>1516175379908</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1516175379910</updated>
+    </task>
+    <task id="LOCAL-00141" summary="add  a post &quot;design i love&quot;">
+      <created>1517991047271</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1517991047273</updated>
+    </task>
+    <task id="LOCAL-00142" summary="add  a post &quot;sanya 2018&quot;">
+      <created>1521624380875</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1521624380880</updated>
+    </task>
+    <task id="LOCAL-00143" summary="typo fix">
+      <created>1521625296342</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1521625296342</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263092000" />
+    <option name="totallyTimeSpent" value="319538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1072,20 +1133,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22844827" sideWeight="0.509768" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14592275" sideWeight="0.51221" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24724603" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12176724" sideWeight="0.48412699" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19827586" sideWeight="0.490232" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12124463" sideWeight="0.48412699" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14592275" sideWeight="0.48779" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1965812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20573871" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25643778" sideWeight="0.47802198" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1099,7 +1161,6 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25754312" sideWeight="0.47802198" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1121,11 +1182,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12176724" sideWeight="0.48412699" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12124463" sideWeight="0.48412699" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19827586" sideWeight="0.490232" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2026862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25754312" sideWeight="0.47802198" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635193" sideWeight="0.490232" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21306472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2567132" sideWeight="0.47802198" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1146,157 +1207,161 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update the type of cynthia's gallery" />
-    <MESSAGE value="fix the typo of cynthia's gallery" />
-    <MESSAGE value="fix the link of cynthia's gallery" />
-    <MESSAGE value="change baidu hm code" />
-    <MESSAGE value="add link to post of cythia's time" />
-    <MESSAGE value="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;" />
-    <MESSAGE value="shrink avatar size" />
-    <MESSAGE value="shrink image size in the latest post" />
-    <MESSAGE value="shrink image size in an early post" />
-    <MESSAGE value="post a new article" />
-    <MESSAGE value="add description" />
-    <MESSAGE value="add bali 2016 lovina photo post" />
-    <MESSAGE value="update bali 2016 lovina photo post" />
-    <MESSAGE value="update useso.com to  googleapis.com" />
-    <MESSAGE value="update .ignore file" />
-    <MESSAGE value="fix typo" />
-    <MESSAGE value="增加新博文" />
-    <MESSAGE value="修改描述字数" />
-    <MESSAGE value="fix img link" />
-    <MESSAGE value="add a how-to page show the way display its products for internal spreading" />
-    <MESSAGE value="fix a outdated link in a old post" />
-    <MESSAGE value="add a new post about yinxu" />
-    <MESSAGE value="adjust frong image of the latest post" />
     <MESSAGE value="update my resume" />
     <MESSAGE value="modify how to display its products post" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify how to display its products post" />
+    <MESSAGE value="add a post about the computing comference" />
+    <MESSAGE value="append a video to a recent post" />
+    <MESSAGE value="change a new video embeded method" />
+    <MESSAGE value="add Gemfile and Gemfile.lock files" />
+    <MESSAGE value="change http to https" />
+    <MESSAGE value="change http links to https links" />
+    <MESSAGE value="for the green lock" />
+    <MESSAGE value="change title" />
+    <MESSAGE value="try to limit max lines of posts in homepage" />
+    <MESSAGE value="remove a usless tag when testing" />
+    <MESSAGE value="fix typo &amp; remove a post for security consideration" />
+    <MESSAGE value="update resume both english and chinese version" />
+    <MESSAGE value="remove a post again" />
+    <MESSAGE value="add sate gis images to some posts" />
+    <MESSAGE value="post a latest article at the end of 2017 in memory of this year" />
+    <MESSAGE value="add a pic in the latest post" />
+    <MESSAGE value="fix typo" />
+    <MESSAGE value="add a hyperlink to another related post in latest post" />
+    <MESSAGE value="add description to an old post" />
+    <MESSAGE value="add description to almost all old posts" />
+    <MESSAGE value="add  a post &quot;design i love&quot;" />
+    <MESSAGE value="add  a post &quot;sanya 2018&quot;" />
+    <MESSAGE value="typo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/test/2014-01-03-sample-post-images.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/test/2014-01-04-code-highlighting-post.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/test/2014-01-05-sample-link-post.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/test/2014-01-09-sample-gallery-post.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-04-a-long-trip.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/_inprogress/the-beat-generation.md.inprogress">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/share.html">
+    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="73" lean-forward="false" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+        <state relative-caret-position="453">
+          <caret line="720" column="37" lean-forward="false" selection-start-line="720" selection-start-column="37" selection-end-line="720" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/signoff.html">
+    <entry file="file://$PROJECT_DIR$/_template/2014-01-01-readability-post.md.tp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_template/2014-05-15-first-commit.md.tp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="35" />
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/default_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state relative-caret-position="690">
+          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/pageminimal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/create/2016-10-12-23rd-its-conference.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/create/2016-10-12-23rd-its-world-congress.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/_inprogress/activated-life-routine.md.inprogress" />
-    <entry file="file://$PROJECT_DIR$/_posts/relax/activated-life-routine.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_template/2014-01-12-about-hmfaysal-omega.md.tp">
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="31" column="119" lean-forward="true" selection-start-line="31" selection-start-column="119" selection-end-line="31" selection-end-column="119" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_template/2014-01-11-a-status.md.tp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meng-xu.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="9" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/love/2016-05-25-cynthia-life-gallery.md" />
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="203" column="33" lean-forward="true" selection-start-line="203" selection-start-column="33" selection-end-line="203" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume_cn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="182" column="45" lean-forward="false" selection-start-line="182" selection-start-column="42" selection-end-line="182" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/love/2016-05-25-cynthia-life-gallery.md.inprogress" />
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -1305,98 +1370,161 @@
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-04-12-yinxu.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="302">
-            <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume_cn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-04-a-long-trip.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
+    <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="-319">
+          <caret line="2631" column="36" lean-forward="true" selection-start-line="2631" selection-start-column="36" selection-end-line="2631" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/create/2018-01-17-design-i-love.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="194" lean-forward="false" selection-start-line="27" selection-start-column="194" selection-end-line="27" selection-end-column="194" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/create/2017-10-14-the-computing-conference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="195">
+            <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/_inprogress/travel-around-the-world-feasibiity-study.md.inprogress">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_page.md" />
-    <entry file="file://$PROJECT_DIR$/_template/2013-12-31-installing-jekyll-on-windows.md.tp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -1408,141 +1536,135 @@
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rakefile">
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/featured.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/_inprogress/2016-05-25-cynthia-life-gallery.md.inprogress">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/hmfaysal-404.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/_includes/share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_includes/browser-upgrade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="80" lean-forward="false" selection-start-line="0" selection-start-column="80" selection-end-line="0" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        <state relative-caret-position="15">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md">
+    <entry file="file://$PROJECT_DIR$/_posts/_inprogress/2018-03-17-sanya.md.inprogress">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="165">
-            <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/_inprogress/2017-09-03-japan.md.inprogress" />
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="99" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="99" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="473">
-            <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/love/cynthia-life-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="223" column="45" lean-forward="false" selection-start-line="223" selection-start-column="45" selection-end-line="223" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="2614" column="31" lean-forward="false" selection-start-line="2614" selection-start-column="31" selection-end-line="2614" selection-end-column="31" />
+        <state relative-caret-position="266">
+          <caret line="2339" column="22" lean-forward="false" selection-start-line="2339" selection-start-column="22" selection-end-line="2339" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-03-17-sanya.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="307">
+            <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="248">
-            <caret line="128" column="45" lean-forward="false" selection-start-line="128" selection-start-column="45" selection-end-line="128" selection-end-column="45" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-03-17-sanya-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
