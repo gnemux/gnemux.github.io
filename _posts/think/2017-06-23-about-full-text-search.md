@@ -2,7 +2,7 @@
 layout: post
 title: ABOUT FULL-TEXT SEARCH
 type: 
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/full-text-search.jpg?imageMogr2/thumbnail/!100p
+imagefeature: /images/post_imgs/full-text-search.jpg?imageMogr2/thumbnail/!100p
 categories: think
 description: "关于全文检索"
 comments: true

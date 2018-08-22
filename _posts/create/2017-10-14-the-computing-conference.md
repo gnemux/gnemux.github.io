@@ -2,7 +2,7 @@
 layout: post
 title: THE COMPUTING CONFERENCE
 type: 
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
+imagefeature: /images/post_imgs/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
 categories: create
 description: "人性与科技的交叉点"
 comments: true
@@ -13,20 +13,22 @@ comments: true
 
 ### 我们与阿里一起发布了在萧山测试的城市大脑应用，很高兴能参与其中：
 
+<!--
 <iframe width="100%" height="400px" src="https://player.youku.com/embed/XMzA3ODQzNDQwOA" frameborder="0" allowfullscreen> </iframe>
 
 ----
+-->
 
 <figure>
-   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="/images/post_imgs/tcc2017/photos/IMG_1477.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
 <figure class="half">
-   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1458.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1458.jpg?imageMogr2/thumbnail/!30p"></a>
-   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1459.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1459.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="/images/post_imgs/tcc2017/photos/IMG_1458.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1458.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="/images/post_imgs/tcc2017/photos/IMG_1459.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1459.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
 <figure>
-   <a href="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1554.jpg"><img src="http://7xkj65.com1.z0.glb.clouddn.com/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="/images/post_imgs/tcc2017/photos/IMG_1554.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 

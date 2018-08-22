@@ -2,7 +2,7 @@
 layout: post
 title: THE 10 YEAR REUNION
 type: 
-imagefeature: http://7xkj65.com1.z0.glb.clouddn.com/anji-location.png?imageMogr2/thumbnail/!100p
+imagefeature: /images/post_imgs/anji-location.png?imageMogr2/thumbnail/!100p
 categories: think
 description: "毕业拾年"
 comments: false
@@ -10,7 +10,7 @@ comments: false
 
 转眼本科毕业已经十年，校园的青葱时光仿佛就在昨天。
 
-![anji airbnb](http://7xkj65.com1.z0.glb.clouddn.com/airbnb.jpg)
+![anji airbnb](/images/post_imgs/airbnb.jpg)
 
 人生的奇妙之处在于，无论你活到多么满腹经纶，多么世故老练，其实你也只活了这一趟的人生，况且还不足百年。
 
@@ -21,7 +21,7 @@ comments: false
 这是属于我们这一群生命的仪式，千年以后，没有人甚至会记得我们存在过，但我们仍然用这样的方式在地球的某一个角落重聚，给彼此的生命做一个见证，给彼此一个交待。
 我相信，是这种对彼此微弱的生命的尊重，构成了我们几千年文明的延续力。
 
-![we sit around](http://7xkj65.com1.z0.glb.clouddn.com/sit-around.jpg)
+![we sit around](/images/post_imgs/sit-around.jpg)
 
 在那个院子里的美好夜色里，我们围炉而坐的那一刻，我感受到了那种超脱物质形体之外，对本是偶然的相遇的珍视，对彼此生命价值的认同。
 
