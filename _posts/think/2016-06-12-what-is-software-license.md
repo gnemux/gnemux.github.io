@@ -2,7 +2,7 @@
 layout: post
 title: ABOUT LICENCE WE NEED TO KNOW
 type: 
-imagefeature: /images/post_imgs/gerwinski-gnu-head.png?imageMogr2/thumbnail/!30p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/gerwinski-gnu-head.png?imageMogr2/thumbnail/!30p
 categories: think
 description: "关于许可"
 comments: true
@@ -66,7 +66,7 @@ comments: true
 
 我们可以根据自己软件的应用场景和特别来选择相应的许可证类型. 网上流转得最广的一幅用于帮助你选择软件许可的图来自乌克兰程序员Paul Bagwell, 后经[阮一峰](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)翻译如下
 
-![how-to-choose-fsl](/images/post_imgs/how-to-choose-fsl.png)
+![how-to-choose-fsl](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/how-to-choose-fsl.png)
 
 有点晕? Github也提供了一个[专门的业面](http://choosealicense.com/)引导你如何选择一个协议
 

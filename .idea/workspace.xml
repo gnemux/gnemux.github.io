@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="" />
+    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/create/2017-10-14-the-computing-conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2017-10-14-the-computing-conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/create/2018-01-17-design-i-love.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2018-01-17-design-i-love.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-04-12-yinxu.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-04-12-yinxu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2018-03-17-sanya-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2018-03-17-sanya-2018.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" afterDir="false" />
+    </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,51 +62,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="disqus_comments.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2895">
-              <caret line="193" column="22" selection-start-line="193" selection-start-column="22" selection-end-line="193" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-08-18-10-year-college-reunion.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md">
+      <file leaf-file-name="2013-06-12-lion.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-06-12-what-is-software-license.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md">
+      <file leaf-file-name="2012-10-01-wooden-horse.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1020">
-                <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="81" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,8 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>相必</find>
-      <find>专门</find>
       <find>paginati</find>
       <find>jekyll-paginate</find>
       <find>http://xumeng.me</find>
@@ -120,12 +127,15 @@
       <find>forth</find>
       <find>j</find>
       <find>10</find>
+      <find>/images/post_imgs/</find>
+      <find>picture</find>
     </findStrings>
     <replaceStrings>
       <replace>https://xumeng.me</replace>
       <replace>https://fonts</replace>
       <replace>https://player</replace>
       <replace>type:</replace>
+      <replace>https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -143,7 +153,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md" />
-        <option value="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" />
@@ -193,6 +202,7 @@
         <option value="$PROJECT_DIR$/resume_cn.html" />
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" />
       </list>
     </option>
   </component>
@@ -299,7 +309,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,26 +322,12 @@
             <path>
               <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="_inprogress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="think" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -647,6 +645,8 @@
       <workItem from="1529645095357" duration="1328000" />
       <workItem from="1534830399031" duration="4160000" />
       <workItem from="1534943236736" duration="449000" />
+      <workItem from="1535014200952" duration="1351000" />
+      <workItem from="1535250241686" duration="953000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -995,7 +995,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="331168000" />
+    <option name="totallyTimeSpent" value="333565000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1017,53 +1017,53 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.514652" side_tool="true" weight="0.14592275" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.24664225" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.12083333" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="1.0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22100122" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22588523" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.47802198" weight="0.25643778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Statistic" order="0" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.47802198" weight="0.25643778" />
       <window_info anchor="bottom" id="Application Servers" order="10" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="6" />
       <window_info id="Designer" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.12124463" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.21306472" />
       <window_info id="Structure" order="1" weight="0.24969475" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3297414" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.12124463" />
       <window_info anchor="bottom" id="Statistic" order="0" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.47802198" weight="0.2567132" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.490232" visible="true" weight="0.19635193" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.509768" side_tool="true" weight="0.22844827" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.509768" side_tool="true" weight="0.22844827" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.24724603" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
@@ -1113,26 +1113,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/default_bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1203,21 +1183,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-04-a-long-trip.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -1488,6 +1458,43 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="240">
             <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-04-a-long-trip.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
           </first_editor>
           <second_editor />
         </state>

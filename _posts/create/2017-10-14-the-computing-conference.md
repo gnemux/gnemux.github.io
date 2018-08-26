@@ -2,7 +2,7 @@
 layout: post
 title: THE COMPUTING CONFERENCE
 type: 
-imagefeature: /images/post_imgs/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
 categories: create
 description: "人性与科技的交叉点"
 comments: true
@@ -20,15 +20,15 @@ comments: true
 -->
 
 <figure>
-   <a href="/images/post_imgs/tcc2017/photos/IMG_1477.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
 <figure class="half">
-   <a href="/images/post_imgs/tcc2017/photos/IMG_1458.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1458.jpg?imageMogr2/thumbnail/!30p"></a>
-   <a href="/images/post_imgs/tcc2017/photos/IMG_1459.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1459.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1458.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1458.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1459.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1459.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 
 <figure>
-   <a href="/images/post_imgs/tcc2017/photos/IMG_1554.jpg"><img src="/images/post_imgs/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1554.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
 </figure>
 

@@ -2,7 +2,7 @@
 layout: post
 title: THE 23rd ITS WORLD CONGRESS
 type: 
-imagefeature: /images/post_imgs/australia2016/photos/its-wc-logo.jpg
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-logo.jpg
 categories: create
 description: "世界正在专注中前行"
 comments: true
@@ -16,7 +16,7 @@ comments: true
 然而，今年的议题已经在技术的应用上更进了一步，讨论的内容已经不仅仅在新技术本身，已经延伸到了“立法”、“行政”与“和谐化”等层面，为未来技术推广铺好道路。 
 
 <figure>
-	<a href="/images/post_imgs/australia2016/photos/its-wc-01.JPG"><img src="/images/post_imgs/australia2016/photos/its-wc-01.JPG"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-01.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-01.JPG"></a>
 </figure>
 
 ### 关于差异的思考
@@ -38,7 +38,7 @@ comments: true
 当然除了差异，杭州其实又与墨尔本有不少相同之处，其中很重要的一点就是作为东部较发达的城市，相比于其他内陆区域我们拥有更开放的行政部门、更完善的基础设施，从而带来对新技术推广的更多的机遇。“城市大脑”概念的推广就是一个鲜明的例子。身处这样的一个大环境，我们面临着巨大的挑战，同时也拥有巨大的机遇。我们应该在吸纳国际先进技术与思路的同时充分考虑到环境差异，更有选择地进行技术引进与创新。 
 
 <figure>
-	<a href="/images/post_imgs/australia2016/photos/its-wc-02.JPG"><img src="/images/post_imgs/australia2016/photos/its-wc-02.JPG"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-02.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-02.JPG"></a>
 </figure>
 
 ### 关于实用的思考
@@ -50,12 +50,12 @@ comments: true
 从展厅的各国参展商中可以看出，那些引领着技术发展的都是那些业界甚至百年的大企业，或是那些专注于某个领域的公司。可以看出，任何一个领域的发展，除了创新同样需要积累与专注。大到一个企业，小到一个方向的研发团队，专注于特定领域的研发与精进是在该领域取得卓越成绩的坚实基础。 
 
 <figure>
-	<a href="/images/post_imgs/australia2016/photos/its-wc-03.JPG"><img src="/images/post_imgs/australia2016/photos/its-wc-03.JPG"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-03.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-03.JPG"></a>
 </figure>
 
 
 <figure>
-	<a href="/images/post_imgs/australia2016/photos/its-wc-badge.JPG"><img src="/images/post_imgs/australia2016/photos/its-wc-badge.JPG"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-badge.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-badge.JPG"></a>
 </figure>
 
 

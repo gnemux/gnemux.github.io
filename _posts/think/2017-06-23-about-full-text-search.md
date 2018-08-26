@@ -2,7 +2,7 @@
 layout: post
 title: ABOUT FULL-TEXT SEARCH
 type: 
-imagefeature: /images/post_imgs/full-text-search.jpg?imageMogr2/thumbnail/!100p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/full-text-search.jpg?imageMogr2/thumbnail/!100p
 categories: think
 description: "关于全文检索"
 comments: true
