@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2016-10-12-the-23rd-its-world-congress.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/create/2017-10-14-the-computing-conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2017-10-14-the-computing-conference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/create/2018-01-17-design-i-love.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2018-01-17-design-i-love.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2013-06-12-lion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2016-09-16-bali-2016.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2016-10-10-australia-2016.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-04-12-yinxu.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-04-12-yinxu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-09-03-japan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2018-03-17-sanya-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2018-03-17-sanya-2018.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/explore/2018-09-23-qots-japan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2018-09-23-qots-japan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2015-11-19-movie-to-me.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2016-02-22-tv-series-following.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,12 +37,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2018-09-23-qots-japan.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-10-01-hanghui-hiking.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-10-01-hanghui-hiking.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="213">
+                <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-09-23-qots-japan.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/explore/2018-09-23-qots-japan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="113" selection-start-line="5" selection-start-column="113" selection-end-line="5" selection-end-column="113" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/pageminimal.html" />
         <option value="$PROJECT_DIR$/_posts/create/2016-10-12-23rd-its-conference.md" />
         <option value="$PROJECT_DIR$/_posts/create/2016-10-12-23rd-its-world-congress.md" />
         <option value="$PROJECT_DIR$/_posts/_inprogress/activated-life-routine.md.inprogress" />
@@ -193,6 +178,7 @@
         <option value="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" />
         <option value="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-09-23-qots-japan.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2018-10-01-hanghui-hiking.md" />
       </list>
     </option>
   </component>
@@ -651,7 +637,7 @@
       <workItem from="1535250241686" duration="3435000" />
       <workItem from="1535936776237" duration="2901000" />
       <workItem from="1538267786939" duration="2719000" />
-      <workItem from="1538535405922" duration="2545000" />
+      <workItem from="1538535405922" duration="7359000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -1000,7 +986,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="344239000" />
+    <option name="totallyTimeSpent" value="349053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1166,9 +1152,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/share.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1332,16 +1315,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
@@ -1581,11 +1554,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2012-10-01-wooden-horse.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/explore/2018-09-23-qots-japan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="113" selection-start-line="5" selection-start-column="113" selection-end-line="5" selection-end-column="113" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-10-01-hanghui-hiking.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="213">
+            <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

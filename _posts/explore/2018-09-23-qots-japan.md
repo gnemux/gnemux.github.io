@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Quantum Of The Seas 2018
+title:  QUANTUM OF THE SEAS 2018
 type: photo
 categories: explore
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qots2018/IMG_0354.jpg?x-oss-process=image/resize,p_80
