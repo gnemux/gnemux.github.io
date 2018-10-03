@@ -33,7 +33,7 @@ comments: false
 ### 到达
 
 由于徽行古道是一条自西向东由皖入浙的直路，意味着如果单程穿越则没办法回到入口取车，感谢XX愿意提供驱车服务，帮我们一行4人送到了安徽绩溪的入口然后自己开回临安，这样我们才能安心走完后面的路。
-于是适逢长假，交通拥堵如约出现，好在我们合理选择高速与国道交替的路线，躲过大部分拥堵，14:00左右到达安徽绩```绩溪```，在一处农家乐吃完午餐后，我们径直到达了入口。背上行囊，展开登山杖，与XX道完别，我们就开始上路了。
+于是适逢长假，交通拥堵如约出现，好在我们合理选择高速与国道交替的路线，躲过大部分拥堵，14:00左右到达安徽绩```绩溪```，在一处农家乐吃完午餐后，我们径直到达了入口。背上行囊，展开登山杖，与XX道完别，我们就开始上路了
 少了古代徽商外出谋生的心路，我们的步履自然轻盈不少，一路上风和日丽，心旷神怡
 
 ### 徒步
@@ -43,7 +43,7 @@ comments: false
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0971.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0971.JPG"></a>
 </figure>
 
-路途一开始会相对陡峭，背负帐篷和补给的我们还是能感受到一些吃力，一但过了被称为```徽杭鎖鑰```的“江南第一关”后，道路便变得平坦得多，想来这是一条经商人用脚走出来的路，自然多会选择好走的山脊或峡谷，少有高低起伏，要不然不符合实用的目标。
+路途一开始会相对陡峭，背负帐篷和补给的我们还是能感受到一些吃力，一但过了被称为```徽杭鎖鑰```的“江南第一关”后，道路便变得平坦得多，想来这是一条经商人用脚走出来的路，自然多会选择好走的山脊或峡谷，少有高低起伏，要不然不符合实用的初衷
 
 <figure>
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0833.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0833.jpg"></a>
@@ -60,7 +60,7 @@ comments: false
 
 ### 露营
 
-此时的蓝天凹已经完全没有蓝天，有的是星星点点的营地灯在帐篷中摇曳。气温也降到了10度以下，穿着短袖短裤的我，赶紧安营扎寨，弄一点热乎的吃。
+此时的蓝天凹已经完全没有蓝天，有的是星星点点的营地灯在帐篷中摇曳。气温也降到了10度以下，穿着短袖短裤的我，赶紧安营扎寨，弄一点热乎的吃
 
 <figure>
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0989.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0989.JPG"></a>
@@ -71,7 +71,6 @@ comments: false
 </figure>
 
 等夜幕已经完全披上繁星，我们已经进完补给钻进睡袋开始畅谈人生。
-
 年过30的我们，真的需要这样一场在途中的交谈，正如当年行脚的商人，需要在这样的秋凉中话话远处的家常
 
 <figure class="half">
@@ -101,8 +100,8 @@ comments: false
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0957.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0957.jpg"></a>
 </figure>
 
-> 在叁拾岁的人生阶段，真的很感谢还有你们，能一起来一场说走就走的Hiking，身体和心灵都需要走在路上
-
 <figure>
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0986.JPG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0986.JPG"></a>
 </figure>
+
+> 在叁拾岁的人生阶段，真的很感谢还有你们，能一起来一场说走就走的Hiking，身体和心灵都需要走在路上
