@@ -1,8 +1,8 @@
 ---
 layout: post
 title: DESIGN I LOVE
-type: 
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/vitruvian-man.jpg?imageMogr2/thumbnail/!60p
+type: photo
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/vitruvian-man.jpg?x-oss-process=image/resize,p_60
 categories: create
 description: "Weniger, aber besser"
 comments: true
@@ -20,13 +20,13 @@ comments: true
 ### 深泽直人、原研哉 与 MUJI
 
 <figure class="half">
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/naoto-fukasawa.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/naoto-fukasawa.jpg?imageMogr2/thumbnail/!60p"></a>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-cd-player.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-cd-player.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/naoto-fukasawa.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/naoto-fukasawa.jpg?x-oss-process=image/resize,p_60"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-cd-player.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-cd-player.jpg?x-oss-process=image/resize,p_30"></a>
 </figure>
 
 <figure class="half">
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/kenya-hara.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/kenya-hara.jpg?imageMogr2/thumbnail/!80p"></a>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-design.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-design.jpg?imageMogr2/thumbnail/!80p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/kenya-hara.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/kenya-hara.jpg?x-oss-process=image/resize,p_80"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-design.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/muji-design.jpg?x-oss-process=image/resize,p_80"></a>
 </figure>
 
 治疗选择综合症的一个有效的办法，就是反品牌化，把所有东西做成好用及原生态并且不保留任何商标，显然MUJI这样的选择最终被证明是正确的。
@@ -38,8 +38,8 @@ comments: true
 ### Dieter Rams 与 Braun
 
 <figure class="half">
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/dieter-rams.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/dieter-rams.jpg?imageMogr2/thumbnail/!90p"></a>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/braun-design.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/braun-design.jpg?imageMogr2/thumbnail/!60p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/dieter-rams.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/dieter-rams.jpg?x-oss-process=image/resize,p_90"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/braun-design.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/braun-design.jpg?x-oss-process=image/resize,p_60"></a>
 </figure>
 
 "Weniger, aber besser"（少，但是更好）是 Dieter Rams 的核心设计理念，虽然 Braun 在后续产品中感觉很少能看到来自他的德系的功能主义设计，但在我了解早于我出生的年代的那些早期的产品时，感受到了那种克制而简约所带来的愉悦
@@ -51,8 +51,8 @@ comments: true
 ### Jonathan Ive 与 Apple
 
 <figure class="half">
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/jony-ive.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/jony-ive.jpg?imageMogr2/thumbnail/!60p"></a>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/apple-design.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/apple-design.jpeg?imageMogr2/thumbnail/!60p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/jony-ive.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/jony-ive.jpg?x-oss-process=image/resize,p_60"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/apple-design.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/apple-design.jpeg?x-oss-process=image/resize,p_60"></a>
 </figure>
 
 我买的第一个苹果产品，是 iPod Shuffle 第2代，从其整体切割的铝制机身开始认识这个品牌，一直到拥有为数众多的 Apple 产品，到了解它背后的设计师与其秉持的理念。

@@ -2,10 +2,10 @@
 layout: post
 title: "ACTIVATED LIFE ROUTINE"
 description: "住到江边的新生活状态"
-type: 
+type: photo
 category: relax
 modified: 2017-04-05
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photoswentao-sakura-lane2.jpg?imageMogr2/thumbnail/!100p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photoswentao-sakura-lane2.jpg?x-oss-process=image/resize,p_100
 comments: false
 share: true
 ---
@@ -23,7 +23,7 @@ share: true
 因为你知道，虽然你不认识这个人，但你可以确信的是现在的他并没有在为了任何物质的利益与任何人勾心斗角，他跟你一样自发地选择了与自己内心的战斗，而像这样愿意卸下外在的防御与自己的内心肉搏的灵魂一般都不会是劣质的灵魂，我愿与之在精神上为伍。
 
 <figure>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photoswentao-sakura-lane2.jpg?imageMogr2/thumbnail/!100p"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photoswentao-sakura-lane2.jpg?imageMogr2/thumbnail/!100p"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photoswentao-sakura-lane2.jpg?x-oss-process=image/resize,p_100"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photoswentao-sakura-lane2.jpg?x-oss-process=image/resize,p_100"></a>
 	<center>注:照片来自网络</center>
 </figure>
 
@@ -36,9 +36,9 @@ share: true
 虽然我走不了太远，但在这几个小时里，我愿意卸下防备，想象自己是一个修行在路上的行脚僧，接受自己，拥抱这个世界。
 
 <figure class="third">
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5727.PNG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5727.PNG?imageMogr2/thumbnail/!80p"></a>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_6055.PNG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_6055.PNG?imageMogr2/thumbnail/!80p"></a>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5855.PNG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5855.PNG?imageMogr2/thumbnail/!80p"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5727.PNG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5727.PNG?x-oss-process=image/resize,p_80"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_6055.PNG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_6055.PNG?x-oss-process=image/resize,p_80"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5855.PNG"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5855.PNG?x-oss-process=image/resize,p_80"></a>
 </figure>
 
 
@@ -48,12 +48,12 @@ share: true
 上个周末，我们买了顶小帐篷，我真的好开心看着她光着小脚走在草地上开心地笑着。她是我生命中的天使，希望她能拥有更多这样美好的春光。
 
 <figure class="half">
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%203.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%203.jpg?imageMogr2/thumbnail/!80p"></a>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%202.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%202.jpg?imageMogr2/thumbnail/!80p"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%203.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%203.jpg?x-oss-process=image/resize,p_80"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%202.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosFullSizeRender%202.jpg?x-oss-process=image/resize,p_80"></a>
 </figure>
 
 <figure>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5190.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5190.jpg?imageMogr2/thumbnail/!80p"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5190.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/newlife2017/photosIMG_5190.jpg?x-oss-process=image/resize,p_80"></a>
 </figure>
 
 > “谨以此文，纪念生活中令人欣喜的改变”

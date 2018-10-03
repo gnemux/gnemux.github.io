@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ABOUT LICENCE WE NEED TO KNOW
-type: 
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/gerwinski-gnu-head.png?imageMogr2/thumbnail/!30p
+type: photo
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/gerwinski-gnu-head.png?x-oss-process=image/resize,p_30
 categories: think
 description: "关于许可"
 comments: true

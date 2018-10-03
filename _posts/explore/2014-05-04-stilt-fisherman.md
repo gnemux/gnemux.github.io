@@ -2,9 +2,9 @@
 layout: post
 title:  STILT FISHERMAN
 categories: explore
-type: 
+type: photo
 comments: true
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Stilt%20Fishermen@SriLanka-2014-05-04?imageMogr2/thumbnail/!30p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Stilt%20Fishermen@SriLanka-2014-05-04?x-oss-process=image/resize,p_30
 ---
 
 ![Stilt Fishermen@SriLanka-2014-05-04](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Stilt%20Fishermen@SriLanka-2014-05-04)

@@ -2,9 +2,9 @@
 layout: post
 title:  WOODENHORSE
 categories: explore
-type: 
+type: photo
 comments: true
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/WoodenHorse@WestLake-2012-10-01?imageMogr2/thumbnail/!30p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/WoodenHorse@WestLake-2012-10-01?x-oss-process=image/resize,p_30
 ---
 
 ![WoodenHorse@WestLake-2012-10-01](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/WoodenHorse@WestLake-2012-10-01)

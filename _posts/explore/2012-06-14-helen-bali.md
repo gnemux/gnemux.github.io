@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  HELEN BALI 2012
-type: 
+type: photo
 categories: explore
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Helen@Bali-2012-06-14?imageMogr2/thumbnail/!30p
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Helen@Bali-2012-06-14?x-oss-process=image/resize,p_30
 date: 2012-06-14
 comments: true
 ---

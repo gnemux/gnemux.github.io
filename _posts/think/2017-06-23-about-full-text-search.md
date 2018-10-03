@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ABOUT FULL-TEXT SEARCH
-type: 
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/full-text-search.jpg?imageMogr2/thumbnail/!100p
+type: photo
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/full-text-search.jpg?x-oss-process=image/resize,p_100
 categories: think
 description: "关于全文检索"
 comments: true

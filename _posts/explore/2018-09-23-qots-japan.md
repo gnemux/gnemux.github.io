@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Quantum Of The Seas 2018
-type: 
+type: photo
 categories: explore
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qots2018/IMG_0391.jpg
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qots2018/IMG_0354.jpg?x-oss-process=image/resize,p_80
 date: 2018-09-23
 description: "第一次漂去他乡"
 comments: false

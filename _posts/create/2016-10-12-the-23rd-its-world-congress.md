@@ -1,7 +1,7 @@
 ---
 layout: post
 title: THE 23rd ITS WORLD CONGRESS
-type: 
+type: photo
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/australia2016/photos/its-wc-logo.jpg
 categories: create
 description: "世界正在专注中前行"

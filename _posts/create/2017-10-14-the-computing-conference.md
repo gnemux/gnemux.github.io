@@ -1,8 +1,8 @@
 ---
 layout: post
 title: THE COMPUTING CONFERENCE
-type: 
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p
+type: photo
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?x-oss-process=image/resize,p_30
 categories: create
 description: "人性与科技的交叉点"
 comments: true
@@ -20,15 +20,15 @@ comments: true
 -->
 
 <figure>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?x-oss-process=image/resize,p_30"></a>
 </figure>
 
 <figure class="half">
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1458.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1458.jpg?imageMogr2/thumbnail/!30p"></a>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1459.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1459.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1458.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1458.jpg?x-oss-process=image/resize,p_30"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1459.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1459.jpg?x-oss-process=image/resize,p_30"></a>
 </figure>
 
 <figure>
-   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1554.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1554.jpg?imageMogr2/thumbnail/!30p"></a>
+   <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1554.jpg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1554.jpg?x-oss-process=image/resize,p_30"></a>
 </figure>
 

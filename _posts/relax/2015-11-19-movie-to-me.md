@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MOVIE TO ME
-type: 
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Starwar-storm-soldier.jpeg?imageMogr2/thumbnail/!90p
+type: photo
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Starwar-storm-soldier.jpeg?x-oss-process=image/resize,p_90
 comments: false
 description: "现实生活中的兔子洞"
 tags: [movie]
@@ -11,7 +11,7 @@ categories: relax
 
 
 <figure>
-	<a href="https://xumeng.me/relax/movie-to-me"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/my2017/photos/movie-to-me.jpg?imageMogr2/thumbnail/!40p"></a>
+	<a href="https://xumeng.me/relax/movie-to-me"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/my2017/photos/movie-to-me.jpg?x-oss-process=image/resize,p_40"></a>
 </figure>
 
 > 我眼中的好电影，是一个个动人的好故事
