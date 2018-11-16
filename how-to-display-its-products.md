@@ -35,7 +35,7 @@ title: 如何演示ITS产品
     + 将开发者工具最小化，并自适应屏占比
     
     <figure>
-          <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step05.png">
+          <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step05.png">
     </figure>
         
     <figure>

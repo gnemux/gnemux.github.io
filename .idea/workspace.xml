@@ -41,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="645">
-                <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <first_editor relative-caret-position="555">
+                <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -613,7 +613,7 @@
       <workItem from="1539068216686" duration="15000" />
       <workItem from="1541481077401" duration="1028000" />
       <workItem from="1541492122781" duration="1039000" />
-      <workItem from="1542357591448" duration="253000" />
+      <workItem from="1542357591448" duration="357000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -962,7 +962,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352095000" />
+    <option name="totallyTimeSpent" value="352199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1547,8 +1547,8 @@
     <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="645">
-            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <first_editor relative-caret-position="555">
+            <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
