@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2018-10-01-huihang-hiking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2018-10-01-huihang-hiking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to-display-its-products.md" beforeDir="false" afterPath="$PROJECT_DIR$/how-to-display-its-products.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,13 +37,13 @@
     <favorites_list name="gnemux.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-10-01-huihang-hiking.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-10-01-huihang-hiking.md">
+    <leaf>
+      <file leaf-file-name="how-to-display-its-products.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="237">
-                <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="729">
+                <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,7 +132,6 @@
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/how-to-display-its-products.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/scripts.html" />
@@ -163,11 +162,12 @@
         <option value="$PROJECT_DIR$/_posts/relax/2017-04-05-activated-life-routine.md" />
         <option value="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" />
         <option value="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md" />
-        <option value="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" />
         <option value="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-09-23-qots-japan.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-10-01-hanghui-hiking.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-10-01-huihang-hiking.md" />
+        <option value="$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md" />
+        <option value="$PROJECT_DIR$/how-to-display-its-products.md" />
       </list>
     </option>
   </component>
@@ -274,8 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -284,27 +282,12 @@
               <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="create" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -627,7 +610,11 @@
       <workItem from="1535936776237" duration="2901000" />
       <workItem from="1538267786939" duration="2719000" />
       <workItem from="1538535405922" duration="7939000" />
-      <workItem from="1538547788073" duration="15000" />
+      <workItem from="1538547788073" duration="127000" />
+      <workItem from="1539068216686" duration="15000" />
+      <workItem from="1541481077401" duration="1028000" />
+      <workItem from="1541492122781" duration="1039000" />
+      <workItem from="1542357591448" duration="112000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -976,7 +963,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349648000" />
+    <option name="totallyTimeSpent" value="351954000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1001,10 +988,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.2451613" />
       <window_info anchor="bottom" id="Run" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" weight="0.15053764" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17887668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18620269" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="UI Designer" order="2" />
@@ -1142,13 +1129,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/browser-upgrade.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="80" selection-start-column="80" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/_inprogress/2018-03-17-sanya.md.inprogress" />
     <entry file="file://$PROJECT_DIR$/_posts/explore/2018-03-17-sanya.md" />
     <entry file="file://$PROJECT_DIR$/resume.html">
@@ -1444,16 +1424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-search.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1560,6 +1530,26 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="237">
             <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/think/2018-08-18-10-year-college-reunion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="729">
+            <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>

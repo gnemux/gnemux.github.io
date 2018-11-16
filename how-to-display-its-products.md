@@ -39,29 +39,29 @@ title: 如何演示ITS产品
     + 在更多工具中开启“开发者工具”
     
     <figure>
-      <img src="http://7xkj65.com1.z0.glb.clouddn.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step01.png">
+      <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step01.png">
     </figure>
     
     + 开始设备模拟功能
     
     <figure>
-          <img src="http://7xkj65.com1.z0.glb.clouddn.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step02.png">
+          <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step02.png">
         </figure>
     
     + 新增1080P分辨率预设
     
     <figure>
-          <img src="http://7xkj65.com1.z0.glb.clouddn.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step03.png">
+          <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step03.png">
     </figure>
     
     + 将开发者工具最小化，并自适应屏占比
     
     <figure>
-          <img src="http://7xkj65.com1.z0.glb.clouddn.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step05.png">
+          <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step05.png">
     </figure>
         
     <figure>
-          <img src="http://7xkj65.com1.z0.glb.clouddn.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step06.png">
+          <img src="http://xumeng-me.oss-cn-hangzhou.aliyuncs.com/%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E6%8B%9F-step06.png">
     </figure>
 
 + 相关[【数字字体↓】](https://pan.baidu.com/s/1i6HT1Pz)下载，双击安装
