@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/how-to-display-its-products.md" beforeDir="false" afterPath="$PROJECT_DIR$/how-to-display-its-products.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
@@ -42,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="729">
-                <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+              <first_editor relative-caret-position="645">
+                <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -614,7 +613,7 @@
       <workItem from="1539068216686" duration="15000" />
       <workItem from="1541481077401" duration="1028000" />
       <workItem from="1541492122781" duration="1039000" />
-      <workItem from="1542357591448" duration="112000" />
+      <workItem from="1542357591448" duration="253000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -963,7 +962,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="351954000" />
+    <option name="totallyTimeSpent" value="352095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -988,10 +987,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.2451613" />
       <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" weight="0.15053764" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18620269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18620269" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="UI Designer" order="2" />
@@ -1548,8 +1547,8 @@
     <entry file="file://$PROJECT_DIR$/how-to-display-its-products.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="729">
-            <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+          <first_editor relative-caret-position="645">
+            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           </first_editor>
           <second_editor />
         </state>
