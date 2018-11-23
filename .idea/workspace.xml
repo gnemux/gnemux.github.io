@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/relax/2018-11-16-the-100th-movie.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/relax/2018-11-16-the-100th-movie.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/relax/2018-11-16-the-100th-movie.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -667,7 +667,7 @@
       <workItem from="1541481077401" duration="1028000" />
       <workItem from="1541492122781" duration="1039000" />
       <workItem from="1542357591448" duration="693000" />
-      <workItem from="1542972761395" duration="1830000" />
+      <workItem from="1542972761395" duration="2058000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -1016,7 +1016,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354365000" />
+    <option name="totallyTimeSpent" value="354593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1041,10 +1041,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.2451613" />
       <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18803419" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18803419" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="UI Designer" order="2" />
@@ -1610,8 +1610,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/relax/2018-11-16-the-100th-movie.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
