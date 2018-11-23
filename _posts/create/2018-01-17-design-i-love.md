@@ -2,7 +2,7 @@
 layout: post
 title: DESIGN I LOVE
 type: photo
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/vitruvian-man.jpg?x-oss-process=image/resize,p_60
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/design-i-love/photos/vitruvian-man.jpg?x-oss-process=image/resize,p_50
 categories: create
 description: "Weniger, aber besser"
 comments: true

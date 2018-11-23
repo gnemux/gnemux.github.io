@@ -2,7 +2,7 @@
 layout: post
 title: A BETTER TRAFFIC DATA VISUALIZATION
 type: photo
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/ticc2_interface.png?x-oss-process=image/resize,p_30
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/ticc2_interface.png?x-oss-process=image/resize,p_20
 categories: create
 description: "更美好才更有效"
 comments: false

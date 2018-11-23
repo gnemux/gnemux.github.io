@@ -2,7 +2,7 @@
 layout: post
 title: TRAFFIC DATA
 type: photo
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/T-Data-Map?x-oss-process=image/resize,p_100
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/T-Data-Map?x-oss-process=image/resize,p_20
 categories: create
 description: "交通与数据可视化"
 comments: true

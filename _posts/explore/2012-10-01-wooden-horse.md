@@ -4,7 +4,7 @@ title:  WOODENHORSE
 categories: explore
 type: photo
 comments: true
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/WoodenHorse@WestLake-2012-10-01?x-oss-process=image/resize,p_30
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/WoodenHorse@WestLake-2012-10-01?x-oss-process=image/resize,p_13
 ---
 
 ![WoodenHorse@WestLake-2012-10-01](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/WoodenHorse@WestLake-2012-10-01)

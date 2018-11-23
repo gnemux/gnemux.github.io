@@ -2,7 +2,7 @@
 layout: post
 title: THE 10 YEAR REUNION
 type: photo
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/anji-location.png?x-oss-process=image/resize,p_100
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/anji-location.png?x-oss-process=image/resize,p_90
 categories: think
 description: "毕业拾年"
 comments: false

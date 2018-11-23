@@ -2,7 +2,7 @@
 layout: post
 title: THE COMPUTING CONFERENCE
 type: photo
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?x-oss-process=image/resize,p_30
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/tcc2017/photos/IMG_1477.jpg?x-oss-process=image/resize,p_16
 categories: create
 description: "人性与科技的交叉点"
 comments: true
