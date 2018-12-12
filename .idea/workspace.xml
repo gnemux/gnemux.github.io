@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
+      <change afterPath="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,12 +38,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-12-05-my-2017.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-12-05-my-2017.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="559">
-                <caret line="94" column="118" selection-start-line="94" selection-start-column="118" selection-end-line="94" selection-end-column="118" />
+              <first_editor relative-caret-position="79">
+                <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-12-my-2018.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="118" selection-start-line="5" selection-start-column="118" selection-end-line="5" selection-end-column="118" />
               </first_editor>
               <second_editor />
             </state>
@@ -117,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/_inprogress/activated-life-routine.md.inprogress" />
         <option value="$PROJECT_DIR$/meng-xu.md" />
         <option value="$PROJECT_DIR$/test/test_page.md" />
         <option value="$PROJECT_DIR$/_posts/think/2017-06-23-about-full-text-query.md" />
@@ -168,6 +179,7 @@
         <option value="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" />
       </list>
     </option>
   </component>
@@ -281,6 +293,17 @@
               <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnemux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnemux.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="explore" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -330,19 +353,19 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/explore" />
-      <recent name="$PROJECT_DIR$/_posts/create" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/_posts/think" />
-      <recent name="$PROJECT_DIR$/test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/test" />
       <recent name="$PROJECT_DIR$/_posts/love" />
       <recent name="$PROJECT_DIR$/_posts/think" />
       <recent name="$PROJECT_DIR$/_posts/_inprogress" />
       <recent name="$PROJECT_DIR$/_posts/_photo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/explore" />
+      <recent name="$PROJECT_DIR$/_posts/create" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/_posts/think" />
+      <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -616,7 +639,7 @@
       <workItem from="1541492122781" duration="1039000" />
       <workItem from="1542357591448" duration="693000" />
       <workItem from="1542972761395" duration="3728000" />
-      <workItem from="1544595306928" duration="74000" />
+      <workItem from="1544595306928" duration="3342000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -965,7 +988,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356337000" />
+    <option name="totallyTimeSpent" value="359605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1131,7 +1154,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-03-17-sanya.md" />
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
@@ -1559,8 +1581,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="559">
-            <caret line="94" column="118" selection-start-line="94" selection-start-column="118" selection-end-line="94" selection-end-column="118" />
+          <first_editor relative-caret-position="79">
+            <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="118" selection-start-line="5" selection-start-column="118" selection-end-line="5" selection-end-column="118" />
           </first_editor>
           <second_editor />
         </state>
