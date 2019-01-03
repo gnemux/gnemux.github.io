@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
-      <change afterPath="$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,24 +37,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2018-12-31-huangshan-hiking.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-12-31-huangshan-hiking.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="482">
-                <caret line="59" column="171" selection-start-line="59" selection-start-column="171" selection-end-line="59" selection-end-column="171" />
+              <first_editor relative-caret-position="405">
+                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-10-01-huihang-hiking.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-10-01-huihang-hiking.md">
+      <file leaf-file-name="2018-12-12-my-2018.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="126">
-                <caret line="40" selection-start-line="40" selection-end-line="43" selection-end-column="9" />
+              <first_editor relative-caret-position="236">
+                <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -178,8 +177,8 @@
         <option value="$PROJECT_DIR$/_posts/explore/2012-10-01-ginkgo.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2012-06-14-helen-bali.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" />
-        <option value="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" />
       </list>
     </option>
   </component>
@@ -640,7 +639,7 @@
       <workItem from="1542357591448" duration="693000" />
       <workItem from="1542972761395" duration="3728000" />
       <workItem from="1544595306928" duration="3802000" />
-      <workItem from="1546405958553" duration="5119000" />
+      <workItem from="1546405958553" duration="5541000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -989,7 +988,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365184000" />
+    <option name="totallyTimeSpent" value="365606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1562,16 +1561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-56">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1595,8 +1584,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="482">
-            <caret line="59" column="171" selection-start-line="59" selection-start-column="171" selection-end-line="59" selection-end-column="171" />
+          <first_editor relative-caret-position="405">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="236">
+            <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
