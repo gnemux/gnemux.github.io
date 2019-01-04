@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
-      <change beforePath="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,24 +38,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2018-12-31-huangshan-hiking.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md">
+      <file leaf-file-name="2014-05-04-stilt-fisherman.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="405">
-                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-12-my-2018.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
+      <file leaf-file-name="2014-05-03-sigiriya.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" selection-start-line="9" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-05-02-elephant.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="70" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-05-02-sunset.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="236">
-                <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="142" />
               </first_editor>
               <second_editor />
             </state>
@@ -168,7 +193,6 @@
         <option value="$PROJECT_DIR$/_posts/think/2016-06-12-what-is-software-license.md" />
         <option value="$PROJECT_DIR$/_posts/create/2016-06-07-better-traffic-data-visualization.md" />
         <option value="$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md" />
-        <option value="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md" />
@@ -179,6 +203,7 @@
         <option value="$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md" />
         <option value="$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md" />
+        <option value="$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md" />
       </list>
     </option>
   </component>
@@ -285,7 +310,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,8 +333,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -639,7 +664,8 @@
       <workItem from="1542357591448" duration="693000" />
       <workItem from="1542972761395" duration="3728000" />
       <workItem from="1544595306928" duration="3802000" />
-      <workItem from="1546405958553" duration="5541000" />
+      <workItem from="1546405958553" duration="5798000" />
+      <workItem from="1546563094373" duration="398000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -988,7 +1014,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365606000" />
+    <option name="totallyTimeSpent" value="366261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1013,10 +1039,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.2451613" />
       <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.485348" visible="true" weight="0.15053764" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1916972" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="UI Designer" order="2" />
@@ -1038,14 +1064,14 @@
       <window_info anchor="right" id="Palette" order="6" />
       <window_info id="Designer" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.12124463" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.21306472" />
       <window_info id="Structure" order="1" weight="0.24969475" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3297414" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48412699" weight="0.12124463" />
+      <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Statistic" order="0" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.47802198" weight="0.2567132" />
@@ -1056,7 +1082,7 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.509768" side_tool="true" weight="0.22844827" />
-      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.24724603" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1471,36 +1497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="121" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="121" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="121" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="121" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="130" selection-start-line="6" selection-start-column="130" selection-end-line="6" selection-end-column="130" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/create/2015-06-16-traffic-data.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1551,16 +1547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/explore/2017-12-05-my-2017.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1581,6 +1567,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-31-huangshan-hiking.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1591,11 +1587,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/explore/2018-12-12-my-2018.md">
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-02-sunset.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="236">
-            <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="142" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-02-elephant.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-03-sigiriya.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/explore/2014-05-04-stilt-fisherman.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
