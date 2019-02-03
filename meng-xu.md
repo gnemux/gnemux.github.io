@@ -8,7 +8,7 @@ image:
 ---
 <figure>
   <img src="https://avatars2.githubusercontent.com/u/4099577?v=3&amp;s=200" alt="Gnemux">
-  <figcaption>Practical Idealism</figcaption>
+  <figcaption>Practical Idealist</figcaption>
 </figure>
 
 <br>
