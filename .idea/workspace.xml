@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix" />
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,20 +33,7 @@
     <favorites_list name="gnemux.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/explore/2019-03-16-damingshan-hiking.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="380">
-                <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -567,7 +552,7 @@
       <workItem from="1544595306928" duration="3802000" />
       <workItem from="1546405958553" duration="5798000" />
       <workItem from="1546563094373" duration="398000" />
-      <workItem from="1552867764615" duration="5715000" />
+      <workItem from="1552867764615" duration="6921000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -916,7 +901,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371976000" />
+    <option name="totallyTimeSpent" value="373182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -929,7 +914,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
@@ -1511,8 +1495,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/explore/2019-03-16-damingshan-hiking.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="380">
-            <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <first_editor relative-caret-position="440">
+            <caret line="72" column="6" lean-forward="true" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
