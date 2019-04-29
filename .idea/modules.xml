@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gnemux.github.io.iml" filepath="$PROJECT_DIR$/.idea/gnemux.github.io.iml" />
       <module fileurl="file://$PROJECT_DIR$/gnemux.github.io.iml" filepath="$PROJECT_DIR$/gnemux.github.io.iml" />
     </modules>
   </component>
