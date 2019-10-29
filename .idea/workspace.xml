@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19268cef-4219-4501-a800-0096445e1d97" name="Default" comment="typo fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/create/2019-07-03-baidu-ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/create/2019-07-03-baidu-ai.md" afterDir="false" />
     </list>
     <ignored path="gnemux.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,20 +35,7 @@
     <favorites_list name="gnemux.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/create/2019-07-03-baidu-ai.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="615">
-                <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -264,45 +250,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="gnemux.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="gnemux" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="gnemux" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="gnemux" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="gnemux" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="gnemux.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="gnemux" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="create" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -612,7 +562,9 @@
       <workItem from="1559286442574" duration="9000" />
       <workItem from="1562302419843" duration="2884000" />
       <workItem from="1562545134183" duration="1435000" />
-      <workItem from="1562547329608" duration="29000" />
+      <workItem from="1562547329608" duration="204000" />
+      <workItem from="1562829253941" duration="18000" />
+      <workItem from="1563864609136" duration="48000" />
     </task>
     <task id="LOCAL-00095" summary="add post &quot;A BETTER TRAFFIC DATA VISUALIZATION&quot;">
       <created>1465288050987</created>
@@ -961,7 +913,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="379215000" />
+    <option name="totallyTimeSpent" value="379456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -974,9 +926,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21611722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22100122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1568,8 +1519,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/create/2019-07-03-baidu-ai.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="615">
-            <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="92" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
           </first_editor>
           <second_editor />
         </state>
