@@ -3,7 +3,7 @@ layout: post
 title: MT.DAMING HIKING
 type: photo
 categories: explore
-imagefeature: http://xumeng-me.oss-cn-hangzhou.aliyuncs.com/damingshan2019/daming-header.jpg?x-oss-process=image/resize,p_50
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/damingshan2019/daming-header.jpg?x-oss-process=image/resize,p_50
 date: 2019-03-20
 description: "溪涧岂能留得住，终归大海作波涛"
 comments: false
