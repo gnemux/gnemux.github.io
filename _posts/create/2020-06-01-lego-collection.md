@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego Collections
+title: Lego Collection
 type: photo
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/boost.jpeg
 categories: create
@@ -17,7 +17,8 @@ comments: false
 
 |                                                              |          |                                                              |
 | :----------------------------------------------------------- | :------: | :----------------------------------------------------------: |
-| [Classic 10715](https://www.lego.com/en-gb/product/bricks-on-a-roll-10715) | 442 pcs  | ![10715](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10580_alt1.jpeg) |
+| [Duplo 10580](https://www.lego.com/en-us/product/lego-duplo-deluxe-box-of-fun-10580) |  95 pcs  | ![10715](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10580_alt1.jpeg) |
+| [Classic 10715](https://www.lego.com/en-gb/product/bricks-on-a-roll-10715) | 442 pcs  | ![10715](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10715_alt1.jpeg) |
 | [Classic 10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) | 790 pcs  | ![10698](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10698_alt1.jpeg) |
 | [Classic 10717](https://www.lego.com/en-us/product/bricks-bricks-bricks-10717) | 1500 pcs | ![10717](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10717.jpeg) |
 | [Idea 21309](https://www.lego.com/en-us/product/lego-nasa-apollo-saturn-v-21309) | 1969 pcs | ![21309](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21309_alt1.jpeg) |
