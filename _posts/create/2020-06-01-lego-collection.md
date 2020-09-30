@@ -23,6 +23,7 @@ comments: false
 | [Classic 10717](https://www.lego.com/en-us/product/bricks-bricks-bricks-10717) | 1500 pcs | ![10717](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10717.jpeg) |
 | [Idea 21309](https://www.lego.com/en-us/product/lego-nasa-apollo-saturn-v-21309) | 1969 pcs | ![21309](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21309_alt1.jpeg) |
 | [Boost 17101](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101) |  847pcs  | ![17101](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/17101_alt1.jpeg) |
+| [ISS 21321](https://www.lego.com/en-us/product/international-space-station-21321) |  864pcs  | ![21321](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21321_alt1.jpg) |
 
 
 
