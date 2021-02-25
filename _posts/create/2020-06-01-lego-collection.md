@@ -2,7 +2,7 @@
 layout: post
 title: Lego Collection
 type: photo
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/boost.jpeg
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21322_alt2.png
 categories: create
 description: "乐高越来越多,找个地方整理"
 comments: false
@@ -24,6 +24,7 @@ comments: false
 | [Idea 21309](https://www.lego.com/en-us/product/lego-nasa-apollo-saturn-v-21309) | 1969 pcs | ![21309](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21309_alt1.jpeg) |
 | [Boost 17101](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101) |  847pcs  | ![17101](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/17101_alt1.jpeg) |
 | [ISS 21321](https://www.lego.com/en-us/product/international-space-station-21321) |  864pcs  | ![21321](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21321_alt1.jpg) |
+| [Idea 21322](https://www.lego.com/en-us/product/pirates-of-barracuda-bay-21322) |  2545pcs  | ![21322](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21322_alt1.jpg) |
 
 
 
