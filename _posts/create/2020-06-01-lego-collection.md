@@ -25,6 +25,8 @@ comments: false
 | [Boost 17101](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101) |  847pcs  | ![17101](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/17101_alt1.jpeg) |
 | [ISS 21321](https://www.lego.com/en-us/product/international-space-station-21321) |  864pcs  | ![21321](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21321_alt1.jpg) |
 | [Idea 21322](https://www.lego.com/en-us/product/pirates-of-barracuda-bay-21322) |  2545pcs  | ![21322](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21322_alt1.jpeg) |
+| [Idea 21319](https://www.lego.com/en-us/product/central-perk-21319) |  1070pcs  | ![21319](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21319_alt1.jpeg) |
+| [Idea 92177](https://www.lego.com/en-us/product/ship-in-a-bottle-92177) |  962pcs  | ![92177](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/92177_alt1.jpeg) |
 
 
 
