@@ -27,8 +27,10 @@ comments: false
 | [Idea 21322](https://www.lego.com/en-us/product/pirates-of-barracuda-bay-21322) |  2545pcs  | ![21322](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21322_alt1.jpeg) |
 | [Idea 21319](https://www.lego.com/en-us/product/central-perk-21319) |  1070pcs  | ![21319](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21319_alt1.jpeg) |
 | [Idea 92177](https://www.lego.com/en-us/product/ship-in-a-bottle-92177) |  962pcs  | ![92177](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/92177_alt1.jpeg) |
+| [Idea 21318](https://www.lego.com/en-us/product/tree-house-21318) |  3036pcs  | ![21318](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21318_alt1.jpeg) |
+| [Idea 21325](https://www.lego.com/en-us/product/medieval-blacksmith-21325) |  2164pcs  | ![21325](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21325_alt1.jpeg) |
+| [Idea 71043](https://www.lego.com/en-us/product/hogwarts-castle-71043) |  6020pcs  | ![71043](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/71043_alt1.jpeg) |
 
-21318 treehouse to be continue..
 
 ----
 
