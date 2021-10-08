@@ -52,6 +52,10 @@ comments: false
 </figure>
 
 <figure>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/taizijian2021/IMB_FB7lgw.GIF"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/taizijian2021/IMB_FB7lgw.GIF"></a>
+</figure>
+
+<figure>
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/taizijian2021/IMG_4542.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/taizijian2021/IMG_4542.jpeg"></a>
 </figure>
 
