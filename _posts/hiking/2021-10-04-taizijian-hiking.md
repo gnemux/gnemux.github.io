@@ -2,7 +2,7 @@
 layout: post
 title: MT.TAIZIJIAN HIKING
 type: photo
-categories: explore
+categories: hiking
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/taizijian2021/IMG_2583.jpeg
 date: 2021-10-04
 description: "海拔1557"

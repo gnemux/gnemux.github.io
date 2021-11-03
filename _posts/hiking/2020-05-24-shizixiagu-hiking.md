@@ -2,7 +2,7 @@
 layout: post
 title: CANYON HIKING
 type: photo
-categories: explore
+categories: hiking
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/canyon2020/IMG_6253.jpeg
 date: 2020-05-24
 description: "桐庐凤川十字峡谷"

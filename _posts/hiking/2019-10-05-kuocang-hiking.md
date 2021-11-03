@@ -2,7 +2,7 @@
 layout: post
 title: MT.KUOCANG HIKING
 type: photo
-categories: explore
+categories: hiking
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/kuocang2019/IMG_2406.jpeg
 date: 2019-10-05
 description: "括苍山"

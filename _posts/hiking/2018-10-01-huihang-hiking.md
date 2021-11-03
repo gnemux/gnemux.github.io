@@ -2,7 +2,7 @@
 layout: post
 title:  HUIHANG ANCIENT ROAD HIKING
 type: photo
-categories: explore
+categories: hiking
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huihang2018/IMG_0822.jpg?x-oss-process=image/resize,p_50
 date: 2018-09-23
 description: "徽杭鎖鑰 徑通江浙"

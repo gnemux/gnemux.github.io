@@ -2,7 +2,7 @@
 layout: post
 title:  NEW YEAR'S EVE MT.HUANGSHAN
 type: photo
-categories: explore
+categories: hiking
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/huangshan2019/IMG_1917.jpg?x-oss-process=image/resize,p_50
 date: 2018-12-31
 description: "仙人炼玉处，羽化留馀踪"

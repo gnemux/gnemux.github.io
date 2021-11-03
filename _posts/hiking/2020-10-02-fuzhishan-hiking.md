@@ -2,7 +2,7 @@
 layout: post
 title: MT.FUZHI HIKING
 type: photo
-categories: explore
+categories: hiking
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/fuzhishan2020/007.jpeg
 date: 2020-10-02
 description: "登此山饮酒赋诗，饮罢覆卮"
