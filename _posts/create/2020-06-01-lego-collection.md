@@ -31,8 +31,10 @@ comments: false
 | [Idea 21325](https://www.lego.com/en-us/product/medieval-blacksmith-21325) |  2164pcs  | ![21325](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21325_alt1.jpeg?x-oss-process=image/resize,p_70) |
 | [Idea 71043](https://www.lego.com/en-us/product/hogwarts-castle-71043) |  6020pcs  | ![71043](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/71043_alt1.jpeg?x-oss-process=image/resize,p_90) |
 | [Idea 10279](https://www.lego.com/en-us/product/volkswagen-t2-camper-van-10279) |  2207pcs  | ![10279](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10279_alt1.jpeg?x-oss-process=image/resize,p_70) |
-| [Idea 21327](https://www.lego.com/en-us/product/typewriter-21327) |  2079  | ![21327](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21327_alt1.jpeg?x-oss-process=image/resize,p_70) |
+| [Idea 21327](https://www.lego.com/en-us/product/typewriter-21327) |  2079pcs  | ![21327](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21327_alt1.jpeg?x-oss-process=image/resize,p_70) |
 
+
+- 目前一共有 32586 pcs
 
 ----
 
