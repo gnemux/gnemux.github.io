@@ -30,6 +30,8 @@ comments: false
 | [Idea 21318](https://www.lego.com/en-us/product/tree-house-21318) |  3036pcs  | ![21318](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21318_alt1.jpeg) |
 | [Idea 21325](https://www.lego.com/en-us/product/medieval-blacksmith-21325) |  2164pcs  | ![21325](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21325_alt1.jpeg) |
 | [Idea 71043](https://www.lego.com/en-us/product/hogwarts-castle-71043) |  6020pcs  | ![71043](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/71043_alt1.jpeg) |
+| [Idea 10279](https://www.lego.com/en-us/product/volkswagen-t2-camper-van-10279) |  2207pcs  | ![10279](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10279_alt1.jpeg) |
+| [Idea 21327](https://www.lego.com/en-us/product/typewriter-21327) |  2079  | ![21327](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21327_alt1.jpeg) |
 
 
 ----
@@ -37,8 +39,10 @@ comments: false
 ### 未来打算选购的方向
 
 
-
-- NASA 相关主题
+- NASA Theme
+- Star War Theme
+- Marvel Theme
+- DC Theme
+- Disney Theme
 - Mindstorms EV3
-- 城堡系列
-- Disney系列
+- MiniFigures
