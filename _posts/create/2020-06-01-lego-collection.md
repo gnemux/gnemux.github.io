@@ -11,13 +11,13 @@ comments: false
 
 
 
-给女儿...和我，买的乐高越来越多，起个地方整理记录一下
+给女儿...好吧，和我，买的乐高越来越多，起个地方整理记录一下
 
 
 
 |                                                              |          |                                                              |
 | :----------------------------------------------------------- | :------: | :----------------------------------------------------------: |
-| [#10580](https://www.lego.com/en-us/product/brick-box-10913) |  65 pcs  | ![10580](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10913_alt1.jpeg) |
+| [#10580](https://www.lego.com/en-us/product/brick-box-10580) |  65 pcs  | ![10580](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10913_alt1.jpeg) |
 | [#10913](https://www.lego.com/en-us/product/lego-duplo-deluxe-box-of-fun-10580) |  95 pcs  | ![10913](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10580_alt1.jpeg) |
 | [#10715](https://www.lego.com/en-gb/product/bricks-on-a-roll-10715) | 442 pcs  | ![10715](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10715_alt1.jpeg) |
 | [#10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) | 790 pcs  | ![10698](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10698_alt1.jpeg) |
@@ -39,7 +39,7 @@ comments: false
 | [#71031](https://www.lego.com/en-us/product/lego-minifigures-marvel-studios-71031) |  12figs  | ![71031](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/71031_alt1.jpeg) |
 
 
-- 目前一共有 34485 pcs
+- 目前一共有 28459 pcs
 
 ----
 
