@@ -37,9 +37,12 @@ comments: false
 | [#75317](https://www.lego.com/en-us/product/the-mandalorian-the-child-75317) |  295pcs  | ![75317](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/75317_alt1.jpeg) |
 | [#21327](https://www.lego.com/en-us/product/typewriter-21327) |  2079pcs  | ![21327](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21327_alt1.jpeg?x-oss-process=image/resize,p_70) |
 | [#71031](https://www.lego.com/en-us/product/lego-minifigures-marvel-studios-71031) |  12figs  | ![71031](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/71031_alt1.jpeg) |
+| [#21332](https://www.lego.com/en-us/product/lego-minifigures-marvel-studios-71031) |  2585pcs  | ![31332](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21332_alt1.png) |
+| [#12080](https://www.lego.com/en-us/product/lego-minifigures-marvel-studios-71031) |  756pcs  | ![12080](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10280_alt1.jpeg) |
 
 
-- 目前一共有 28459 pcs
+
+- 目前一共有 31800 pcs
 
 ----
 
