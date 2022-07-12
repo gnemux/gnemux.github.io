@@ -39,10 +39,11 @@ comments: false
 | [#71031](https://www.lego.com/en-us/product/lego-minifigures-marvel-studios-71031) |  12figs  | ![71031](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/71031_alt1.jpeg) |
 | [#21332](https://www.lego.com/en-us/product/the-globe-21332) |  2585pcs  | ![31332](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21332_alt1.png) |
 | [#12080](https://www.lego.com/en-us/product/flower-bouquet-10280) |  756pcs  | ![12080](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10280_alt1.jpeg) |
+| [#21058](https://www.lego.com/en-us/product/great-pyramid-of-giza-21058) |  1476pcs  | ![21058](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21058_alt1.png) |
 
 
 
-- 目前一共有 31800 pcs
+- 目前一共有 33276 pcs
 
 ----
 
