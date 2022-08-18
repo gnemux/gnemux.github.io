@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego Collection
+title: LEGO COLLECTION
 type: photo
 imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21322_alt2.png
 categories: create
@@ -40,6 +40,7 @@ comments: false
 | [#21332](https://www.lego.com/en-us/product/the-globe-21332) |  2585pcs  | ![31332](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21332_alt1.png) |
 | [#12080](https://www.lego.com/en-us/product/flower-bouquet-10280) |  756pcs  | ![12080](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10280_alt1.jpeg) |
 | [#21058](https://www.lego.com/en-us/product/great-pyramid-of-giza-21058) |  1476pcs  | ![21058](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21058_alt1.png?x-oss-process=image/resize,p_70) |
+| [#75308](https://www.lego.com/en-us/product/r2-d2-75308) |  2314pcs  | ![75308](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/75308_alt1.png) |
 
 
 
