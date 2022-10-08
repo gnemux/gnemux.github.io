@@ -57,16 +57,15 @@ comments: false
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E5%A4%95%E9%98%B3-GIF.gif"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E5%A4%95%E9%98%B3-GIF.gif"></a>
 </figure>
 
-<figure>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E5%A4%95%E9%98%B3.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E5%A4%95%E9%98%B3.jpeg"></a>
-</figure>
-
 ### 露营
 
 一起出行多次的我们，已经不再有刚开始户外时的狼狈，多了更多惬意，甚至可以在睡前小酌一杯。
 
 <figure class="half">
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E6%98%9F%E7%A9%BA.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E6%98%9F%E7%A9%BA.jpeg"></a>
+</figure>
+
+<figure class="half">
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E5%81%9A%E9%A5%AD-GIF.gif"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/qianniugang2022/%E5%81%9A%E9%A5%AD-GIF.gif"></a>
 </figure>
 
