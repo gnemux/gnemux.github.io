@@ -41,10 +41,11 @@ comments: false
 | [#12080](https://www.lego.com/en-us/product/flower-bouquet-10280) |  756pcs  | ![12080](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/10280_alt1.jpeg) |
 | [#21058](https://www.lego.com/en-us/product/great-pyramid-of-giza-21058) |  1476pcs  | ![21058](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21058_alt1.png?x-oss-process=image/resize,p_70) |
 | [#75308](https://www.lego.com/en-us/product/r2-d2-75308) |  2314pcs  | ![75308](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/75308_alt1.png) |
+| [#76161](https://www.lego.com/en-us/product/1989-batwing-76161) |  2363pcs  | ![76161](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/76161_alt1.png) |
 
 
 
-- 目前一共有 35590 pcs
+- 目前一共有 37953 pcs
 
 ----
 
