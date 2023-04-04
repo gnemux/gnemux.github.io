@@ -3,7 +3,7 @@ layout: post
 title:  The Way Out
 type: photo
 categories: explore
-imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Maple.jpg
+imagefeature: https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/Maple.jpg
 date: 2023-03-09
 description: "记录通往枫叶国之路"
 comments: false
@@ -145,11 +145,11 @@ WHOLE TIMELINE
 
 
 <figure class="half">
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Ready-for-Visa.png">
-		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Ready-for-Visa.png">
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/Ready-for-Visa.png">
+		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/Ready-for-Visa.png">
 	</a>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/COPR.jpeg">
-		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/COPR.jpeg">
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/COPR.jpeg">
+		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/COPR.jpeg">
 	</a>
 </figure>
 
@@ -171,8 +171,8 @@ WHOLE TIMELINE
 总之，最终还是要感谢上天和我们自己的努力，感谢所有付出能有所收获。
 
 <figure>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Lake-Louise.jpg">
-		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Lake-Louise.jpg">
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/Lake-Louise.jpg">
+		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/wayout2023/Lake-Louise.jpg">
 	</a>
 </figure>
 
