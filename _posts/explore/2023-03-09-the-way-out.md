@@ -125,12 +125,13 @@ comments: false
 WHOLE TIMELINE
 
 - FSW-O
-- ITA - 12nd Oct, 2022
-- AOR - 2nd Nov, 2022
+- ITA - 12 Oct, 2022
+- AOR - 2 Nov, 2022
 - MEP/BIL - 21st Feb, 2023
-- ADR - 22nd Feb, 2023 (Notarized Police Certificate from CHN)
+- ADR - 22 Feb, 2023 (Notarized Police Certificate from CHN)
 - GU - 8 Mar, 2023
 - RFV/PPR - 9 Mar, 2023
+- COPR - 2 April, 2023
 
 ```
 所有这些材料2022年11月2日都已经提交完成，状态为AOR，这时的我们只知道按IRCC官方的服务标准，希望80%的申请从 AOR 开始到 PPR 结束能在6个月内，然而打开官方进行当下的审核时间统计，发现最多可以到31个月。
@@ -140,12 +141,15 @@ WHOLE TIMELINE
 这意味着3个多月的等待可能白费了，正在我准备接受现实重新再申请一次的时候，第二天又收到了一封邮件说是移民局在进一步评估后决定又给我们重新打开了，让我们重新上传一次公证过的无犯罪证明即可。于是把额头上的汗擦去后，继续进入了漫长的等待。
 
 
-其间又让我我们补充了另外的一些资料，直3月8日的时候，GCKEY中出现了一次 Ghost Update， 我隐约中觉得可能会有结论了，果不其然在3月9日的深夜我们收到了那封 Golden Email，审核终于通过了。
+其间又让我我们补充了另外的一些资料，直3月8日的时候，GCKEY中出现了一次 Ghost Update， 我隐约中觉得可能会有结论了，果不其然在3月9日的深夜我们收到了那封 Golden Email，审核终于通过了。在4月2日，收到了传说中的黄色大信封(结果现在变成粉红色的了)，里面装着 COPR Letter 和已经完成贴签的护照 。
 
 
-<figure>
+<figure class="half">
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Ready-for-Visa.png">
 		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/Ready-for-Visa.png">
+	</a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/COPR.jpeg">
+		<img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/COPR.jpeg">
 	</a>
 </figure>
 
