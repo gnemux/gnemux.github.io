@@ -127,7 +127,7 @@ WHOLE TIMELINE
 - FSW-O
 - ITA - 12 Oct, 2022
 - AOR - 2 Nov, 2022
-- MEP/BIL - 21st Feb, 2023
+- MEP/BIL - 21 Feb, 2023
 - ADR - 22 Feb, 2023 (Notarized Police Certificate from CHN)
 - GU - 8 Mar, 2023
 - RFV/PPR - 9 Mar, 2023
