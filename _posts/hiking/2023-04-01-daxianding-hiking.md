@@ -36,10 +36,10 @@ comments: false
 
 从滨江出发，两辆车来到临安东天目古道的入口，在到达之前，我们可以说完全不知道这将会是怎样的一次攀登。却最终意外地收获了一场跟以往的旅程完全不一样的禅意之旅。
 
-<figure>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/%E5%AF%BA%E5%BA%99.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/%E5%AF%BA%E5%BA%99.jpeg"></a>
-</figure>
 
+<figure>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/fly-over.GIF"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/fly-over.GIF"></a>
+</figure>
 
 
 ### 攀登
@@ -82,7 +82,7 @@ comments: false
 日出，登顶，下山，返程，收获酸胀的小腿。
 
 <figure>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/fly-over.GIF"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/fly-over.GIF"></a>
+	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/%E6%97%A5%E5%87%BA1.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/daxianding2023/%E6%97%A5%E5%87%BA1.jpeg"></a>
 </figure>
 
 
