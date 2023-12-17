@@ -42,10 +42,10 @@ comments: false
 | [#21058](https://www.lego.com/en-us/product/great-pyramid-of-giza-21058) |  1476pcs  | ![21058](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/21058_alt1.png?x-oss-process=image/resize,p_70) |
 | [#75308](https://www.lego.com/en-us/product/r2-d2-75308) |  2314pcs  | ![75308](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/75308_alt1.png) |
 | [#76161](https://www.lego.com/en-us/product/1989-batwing-76161) |  2363pcs  | ![76161](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/76161_alt1.png) |
+| [#76210](https://www.lego.com/en-us/product/hulkbuster-76210) |  4049pcs  | ![76161](https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/lego2020/76210_alt1.jpeg) |
 
 
-
-- 目前一共有 37953 pcs
+- 目前一共有 42002 pcs
 
 ----
 
