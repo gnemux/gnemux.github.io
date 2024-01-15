@@ -63,9 +63,8 @@ comments: false
 展开帐篷后，看天色还早，我们打算开始环湖徒步，这次就把重装留在营地，轻装上路。出发前问了营地的一位大爷，大爷说2小时就能走完一圈。结果5小时后我们摸黑回到营地。我谢谢大爷。当然跟我们自己走错了路又有很大的关系。
 
 
-<figure class="half">
+<figure>
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/maicaiao2024/%E6%94%80%E7%99%BB1.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/maicaiao2024/%E6%94%80%E7%99%BB1.jpeg"></a>
-	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/maicaiao2024/%E6%94%80%E7%99%BB2.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/maicaiao2024/%E6%94%80%E7%99%BB2.jpeg"></a>
 </figure>
 
 这一路从白天走到黑夜的行程还是充满了各种回忆点，从因为错过正确的路口走到水库边的峭壁绝路又不得不无奈返回，再到遇到两位跟我们一样走错路的朋友的救助，再到教授飞丢一架无人机，再到五人在山路的灌木丛中寻找出路..
@@ -98,7 +97,7 @@ comments: false
 
 ### 回程
 
-从谷地的树林里醒来，没有日出，温度还没有开始升高，于是又升了团火，把早饭加热一下，收拾行囊准备走出山谷。
+第二天一早，由于从谷地的树林里醒来，无法看日出了，温度还没有开始升高，于是又升了团火，把早饭加热一下，收拾行囊准备走出山谷。
 
 <figure class="half">
 	<a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/maicaiao2024/%E6%97%A9%E9%A5%AD1.jpeg"><img src="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/maicaiao2024/%E6%97%A9%E9%A5%AD1.jpeg"></a>
