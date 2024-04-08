@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-source "http://mirrors.tuna.tsinghua.edu.cn/rubygems/"
+source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
