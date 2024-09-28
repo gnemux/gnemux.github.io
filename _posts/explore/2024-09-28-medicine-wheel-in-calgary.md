@@ -45,9 +45,15 @@ comments: false
 
 根据 [Wikipedia](https://en.m.wikipedia.org/wiki/Medicine_wheel) 的描述：
 
-> Physical medicine wheels made of stone have been constructed by a number of different [Indigenous cultures in North America](https://en.m.wikipedia.org/wiki/Indigenous_peoples_of_North_America), notably many of the [Plains nations](https://en.m.wikipedia.org/wiki/Plains_Indians). The structures are associated with [Native American](https://en.m.wikipedia.org/wiki/Native_Americans_in_the_United_States) and [Indigenous Canadian](https://en.m.wikipedia.org/wiki/Indigenous_peoples_in_Canada) [religious](https://en.m.wikipedia.org/wiki/Native_American_religions) ceremonies.
+> Physical medicine wheels made of stone have been constructed by a number of different
+> [Indigenous cultures in North America](https://en.m.wikipedia.org/wiki/Indigenous_peoples_of_North_America),
+> notably many of the [Plains nations](https://en.m.wikipedia.org/wiki/Plains_Indians).
+> The structures are associated with [Native American](https://en.m.wikipedia.org/wiki/Native_Americans_in_the_United_States)
+> and [Indigenous Canadian](https://en.m.wikipedia.org/wiki/Indigenous_peoples_in_Canada) [religious](https://en.m.wikipedia.org/wiki/Native_American_religions) ceremonies.
 
-> 药轮主要是由北美平原印地安先民建造起来的，主要用途与(萨满)宗教仪式有关，经常发现于美国北部与加拿大南部，尤其在南达科他州、怀俄明州、蒙大拿州、阿尔伯塔省以及萨斯喀彻温省。根据皇家阿尔伯塔博物馆记载，“Medicine Wheel” 一词首先是用来指叫怀俄明州的一个叫 Big Horn Medicine Wheel 的发现。名字里的 “Medicine” 也并非一定是与疗愈相关的意思，只是表明那是一个神圣、宗教性的具有精神意义的地方。
+> 药轮主要是由北美平原印地安先民建造起来的，主要用途与(萨满)宗教仪式有关，经常发现于美国北部与加拿大南部，
+> 尤其在南达科他州、怀俄明州、蒙大拿州、阿尔伯塔省以及萨斯喀彻温省。根据皇家阿尔伯塔博物馆记载，“Medicine Wheel” 一词首先是用来
+> 指叫怀俄明州的一个叫 Big Horn Medicine Wheel 的发现。名字里的 “Medicine” 也并非一定是与疗愈相关的意思，只是表明那是一个神圣、宗教性的具有精神意义的地方。
 
 <figure>
     <a href="https://xumeng-me.oss-cn-hangzhou.aliyuncs.com/medicine-wheels2024/Bighorn_medicine_wheel.jpg">
